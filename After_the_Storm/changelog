@@ -1,0 +1,29 @@
+===========================
+AFTER THE STORM - CHANGELOG
+===========================
+
+Version 0.3.2:
+--------------
+* Graphics:
+  * New or updated unit graphics: Shaxthal War Drone, Shaxthal Enforcer Drone,
+    Sylvan Warden, Chaos Warlord
+* Scenarios:
+  * 08 - Fear:
+    * New scenario.
+
+
+Version 0.3.1:
+--------------
+* Scenarios:
+  * 01 - The Skirmish:
+    * Silenced some spurious variable engine warnings.
+  * 05 - Bay of Tirigaz:
+    * Fixed a loophole with the treasure spawns.
+    * Fixed warnings about image file extensions with animated fountains.
+
+
+Version 0.3.0:
+--------------
+* Way too many changes to list.
+
+; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
