@@ -1,0 +1,5232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2011-02-21 15:33+0100\n"
+"PO-Revision-Date: 2011-02-21 15:33+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: la\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:37
+msgid "After the Storm I: Fear"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:38
+msgid ""
+"After the Emperor of Chaos was defeated, the free civilizations of the Great "
+"Continent hoped that his followers would abandon the ongoing war. Meanwhile, "
+"Galas’ band heads back to the northern lands to request aid for their next "
+"journey."
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:40
+msgid "(Intermediate level, 7 scenarios of 12[?] completed.)"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:41
+msgid "Version"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:41
+msgid "(requires Wesnoth 1.9.2 or later)"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#. [endlevel]
+#: After_the_Storm/_main.cfg:43 After_the_Storm/macros/scenario-utils.cfg:235
+msgid "To be continued..."
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:45
+msgid "AtS-1"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "difficulty_menu^Banebow"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "difficulty_menu^Wraith"
+msgstr ""
+
+#. [campaign]: id=After_the_Storm_I
+#: After_the_Storm/_main.cfg:48
+msgid "difficulty_menu^Skeleton"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:13
+msgid "Creator and Lead Designer"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:22
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:31
+msgid "Non-maintainer Uploads"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:38
+msgid "Graphics"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:81
+msgid "Music"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:89
+msgid "SVN services, maintenance toolkit and primary hosting"
+msgstr ""
+
+#. [entry]
+#: After_the_Storm/about.cfg:91
+msgid "Coordinated Wesnoth UMC Development Project"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:98
+msgid "IRC Bots"
+msgstr ""
+
+#. [about]
+#: After_the_Storm/about.cfg:108
+msgid "Additional thanks to"
+msgstr ""
+
+#. [entry]
+#: After_the_Storm/about.cfg:131
+msgid "You, for playing this campaign"
+msgstr ""
+
+#. [entry]
+#: After_the_Storm/about.cfg:134
+msgid "Anyone else I could forget to mention"
+msgstr ""
+
+#: After_the_Storm/base-rc.cfg:41
+msgid "Cyan"
+msgstr ""
+
+#: After_the_Storm/base-rc.cfg:42
+msgid "Yellow"
+msgstr ""
+
+#: After_the_Storm/base-rc.cfg:43
+msgid "Pink"
+msgstr ""
+
+#. [editor_group]: id=wesnoth-UMC-After_the_Storm
+#: After_the_Storm/editor-loader.cfg:16
+msgid "After the Storm (custom terrains)"
+msgstr ""
+
+#: After_the_Storm/macros/abilities.cfg:12
+msgid ""
+"\n"
+"\n"
+"Notes: "
+msgstr ""
+
+#: After_the_Storm/macros/abilities.cfg:17
+msgid ""
+" Vegetated terrains are forest, great tree, farmland and mushroom grove "
+"hexes."
+msgstr ""
+
+#: After_the_Storm/macros/abilities.cfg:20
+msgid "sylvan spark"
+msgstr ""
+
+#: After_the_Storm/macros/abilities.cfg:24
+msgid ""
+"Sylvan Spark:\n"
+"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [dummy]: id=glamour
+#: After_the_Storm/macros/abilities.cfg:33
+msgid "glamour"
+msgstr ""
+
+#. [dummy]: id=glamour
+#: After_the_Storm/macros/abilities.cfg:41
+msgid ""
+"Glamour:\n"
+"All faeries can cast illusions on their enemies (or victims) that can be "
+"used to cloak themselves. However, it is not properly suited for combat, as "
+"it puts the faerie in a weak state and exposes her to physical attack.\n"
+"\n"
+"A faerie may use the enhanced spell of glamour to transform herself "
+"completely into other creature that she knows and has learned about its "
+"anatomy and behavior. The unit that casts the spell during a turn, will not "
+"be able to morph back into its original form or another target until the "
+"next turn at the begin of which the unit has been resting (that is, did not "
+"move or attack during the previous turn). The movement points are set to "
+"half the amount left before casting the spell always. The original unit's "
+"traits and abilities are kept only when applicable. AMLAs (After-Maximum-"
+"Level-Advancements) are always discarded until the units morphs back into "
+"its original form.\n"
+"\n"
+"The metamorphed faerie's maximum health may differ from her normal amoumt, "
+"depending on the target creature kind. This also applies when morphing back "
+"into her original form.\n"
+"\n"
+"The experience points gained in the original form or a metamorphic form are "
+"not related, and the later are always discarded, unlike the original "
+"experience amount, which is stored between changes of state."
+msgstr ""
+
+#. [heals]: id=sylvan_essence_healing_and_curing
+#: After_the_Storm/macros/abilities.cfg:49
+msgid "sylvan essence"
+msgstr ""
+
+#. [heals]: id=sylvan_essence_healing_and_curing
+#: After_the_Storm/macros/abilities.cfg:51
+msgid ""
+"Sylvan Essence:\n"
+"This unit can heal and cure friendly units on adjacent hexes every turn, to "
+"a base maximum of 8 HP. In vegetated terrains, it will conceal itself from "
+"its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
+"only on vegetated terrains."
+msgstr ""
+
+#. [illuminates]: id=obscure
+#: After_the_Storm/macros/abilities.cfg:88
+msgid "obscures"
+msgstr ""
+
+#. [illuminates]: id=obscure
+#: After_the_Storm/macros/abilities.cfg:92
+msgid ""
+"Obscures:\n"
+"This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"day, and as if it were night when it is dusk."
+msgstr ""
+
+#. [print]
+#: After_the_Storm/macros/boss-utils.cfg:8
+msgid "Enemy boss sighted!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:34
+msgid "I... fall to the darkness..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/macros/character-deaths.cfg:38
+msgid "Elynia... NO!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/macros/character-deaths.cfg:44
+msgid "Our mission has failed."
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:55
+msgid "I... am finished... I’ll finally join Anlindë..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/macros/character-deaths.cfg:59
+msgid "No! You must resist!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/macros/character-deaths.cfg:65
+msgid "This... this is a curse!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:76
+msgid "Alas, I can finally depart in peace..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/macros/character-deaths.cfg:80
+msgid "NO! Malin, we need you for this!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:84
+msgid "It’s too late already..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/macros/character-deaths.cfg:90
+msgid "Now we cannot continue without him. Our mission has failed!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:101
+msgid "Ouch. I fall before accomplishing my mission!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/macros/character-deaths.cfg:107
+msgid ""
+"The orcs are now leaderless, and won’t want to help us. We cannot continue "
+"without their help!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:118
+msgid "Alas, it’s the end of the story for me..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/macros/character-deaths.cfg:124
+msgid "We shouldn’t have allowed this to happen."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/macros/character-deaths.cfg:128
+msgid ""
+"Ah, too bad for the girl. But she was indeed one of the best archers I have "
+"seen."
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:139
+msgid "I wish... I could be with you... now... Galas..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/macros/character-deaths.cfg:143
+msgid "No, Elynia! Not you now!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/macros/character-deaths.cfg:149
+msgid ""
+"Now it’s up to me to put an end to this madness... I hope I can manage to do "
+"it alone..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:160
+msgid "I go to join my only true friend... now..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/macros/character-deaths.cfg:166
+msgid "How could I let this happen? NO!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/macros/character-deaths.cfg:177
+msgid "I... fall to the darkness."
+msgstr ""
+
+#: After_the_Storm/macros/character-defines.cfg:9
+msgid "Galas"
+msgstr ""
+
+#. [side]: type=Sylvan Warden, id=Elynia
+#: After_the_Storm/macros/character-defines.cfg:28
+#: After_the_Storm/scenarios/11_The_Queen.cfg:42
+msgid "Elynia"
+msgstr ""
+
+#: After_the_Storm/macros/character-defines.cfg:42
+msgid "Mal Keshar"
+msgstr ""
+
+#: After_the_Storm/macros/character-defines.cfg:56
+#: After_the_Storm/macros/character-defines.cfg:62
+msgid "Kyara"
+msgstr ""
+
+#: After_the_Storm/macros/character-defines.cfg:75
+msgid "Horo"
+msgstr ""
+
+#: After_the_Storm/macros/character-defines.cfg:90
+#: After_the_Storm/macros/character-defines.cfg:107
+msgid "Zynavu-Malal"
+msgstr ""
+
+#. [set_variable]
+#: After_the_Storm/macros/items.cfg:95
+msgid ""
+"Do you want to be healed?\n"
+"\n"
+"This magic glyph will completely restore this unit's health, also unslowing "
+"and removing poison from it, if applicable."
+msgstr ""
+
+#. [set_variable]
+#: After_the_Storm/macros/items.cfg:97 After_the_Storm/macros/items.cfg:109
+msgid "Note: the glyph can do this only once, and when done it will fade out."
+msgstr ""
+
+#. [set_variable]
+#: After_the_Storm/macros/items.cfg:107
+msgid "Do you want to be healed?"
+msgstr ""
+
+#. [object]: id=healing_glyph_at_{_X}_{_Y}
+#. [message]: speaker=narrator
+#: After_the_Storm/macros/items.cfg:115 After_the_Storm/macros/items.cfg:123
+msgid "Crystal Glyph of Health"
+msgstr ""
+
+#. [object]: id=healing_glyph_at_{_X}_{_Y}
+#: After_the_Storm/macros/items.cfg:125
+msgid "The unit is fully healed, cured and unslowed."
+msgstr ""
+
+#. [then]
+#: After_the_Storm/macros/items.cfg:134
+msgid "female^healed"
+msgstr ""
+
+#. [else]
+#: After_the_Storm/macros/items.cfg:137
+msgid "healed"
+msgstr ""
+
+#. [objectives]
+#: After_the_Storm/macros/objective-utils.cfg:6
+msgid "New objectives:"
+msgstr ""
+
+#: After_the_Storm/macros/objective-utils.cfg:45
+msgid "Scenario notes:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/macros/scenario-utils.cfg:199
+msgid "Hard Hat Area"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/macros/scenario-utils.cfg:206
+msgid ""
+"<b>Note:</b>\n"
+"\n"
+"This campaign is still under construction, and you have reached the place-"
+"holder last scenario. A new release may contain the finished scenario, and "
+"you may usually resume play by loading from its start-of-scenario (NOT turn "
+"1!) autosave.\n"
+"\n"
+"All feedback and suggestions on the campaign in its current state may be "
+"posted in the www.wesnoth.org forum thread <i>After the Storm</i> (Scenario "
+"and Campaign dev. forum).\n"
+"\n"
+"-- <i>The author</i>"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/scenario-utils.cfg:221
+msgid "Work in progress!"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/scenario-utils.cfg:227
+msgid ""
+"This campaign is a work in progress, and you have just completed the last "
+"playable scenario. The next scenario is not available in this version, but "
+"you can play it in a future release if you keep this start-of-scenario saved "
+"game. For now, this is the end of the campaign.\n"
+"\n"
+"All feedback is welcome on the <u>forums.wesnoth.org</u> thread <i>After the "
+"Storm</i> in the <i>Scenario and Campaign Development</i> forum.\n"
+"\n"
+"    -- <i>The author</i>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/macros/scenario-utils.cfg:299
+msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/macros/scenario-utils.cfg:318
+msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
+msgstr ""
+
+#. [time]: id=indoors_hive
+#. [illuminated_time]: id=indoors_hive_illum
+#: After_the_Storm/macros/schedules.cfg:14
+#: After_the_Storm/macros/schedules.cfg:24
+msgid "Shaxthal Hive"
+msgstr ""
+
+#. [time]: id=neutral_tod
+#: After_the_Storm/macros/schedules.cfg:32
+msgid "Neutral time of day"
+msgstr ""
+
+#. [time]: id=dawn1
+#: After_the_Storm/macros/schedules.cfg:45
+msgid "First Dawn"
+msgstr ""
+
+#. [time]: id=morning1
+#: After_the_Storm/macros/schedules.cfg:58
+msgid "First Morning"
+msgstr ""
+
+#. [time]: id=midday1
+#: After_the_Storm/macros/schedules.cfg:68
+msgid "First Mid-Day"
+msgstr ""
+
+#. [time]: id=afternoon1
+#: After_the_Storm/macros/schedules.cfg:78
+msgid "First Afternoon"
+msgstr ""
+
+#. [time]: id=dusk1
+#: After_the_Storm/macros/schedules.cfg:88
+msgid "First Dusk"
+msgstr ""
+
+#. [time]: id=short_dark
+#: After_the_Storm/macros/schedules.cfg:101
+msgid "The Short Dark"
+msgstr ""
+
+#. [time]: id=dawn2
+#: After_the_Storm/macros/schedules.cfg:114
+msgid "Second Dawn"
+msgstr ""
+
+#. [time]: id=morning2
+#: After_the_Storm/macros/schedules.cfg:127
+msgid "Second Morning"
+msgstr ""
+
+#. [time]: id=midday2
+#: After_the_Storm/macros/schedules.cfg:137
+msgid "Second Mid-Day"
+msgstr ""
+
+#. [time]: id=afternoon2
+#: After_the_Storm/macros/schedules.cfg:147
+msgid "Second Afternoon"
+msgstr ""
+
+#. [time]: id=dusk2
+#: After_the_Storm/macros/schedules.cfg:157
+msgid "Second Dusk"
+msgstr ""
+
+#. [time]: id=long_dark1
+#: After_the_Storm/macros/schedules.cfg:170
+msgid "The Long Dark - First Watch"
+msgstr ""
+
+#. [time]: id=long_dark2
+#: After_the_Storm/macros/schedules.cfg:183
+msgid "The Long Dark - Second Watch"
+msgstr ""
+
+#. [time]: id=long_dark3
+#: After_the_Storm/macros/schedules.cfg:196
+msgid "The Long Dark - Third Watch"
+msgstr ""
+
+#. [time]: id=long_dark4
+#: After_the_Storm/macros/schedules.cfg:209
+msgid "The Long Dark - Fourth Watch"
+msgstr ""
+
+#: After_the_Storm/macros/special-notes.cfg:5
+msgid ""
+" This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse."
+msgstr ""
+
+#: After_the_Storm/macros/special-notes.cfg:11
+msgid ""
+" This unit's powers are increased by the Sylvan Essence (see this ability's "
+"<ref>dst='ability_sylvan essence' text='full description'</ref> for details)."
+msgstr ""
+
+#: After_the_Storm/macros/special-notes.cfg:14
+msgid ""
+" This unit will regenerate 5 HP per turn in forest or mushroom grove "
+"terrains."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:10
+msgid "Warning!"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:14
+msgid ""
+"Some scenarios of this campaign work in a dramatically different way to that "
+"of Wesnoth’s common gameplay. Therefore, it is especially important to pay "
+"close attention to the mission objectives and to not necessarily try to kill "
+"every single enemy, especially in shrouded maps, or in places where enemies "
+"seem to respawn continuously.\n"
+"\n"
+"Although not strictly a requirement, I recommend for players to have played "
+"or read the storylines behind <i>Descent into Darkness</i>, <i>Under the "
+"Burning Suns</i> and especially <i>Invasion from the Unknown</i>, to be "
+"familiar with some characters and historical events."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:23
+msgid ""
+"It would seem that with the defeat of Zhangor at the hands of Elynia the "
+"Lady of Light and Argan the Master of Darkness, the destruction of "
+"Yechnagoth by the Elves of Quenoth, and the end of the Shadow Master’s "
+"control over the Chaos Empire, peace would return to the world."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:26
+msgid "“I wish that were true."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:29
+msgid ""
+"I am Elynia, former disciple of the high Enchantress Niryone of the Ka’lian "
+"of Wesmere Forest. Others remember me better as the Lady of Light who "
+"defeated the demon-lord Zhangor. The one who fought along with her husband "
+"for so long, to be ultimately forced to kill her own husband."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:32
+msgid ""
+"Although I used to be pure of heart, I fear that the evil I have committed "
+"is consuming my very soul. It is as if I was not myself. I cannot enjoy a "
+"zephyr, or the taste of fresh and clean water. I do not think I could love "
+"again either."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:35
+msgid ""
+"I control powers that nobody else possesses in these times. I bear with me a "
+"weighty charge, one that I sometimes regret. By slaying my beloved, have I "
+"been corrupted by the unholy magic of Uria? Have I come to a dead end? Will "
+"I eventually misuse that power that I carry with me, kill my friends and "
+"demonstrate to the world that I failed in the mission that was assigned to "
+"me eons ago?"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:38
+msgid ""
+"The tides of the sea are now always changing. It is not the peaceful Vast "
+"Sea that I met as a young girl. It is now a hostile sea of Death. I can "
+"sense the hatred and despair that overwhelm all the creatures of this world, "
+"flowing to it."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:41
+msgid ""
+"There is an ongoing war against those who established the new order of "
+"Irdya. But unseen enemies of the ancient world, foes of a forgotten era, "
+"creatures that threaten all life in Irdya, have been unleashed as well, and "
+"they are protected by an unspeakable force."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:44
+msgid ""
+"It is essential that we overcome the dark influence of Uria, the mother of "
+"demons, if we are to repair this ruined world. It is essential that we "
+"understand what our enemies are if we want to fight them."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:53
+msgid ""
+"I had not seen the high, snowy peaks of the Heart Mountains for a long time. "
+"In the last occasion in which I could have the opportunity to enjoy the "
+"view, one of Uria’s foul hechmen was pursuing us and would not let us rest "
+"for a single minute."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:56
+msgid ""
+"That enemy, a powerful sorcerer from the Iron Triad, a group who worships "
+"and follows Uria’s commands, is my highest worry right now. He displayed "
+"great power when we fought him; powers even greater than Malin Keshar’s "
+"arts. Some powers that must have been bestowed upon him by Uria herself."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:59
+msgid ""
+"I suspect that, if he has full control over the Iron Triad, their evil "
+"design could not be thwarted by Argan’s passing. I fear that they have at "
+"least one last move to play in this game. The dark shadow of Chaos has not "
+"faded away as we expected, and I’d dare to say it is becoming even stronger "
+"than before."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:68
+msgid ""
+"We rested for a night and swiftly continued our path to the Far North. As "
+"the human in the town told us, the shortcut was plagued with undead. "
+"However, with Mal Keshar’s arts we could easily overcome them, even more so "
+"now that their lords were gone."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:71
+msgid ""
+"After many days, our trip came to an end and we were back in safe territory, "
+"in the northern humans’ country. Or so it seemed at first."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:80
+msgid ""
+"We abandoned Aragwaith territory as agreed, to never return. It was the "
+"fairest deal for the elves."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:83
+msgid ""
+"The brash behavior of the new elvish leaders has disappointed me; in my "
+"times only the eldest and wisest could rise as leaders of our kind. Their "
+"decisions were taken considering what was the best for us as a civilization; "
+"personal benefit and individual conflicts had no place among the members of "
+"the Ka’lian."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:86
+msgid ""
+"Then again, I had already seen how our civilization slowly began to "
+"deteriorate long ago. The Ka’lian began to be infested by inexperienced "
+"leaders, costly mistakes and hasty choices; including the choice of allying "
+"with Zhangor in anticipation of the Fall of Irdya."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:89
+msgid ""
+"Now I also feel disappointed at myself. I should have guessed that this "
+"would happen and that I’d have to concentrate my efforts in keeping our kin "
+"united under a single banner instead of spending so much time far from them. "
+"Or at least I should have found someone capable of replacing me and mediate "
+"between our lords."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:92
+msgid ""
+"That aside, I’m now certain that our mission in Zocthanol Isle is more "
+"essential than I originally believed."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:97
+msgid ""
+"The members of the Grand Council stated that no one witnessed any elf coming "
+"or leaving Inodien’s tent. However, some people claimed to have heard "
+"strange sounds in the forest after he was found dead.\n"
+"\n"
+"Perhaps we’ll never learn what really happened. Regardless, looking at our "
+"surroundings I sense we are going to find something else of interest very "
+"soon."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:118
+msgid ""
+"True to his word, the orcish lord gave us the fastest transport ship in "
+"possession of his subordinates, provided us with orcish warriors for a crew, "
+"and enough provisions for many months of travel. However, he did not allow "
+"us to hear the news brought by the messenger we saved, and avoided any "
+"inquiries about what prompted the saurian conflict."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:121
+msgid ""
+"With Mal Keshar’s help, I managed to pinpoint the approximate location of "
+"Zocthanol based on a faint, dark presence towards the southwest. We rested "
+"within the walls of Tirigaz and departed early on the next morning."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:124
+msgid ""
+"I never expected to find myself so far from the forests of the Great "
+"Continent, surrounded by an endless body of water inhabited by all sorts of "
+"creatures of shallow and deep water; creatures which somehow did not "
+"interfer with our journey as we initially feared. Maybe they were aware of "
+"the importance of the mission for Irdya and its inhabitants."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:127
+msgid ""
+"The fear of failing to accomplish this mission and getting all of us killed "
+"in middle of the unknown did not let me sleep well for any single night. I "
+"stayed awake late during the long darkness, guarding the deck with Mal "
+"Keshar, or contemplating the always changing mood of the waves, and "
+"pondering my mistakes, and wondering what continued occuring in the Great "
+"Continent."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:130
+msgid ""
+"After countless days, we finally found our destination lit up by the setting "
+"suns."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:133
+msgid ""
+"We carefully planned our landing, and decided that it would be best to keep "
+"the orcs and the undead waiting on the ship while Galas and I contacted the "
+"elves and explained the situation to them. If they had to survive in the "
+"wild, perilous desert, they surely wouldn’t have fond memories of such "
+"creatures."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:142
+msgid ""
+"The elves guided us across the forests in direction of the mountains in the "
+"island’s heart, without saying a word to us. We knew it was best not to ask "
+"them any questions or do anything that could seem suspicious until we would "
+"meet their authorities."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:145
+msgid ""
+"Their clothes, armor and weapons looked much more primitive compared to "
+"those used by Galas’ kinsmen. Apparently, much of our craft was forgotten by "
+"Quetor’el’s group and their descendants. As we approached the more populated "
+"areas, I noticed that even the buildings were much unlike those that the "
+"forest elves used in my times."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:154
+msgid ""
+"I had not heard of the name “Eloh” in a very long time, but Galas and his "
+"people had heard of her from the dwarves who made contact with these elves "
+"long ago. That is just one of many names used to refer to the Guardian of "
+"the Arcane Flame which is said to have given life to all faerie beings, "
+"including us, elves. Nobody knows exactly when or how her legends first "
+"appeared, but the Quenoth elves have apparently forgotten, misinterpreted "
+"and exaggerated parts of them."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:157
+msgid ""
+"As it seems, the Quenoth elves thrive and live in peace despite lacking much "
+"of our civilization’s knowledge and skills. It may be better that way. They "
+"are less likely to be corrupted by Uria’s influences in these dark times."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:160
+msgid ""
+"Yechnagoth originally controlled a citadel in the heart of Zocthanol Isle "
+"where her body resided. Although both the body and the citadel were "
+"destroyed by the elves, we suspected that there was much more to find "
+"underground."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:163
+msgid ""
+"In the morning, we went into the caves to search for other remains of the "
+"place. We found some unusually clean walls — which, as I expected, were "
+"hiding the existence of more complex underground tunnels below the island. "
+"It seems that Argan, or whoever first discovered Zocthanol, got some help to "
+"build the secret citadel."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:172
+msgid ""
+"Argan’s mention of “Norsulan technology” in his records worried me. What if "
+"we were fighting for a vain purpose? Perhaps Uria’s influence has already "
+"caused permanent, irreversible damage on Irdya, and there’s nothing we can "
+"do to stop the enemy now?"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:175
+msgid ""
+"The ancient information previously gathered by Galas, Anlindë and Mal Keshar "
+"matches what we have obtained from Argan’s lair...which he found out through "
+"Uria and her most knowledgeable demons. We are not alone. And the thought "
+"that there’s a world more technologically advanced than Irdya is..."
+"overwhelming."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:178
+msgid ""
+"Fortunately Uria’s forces are now separated by the barrier between our world "
+"and Inferno. Perhaps, now that they are weak and disorganized, we could have "
+"a chance to destroy what’s left of them: the Iron Triad and their followers."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:181
+msgid ""
+"But first we’ll need to deal with another problem. According to Mal Keshar, "
+"Argan abandoned Zocthanol Isle after Yechnagoth was defeated, not before "
+"recovering the creature’s heart. Although her soul was effectively destroyed "
+"along with her replacement body, her source of power wasn’t directly "
+"connected to it, and Argan ordered his minions to preserve that heart "
+"beneath the ruined plains of Wesmere. I presume that the biomechanical "
+"guards we found in the caves there may be protecting it."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:184
+msgid ""
+"With that great source of power still intact and in Irdya, our time was "
+"running out. We decided to return to the Great Continent as soon as we could "
+"to contact our allies and tell them about the shaxthal hive in Wesmere."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:187
+msgid ""
+"I wish I could master the power of teleportation that I obtained from the "
+"crystal so we didn’t have to waste so many days in the Vast Sea; "
+"unfortunately, I have not been able to concentrate enough to attempt at "
+"using it."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:196
+msgid ""
+"We finally said goodbye to the peaceful island and departed the next day."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:199
+msgid ""
+"This was perhaps the first time I wanted to stay and forget about the "
+"happenings on the Great Continent. Ever since Galas and his group came to "
+"interrupt my eternal rest it’s been a nightmare where everything is "
+"relentlessly trying to destroy us as part of that sinister plan to turn "
+"Irdya into a wasteland of suffering and decay."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:202
+msgid ""
+"I wish I could go back to the old times and prevent that disaster that "
+"ruined the world forever.”"
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:205
+msgid " — “Not everything went according to our plans."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:208
+msgid ""
+"A storm caught us by surprise and drove us off the course. We barely "
+"survived the long enough to be greeted by the setting suns and a dense fog, "
+"finding ourselves before an unknown shoreline and an uncannily silent forest "
+"at dusk."
+msgstr ""
+
+#. [part]
+#: After_the_Storm/macros/storytxt.cfg:211
+msgid ""
+"With our ship severely damaged, we decided to explore the land and try to "
+"decide what to do later."
+msgstr ""
+
+#. [trait]: id=armored
+#: After_the_Storm/macros/traits.cfg:7
+msgid "armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: After_the_Storm/macros/traits.cfg:8
+msgid "female^armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: After_the_Storm/macros/traits.cfg:9
+msgid "+15% bonus for all resistances (except arcane), -1 movement points"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: After_the_Storm/macros/traits.cfg:33
+msgid "biomechanical"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: After_the_Storm/macros/traits.cfg:34
+msgid "female^biomechanical"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: After_the_Storm/macros/traits.cfg:36
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [trait]: id=deteriorated
+#: After_the_Storm/macros/traits.cfg:47
+msgid "deteriorated"
+msgstr ""
+
+#. [trait]: id=deteriorated
+#: After_the_Storm/macros/traits.cfg:48
+msgid "female^deteriorated"
+msgstr ""
+
+#. [trait]: id=deteriorated
+#: After_the_Storm/macros/traits.cfg:49
+msgid "This undead unit has become weaker with the pass of time."
+msgstr ""
+
+#. [scenario]: id=01_The_Skirmish
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:5
+msgid "The Skirmish"
+msgstr ""
+
+#. [side]
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:41
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:33
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:37
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:23
+#: After_the_Storm/scenarios/03_Civil_War.cfg:41
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:23
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:27
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:56
+#: After_the_Storm/scenarios/02_High_Pass.cfg:39
+#: After_the_Storm/scenarios/08_Fear.cfg:42
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:39
+msgid "team_name^Galas"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:51
+msgid "team_name^Townsmen"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:65
+msgid "Morzey"
+msgstr ""
+
+#. [side]: type=Chaos Magus, id=Ilce'than
+#. [side]: id=Elyssa, type=Shaxthal Warlord Elyssa
+#. [side]: id=Mal Kendria, type=Necromancer
+#. [side]: id=Nar-hamoth, type=Shaxthal Warlord
+#. [side]: id=Mal Hekuba, type=Ancient Lich
+#. [side]
+#. [side]: type=Shaxthal Assault Drone
+#. [side]: id=Darglen, type=Chaos Lore
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:169
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:44
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:64
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:85
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:107
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:125
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:67
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:84
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:101
+#: After_the_Storm/scenarios/08_Fear.cfg:55
+#: After_the_Storm/scenarios/08_Fear.cfg:63
+msgid "team_name^Enemies"
+msgstr ""
+
+#. [side]: type=Chaos Magus, id=Ilce'than
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:199
+msgid "Ilce’than"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:219
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [event]
+#. [value]
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:221
+#: After_the_Storm/scenarios/03_Civil_War.cfg:327
+#: After_the_Storm/scenarios/03_Civil_War.cfg:564
+#: After_the_Storm/scenarios/03_Civil_War.cfg:627
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:156
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:676
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:131
+#: After_the_Storm/scenarios/02_High_Pass.cfg:245
+#: After_the_Storm/scenarios/08_Fear.cfg:83
+#: After_the_Storm/scenarios/08_Fear.cfg:224
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:478
+msgid "Death of Galas"
+msgstr ""
+
+#. [event]
+#. [value]
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:222
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:94
+#: After_the_Storm/scenarios/03_Civil_War.cfg:328
+#: After_the_Storm/scenarios/03_Civil_War.cfg:565
+#: After_the_Storm/scenarios/03_Civil_War.cfg:628
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:157
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:677
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:132
+#: After_the_Storm/scenarios/02_High_Pass.cfg:246
+#: After_the_Storm/scenarios/08_Fear.cfg:84
+#: After_the_Storm/scenarios/08_Fear.cfg:225
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:479
+msgid "Death of Elynia"
+msgstr ""
+
+#. [event]
+#. [value]
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:223
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:95
+#: After_the_Storm/scenarios/03_Civil_War.cfg:329
+#: After_the_Storm/scenarios/03_Civil_War.cfg:566
+#: After_the_Storm/scenarios/03_Civil_War.cfg:629
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:158
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:678
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:133
+#: After_the_Storm/scenarios/02_High_Pass.cfg:247
+#: After_the_Storm/scenarios/08_Fear.cfg:85
+#: After_the_Storm/scenarios/08_Fear.cfg:226
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:480
+msgid "Death of Mal Keshar"
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:270
+msgid ""
+"Night breaks, and the scouts reported by midday that those cursed soldiers "
+"were heading towards our town."
+msgstr ""
+
+#. [message]: role=guard_2
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:274
+msgid ""
+"Yeah, so it was not enough for them to burn and ransack Tyannes... Blast it. "
+"The elders and their warriors, why don’t they send us help?"
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:278
+msgid ""
+"Since the beginning of the War, little they have cared about safety, not "
+"only ours, but theirs too. It’s rumored that the country itself is poorly "
+"defended right now — it’s become easy prey for foreign invaders."
+msgstr ""
+
+#. [message]: role=guard_2
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:282
+msgid "Not just foreign. I’ve heard that the elves have..."
+msgstr ""
+
+#. [message]: role=guard_3
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:286
+msgid "On guard! Three strangers approach from the southern road!"
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:311
+msgid "Halt there! Identify yourselves, strangers!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:315
+msgid ""
+"We are travelers, and we don’t plan to stay in your town for more than one "
+"night. You don’t need to know who we are."
+msgstr ""
+
+#. [message]: role=guard_2
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:319
+msgid "Sorry, but we were ordered not to let anybody...pa...she’s...beautiful."
+msgstr ""
+
+#. [message]: role=guard_3
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:323
+msgid "A fairy?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:327
+msgid "Yes."
+msgstr ""
+
+#. [message]: role=guard_3
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:331
+msgid "What’s your kind doing so far from the green northern lands?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:335
+msgid ""
+"As I said, we are traveling, and don’t plan to stay in your town for more "
+"than one night. Just let us in."
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:350
+msgid "Who is that? Hey, the cloaked one!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:354
+msgid "Eh?"
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:358
+msgid "Aaah!!"
+msgstr ""
+
+#. [message]: role=guard_3
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:362
+msgid "Necromancer! A..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:366
+msgid ""
+"You are not alerting the entire town of our presence, are you? Such a "
+"handsome man could spend the night doing...more interesting things, than "
+"fighting us..."
+msgstr ""
+
+#. [message]: role=guard_3
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:370
+msgid "<b>*gulp*</b> Eh, I..."
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:374
+msgid ""
+"I don’t know what the hell is your purpose here, but we do have important "
+"things to do this night, such as defending the town from your cursed "
+"henchmen!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:378
+msgid "Henchmen? Do you see anyone else accompaining us?"
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:382
+msgid "Eh... uhm... well, no?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:386
+msgid "Well, then."
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:393
+msgid ""
+"Eh! That you don’t bring anyone with you does not mean you cannot call upon "
+"them! We heard rumors of the cursed warriors coming to our valley!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:398
+msgid "Cursed, you say?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:403
+msgid ""
+"Clad in black armor, bringing flags with impaled skulls at the top, and "
+"smelling especially funny?"
+msgstr ""
+
+#. [message]: role=guard_2
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:408
+msgid "Yes, yes. Do you know them?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:413
+msgid ""
+"Actually, they are our enemies as well. We have had some encounters with "
+"them before. Perhaps we could be of help, <i>if</i> you would let us inside "
+"your walls."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:418
+msgid ""
+"Let them come in! We are in need of all the help we can get if we do not "
+"want to suffer the same fate of our comrades at Tyannes, and it is not the "
+"first time I hear of a necromancer helping our cause."
+msgstr ""
+
+#. [message]: role=guard_1
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:423
+msgid "Yes, sir! As you command, sir!"
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:432
+msgid ""
+"Strangers, please help us. I am sure the gate guards already told you of the "
+"situation..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:437
+msgid "Yes, they did."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:442
+msgid ""
+"Well, I suppose you can be trusted. Please aid us in this battle; plagues "
+"have decimated most of our capable warriors, and all we have left is the "
+"town militia, for which we can barely afford proper weapons."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:447
+msgid "We’ll do. Just don’t ask names."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:452
+msgid "That’s...a very dubious request..."
+msgstr ""
+
+#. [message]: role=guard_6
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:457
+msgid "My lord! Torches and wardrums approach from the northern hills!"
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:462
+msgid "Blast it, they arrived sooner than I expected. To arms!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:476
+msgid "Curse you, heretics! The Iron Council shall punish you for your deeds!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:488
+msgid "I do not think so."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:497
+msgid ""
+"We will be eternally thankful for your help, travelers! If there is anything "
+"we can do to pay back..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:502
+msgid ""
+"No problem; we just need provisions for our journey to the Northern country."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:507
+msgid ""
+"Are you traveling North then? There is a mountain pass there, to the north-"
+"east. It should take you faster to the country, but rumor has it that undead "
+"roam about the place since the beginning of the War."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:512
+msgid "Thanks for the information, we will go through that pass."
+msgstr ""
+
+#. [message]: speaker=Morzey
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:517
+msgid "Are you sure?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:522
+msgid "I <i>control</i> the dead. We don’t need to worry about them."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:546
+msgid ""
+"Sometimes your beloved ones must be willing to sacrifice their lives for a "
+"greater cause."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/01_The_Skirmish.cfg:563
+msgid "Oh, no! We have run out of time, and their reinforcements have arrived!"
+msgstr ""
+
+#. [scenario]: id=02_High_Pass
+#: After_the_Storm/scenarios/02_High_Pass.cfg:5
+msgid "High Pass"
+msgstr ""
+
+#. [side]
+#. [side]: id=Mal Ciphan, type=Lich
+#. [side]: id=Nyadien, type=Draug
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:75
+#: After_the_Storm/scenarios/02_High_Pass.cfg:51
+#: After_the_Storm/scenarios/02_High_Pass.cfg:170
+msgid "team_name^Undead"
+msgstr ""
+
+#. [side]: id=Mal Ciphan, type=Lich
+#: After_the_Storm/scenarios/02_High_Pass.cfg:93
+msgid "Mal Ciphan"
+msgstr ""
+
+#. [side]: id=Nyadien, type=Draug
+#: After_the_Storm/scenarios/02_High_Pass.cfg:212
+msgid "Nyadien"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:129
+#: After_the_Storm/scenarios/02_High_Pass.cfg:243
+#: After_the_Storm/scenarios/08_Fear.cfg:222
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/02_High_Pass.cfg:260
+msgid ""
+"This place gives me chills. Perhaps it was not a good path choice after all."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:265
+msgid "Pah. Leave your worries behind, there is nothing to..."
+msgstr ""
+
+#. [message]: type=Necrophage
+#: After_the_Storm/scenarios/02_High_Pass.cfg:312
+msgid "Groaaar!!!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:317
+msgid "...and who called upon you?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/02_High_Pass.cfg:322
+msgid ""
+"So the rumors were true. This pass is infested with undead. We’ll have to "
+"give them a rest before we can continue on."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:327
+msgid "Aww, this will be boring."
+msgstr ""
+
+#. [message]: speaker=Mal Ciphan
+#: After_the_Storm/scenarios/02_High_Pass.cfg:336
+msgid ""
+"Ahhh, the traitors! You are not going to see the sunlight anymore, I’ll feed "
+"your souls to Yechnagoth!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:341
+msgid "The same old tune. These goons should seek a new job or something."
+msgstr ""
+
+#. [message]: speaker=Nyadien
+#: After_the_Storm/scenarios/02_High_Pass.cfg:350
+msgid ""
+"You, Galas! You abandoned us in the valley! You let all of us die! You shall "
+"perish, and your soul will be tortured as you deserve it!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/02_High_Pass.cfg:355
+msgid "Nyadien? But..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:360
+msgid "Do you know him?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/02_High_Pass.cfg:365
+msgid ""
+"Yes, he was the leader of the patrol group that replaced mine just before "
+"the loyalists invaded our valley."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/02_High_Pass.cfg:370
+msgid ""
+"Elf, know that Galas did not have the power to stop that invasion, but we "
+"have just demolished the Empire. There is nothing that should force you to "
+"roam this world anymore!"
+msgstr ""
+
+#. [message]: speaker=Nyadien
+#: After_the_Storm/scenarios/02_High_Pass.cfg:375
+msgid "I will personally make sure you don’t go unpunished, traitor!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:380
+msgid ""
+"It is a waste of time to try to deal with this pile of bones. The "
+"necromancer who raised him probably used some malign trick to fill him with "
+"hatred towards you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/scenarios/02_High_Pass.cfg:401
+msgid ""
+"I am vanquished, but I curse your race to never see days of peace and joy "
+"again for the rest of eternity!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/02_High_Pass.cfg:413
+msgid "So many times... I forget how many times they have said that."
+msgstr ""
+
+#. [scenario]: id=03_Civil_War
+#: After_the_Storm/scenarios/03_Civil_War.cfg:5
+msgid "Civil War in the North"
+msgstr ""
+
+#. [side]: id=Celán, type=Elvish Champion
+#: After_the_Storm/scenarios/03_Civil_War.cfg:56
+msgid "team_name^Elves (north)"
+msgstr ""
+
+#. [side]: id=Celán, type=Elvish Champion
+#: After_the_Storm/scenarios/03_Civil_War.cfg:66
+msgid "Celán"
+msgstr ""
+
+#. [side]: id=Unidë, type=Elvish Avenger
+#: After_the_Storm/scenarios/03_Civil_War.cfg:82
+msgid "team_name^Elves (south-east)"
+msgstr ""
+
+#. [side]: id=Unidë, type=Elvish Avenger
+#: After_the_Storm/scenarios/03_Civil_War.cfg:97
+msgid "Unidë"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/03_Civil_War.cfg:325
+msgid "Move Galas, Elynia and Mal Keshar to Fort Eldáin"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:341
+msgid ""
+"There are signs of a battle in this area. And the smoke I smell probably "
+"comes from that fortress in the distance!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:346
+msgid ""
+"Quickly, let’s investigate what happened here. I hope it’s not too late."
+msgstr ""
+
+#. [message]: type=Bowman
+#: After_the_Storm/scenarios/03_Civil_War.cfg:451
+msgid ""
+"Who are you? Why, do you bring your unholy spawns to feed upon our remains "
+"when we have fallen already?!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:456
+msgid "We come in peace and the undead are our supporters in this war."
+msgstr ""
+
+#. [message]: type=Footpad
+#: After_the_Storm/scenarios/03_Civil_War.cfg:462
+msgid "It is... it is the Lady of Light! I had heard rumors but this is..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:467
+msgid ""
+"This fortress barely stands. What vile creatures have come to plague the "
+"northern country?"
+msgstr ""
+
+#. [message]: type=Bowman
+#: After_the_Storm/scenarios/03_Civil_War.cfg:473
+msgid ""
+"The elves, my lady. The elves have gone mad and are attacking each other. We "
+"are unfortunate enough to have been born in territory that lies in middle of "
+"their path of destruction. Neither of their bands is willing to search a "
+"peaceful end to this conflict, and we don’t think we can resist their siege "
+"for much longer. Most of our men have died defending the walls of the city, "
+"and resources are scarce."
+msgstr ""
+
+#. [message]: type=Bowman
+#: After_the_Storm/scenarios/03_Civil_War.cfg:479
+msgid ""
+"We cannot continue without help, and the messengers we sent to the Grand "
+"Council for reinforcements have not returned yet. I’ll probably hate myself "
+"for the rest of my life for asking help from those who deal with dark magic, "
+"but..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:484
+msgid "Pfft, we cannot waste our time here."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:489
+msgid ""
+"We must help these poor people and try to negotiate a deal with our kinsmen. "
+"We must not allow another elvish war to clear the remains of our "
+"civilization! Otherwise..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:494
+msgid "Our sacrifices would have been in vain."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:499
+msgid "We’ll help you defend your fortress until the reinforcements arrive."
+msgstr ""
+
+#. [message]: type=Bowman
+#: After_the_Storm/scenarios/03_Civil_War.cfg:505
+msgid "Thank you."
+msgstr ""
+
+#. [message]: type=Footpad
+#: After_the_Storm/scenarios/03_Civil_War.cfg:520
+msgid "Lead us, my lord."
+msgstr ""
+
+#. [value]
+#. [event]
+#: After_the_Storm/scenarios/03_Civil_War.cfg:562
+#: After_the_Storm/scenarios/03_Civil_War.cfg:624
+msgid ""
+"Resist for $survival_turn_limit turns until the Grand Council’s "
+"reinforcements arrive"
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:580
+msgid ""
+"Who is it that helps the human sub-people to defend their town against the "
+"true rulers of the forest?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:585
+msgid ""
+"I am Galas, an elf of the Valley of Elynia like you. What is the reason for "
+"this unnecessary bloodshed?"
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:590
+msgid ""
+"We are at war with those who have taken the life of our leader, Lord "
+"Inodien, as well as his successor! Are you supporters of their foul cause "
+"too?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:595
+msgid ""
+"You know me well, Unidë, and I would not support anyone, elf or not, who "
+"would threaten the life of our leaders and our civilization. However, you "
+"are not doing any better by answering to their attacks by murdering more of "
+"our kind and even innocent human peasants."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:600
+msgid ""
+"There must be a way to solve this problem without resorting to fighting. In "
+"these grim times, there is only war in the outer lands. Bringing it to our "
+"civilization here will be our definitive doom. The traitors must be judged "
+"by the law, not by chaos and death."
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:605
+msgid ""
+"Who do you think you are to give me commands? I am the war-leader now. I "
+"obey no orders from those who ally themselves with the worthless human scum "
+"and their foul dark sorcerers."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:610
+msgid ""
+"Diplomacy isn’t going to work, of course. This petty elf has a death-wish."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:615
+msgid ""
+"Avoid killing their leaders at all costs. If we want to solve this conflict, "
+"we’ll need the Grand Council to negotiate with the faction leaders some sort "
+"of deal or punishment. Without their leaders, I fear that the elvish "
+"warriors will become unstoppable and even more people will be slaughtered. I "
+"only wish we could stop our kinsmen without resorting to violence."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:620
+msgid ""
+"As it seems now, there is no other option to stop them until help arrives. "
+"To arms!"
+msgstr ""
+
+#. [value]
+#: After_the_Storm/scenarios/03_Civil_War.cfg:626
+msgid "Death of an enemy leader"
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:652
+msgid ""
+"I won’t be able to slay the traitors with my own hands... Avenge my defeat "
+"my brethren! May this be the last day the traitors live to see the light of "
+"Naia and Sela!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:664
+msgid ""
+"We shouldn’t have allowed her to die. Now it will be near impossible to stop "
+"this war!"
+msgstr ""
+
+#. [message]: speaker=Celán
+#: After_the_Storm/scenarios/03_Civil_War.cfg:680
+msgid "Alas, I have fallen before putting an end to this conflict."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:692
+msgid ""
+"We shouldn’t have allowed him to die. Now it will be near impossible to stop "
+"this war!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: After_the_Storm/scenarios/03_Civil_War.cfg:717
+msgid "I die...for our people!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:738
+msgid "Ahh, great job. Now we are killing other elves."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/03_Civil_War.cfg:746
+msgid ""
+"The situation doesn’t improve. If the reinforcements don’t arrive soon we "
+"won’t be able to hold this place for much longer!"
+msgstr ""
+
+#. [unit]: type=Arch Mage, id=Arnesius
+#: After_the_Storm/scenarios/03_Civil_War.cfg:788
+msgid "Arnesius"
+msgstr ""
+
+#. [unit]: type=Orcish Slurbow, id=Kar-velgan
+#: After_the_Storm/scenarios/03_Civil_War.cfg:803
+msgid "Kar-velgan"
+msgstr ""
+
+#. [unit]: type=Elvish Enchantress, id=Unarye
+#: After_the_Storm/scenarios/03_Civil_War.cfg:817
+msgid "Unarye"
+msgstr ""
+
+#. [message]: speaker=Arnesius
+#: After_the_Storm/scenarios/03_Civil_War.cfg:829
+msgid ""
+"Elves, stop this disastrous bloodshed! You have killed many innocent people "
+"of your kind, and many human and orcish civilians. You broke the treaty we "
+"signed with Lord Galas and are no longer allowed to inhabit our lands!"
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:834
+msgid "We do not listen to human sub-people!"
+msgstr ""
+
+#. [message]: speaker=Unarye
+#: After_the_Storm/scenarios/03_Civil_War.cfg:839
+msgid ""
+"Then you shall listen to your own authorities. I came as soon as I could to "
+"bring order to this chaos. You have not only disobeyed the will of your "
+"lord, Galas, but you have also ignored Elynia, the Lady of Light; by not "
+"listening to them, you have sealed our fate."
+msgstr ""
+
+#. [message]: speaker=Arnesius
+#: After_the_Storm/scenarios/03_Civil_War.cfg:844
+msgid ""
+"The Grand Council has decided to banish the elvish kind from the northern "
+"country. You shall leave in no more than five days, or we’ll summon our "
+"armies for dealing with you! We don’t want to do this, but you know you are "
+"in numerical inferiority."
+msgstr ""
+
+#. [message]: speaker=Celán
+#: After_the_Storm/scenarios/03_Civil_War.cfg:849
+msgid ""
+"So did one of your kind decide to kill the puny “lord” of these rebels to "
+"make up an excuse for banishing our people?"
+msgstr ""
+
+#. [message]: speaker=Kar-velgan
+#: After_the_Storm/scenarios/03_Civil_War.cfg:854
+msgid "Listen, wose-born creates, Inodien was slain by no elf, human or orc!"
+msgstr ""
+
+#. [message]: speaker=Unarye
+#: After_the_Storm/scenarios/03_Civil_War.cfg:859
+msgid ""
+"We have good reasons to think that the loyalists sent forth their "
+"mercenaries to do the job and create a dispute among your  men to send us "
+"all to doom. But we are not letting that happen, at least not today."
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:864
+msgid "This is unfair! Why should we pay for others’ crimes?"
+msgstr ""
+
+#. [message]: speaker=Kar-velgan
+#: After_the_Storm/scenarios/03_Civil_War.cfg:869
+msgid ""
+"You don’t have your hands clean! How can you dare to imply that you haven’t "
+"committed any crimes? Just take a look at the dirty battlefield below your "
+"nose!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:874
+msgid ""
+"It is true. We have spilled much elvish blood with this fight. We’ll leave "
+"these lands as soon as we can."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:879
+msgid "What? And how are we going to travel to Zocthanol Isle then?"
+msgstr ""
+
+#. [message]: speaker=Unidë
+#: After_the_Storm/scenarios/03_Civil_War.cfg:884
+msgid ""
+"I swear that my people will never forget this, the most vile of treacheries. "
+"I’ll call my troops for withdrawal from this accursed country, but know that "
+"I’ll someday return!"
+msgstr ""
+
+#. [message]: speaker=Celán
+#: After_the_Storm/scenarios/03_Civil_War.cfg:889
+msgid ""
+"If the Lady of Light is willing to never return to these lands for our own "
+"faults, then we will also abandon the country. Come with me, men! Let’s find "
+"a place that sets us apart enough from those fiends."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:894
+msgid "Elynia? Can you tell us your plan?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:899
+msgid ""
+"There is a port to the west in the Bay of Tirigaz. It’s controlled by orcs, "
+"but perhaps we can find a way to bribe them so they lend us their ships and "
+"provisions. It is the only port that doesn’t belong to the Aragwaithi "
+"nowadays, and the closest one to our current location."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/03_Civil_War.cfg:904
+msgid ""
+"Then to Tirigaz we go! But how will we determine the location of Zocthanol "
+"Isle?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/03_Civil_War.cfg:909
+msgid "That will be my job to do."
+msgstr ""
+
+#. [scenario]: id=04_Terror_at_Dusk
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:5
+msgid "Terror at Dusk"
+msgstr ""
+
+#. [side]: id=Darglen, type=Chaos Lore
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:108
+msgid "Darglen"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:153
+msgid ""
+"That is the sound of those blasted creatures! But what do they want here?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:158
+msgid ""
+"Um...this is a strange coincidence. It might be that they are behind the "
+"death of Inodien."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:163
+msgid ""
+"That’s very likely. But not without the command of more intelligent beings, "
+"which means the Chaos Empire is behind this. Let’s get rid of them before "
+"they can cause more problems in the northern country."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:175
+msgid ""
+"Don’t die yet, vermin! We want some explanations before burying your skull "
+"in the sand!"
+msgstr ""
+
+#. [message]: speaker=Darglen
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:180
+msgid ""
+"And do you really believe I would speak? You can torture me as much as you "
+"want, but you won’t get anything from me!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:185
+msgid "Stupid..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:190
+msgid "Let him."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:202
+msgid ""
+"That annoying bastard...Hekuba. He and the Iron Triad must be behind this. "
+"But what are they trying to accomplish?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:207
+msgid ""
+"They probably want to take revenge on us and our kind after Argan’s death."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:224
+msgid ""
+"This is the last one, and it doesn’t seem like there are more groups coming "
+"here."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:229
+msgid ""
+"Let’s not worry a lot about them. These pathetic weaklings are nothing "
+"compared to the hordes we fought before."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:234
+msgid "Let’s proceed to Tirigaz now, quickly."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:239
+msgid ""
+"Why don’t we find their leaders, get rid of them and put an end to this "
+"stupid war now?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:244
+msgid ""
+"No... That would be highly dangerous, because we don’t know what kind of "
+"enemies we’d be facing, other than Mal Hekuba. You haven’t forgotten our "
+"last fight with him, have you? We are at a disadvantage, until we can find "
+"more information on them, and that’s why finding Zocthanol is so important."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/04_Terror_at_Dusk.cfg:249
+msgid "Alright, let’s go then."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:5
+msgid "Bay of Tirigaz"
+msgstr ""
+
+#. [side]: id=Tan-Vatar, type=Orcish Sovereign
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:49
+msgid "team_name^Tirigaz"
+msgstr ""
+
+#. [side]: id=Tan-Vatar, type=Orcish Sovereign
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:57
+msgid "Tan-Vatar"
+msgstr ""
+
+#. [side]: id=Rishix, type=Saurian Flanker
+#. [side]: id=Ishkaal, type=Saurian Oracle
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:173
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:251
+msgid "Invaders"
+msgstr ""
+
+#. [side]: id=Rishix, type=Saurian Flanker
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:179
+msgid "Rishix"
+msgstr ""
+
+#. [side]: id=Ishkaal, type=Saurian Oracle
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:258
+msgid "Ishkaal"
+msgstr ""
+
+#. [side]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:324
+msgid "Sea creatures"
+msgstr ""
+
+#. [side]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:346
+msgid "Water serpents"
+msgstr ""
+
+#. [label]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:379
+msgid "Arthol"
+msgstr ""
+
+#. [label]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:383
+msgid "Tirigaz"
+msgstr ""
+
+#. [label]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:387
+msgid "Krisval"
+msgstr ""
+
+#. [label]
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:391
+msgid "Burdyr"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:431
+msgid "N: Bisbarl"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:450
+msgid ""
+"N: Bisbarl\n"
+"NW: Port of Tirigaz\n"
+"NE: Arthol"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:467
+msgid "SW: Province of Wyndill"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:476
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:481
+msgid "Death of Vuruk or the ally leader"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:482
+msgid "The port of Tirigaz or the town of Arthol are captured by the enemy"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:577
+msgid ""
+"The orcs controlling the Bay of Tirigaz were busy defending the port against "
+"some hasty guests..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:582
+msgid ""
+"You filthy soft-skinned beasts, this is your last oportunity to give us our "
+"swamps back! They’d always been ours, and we are not planning to retreat to "
+"territory of the pointy-eared demons!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:587
+msgid ""
+"We care little about your stupid wars at the East. We had a treaty, and you "
+"broke it by trespassing our well-established frontiers, and now you ask to "
+"give you back the very lands you’re stealing from us! After raiding the "
+"southern fortress, no less! You really believe we are going to give up now?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:592
+msgid ""
+"“Well-established”, you say? To the Dark Gods with you and your treaty! "
+"Since when can the words of an orc define where and how much can our waters "
+"spread? Maybe you’ll admit your defeat once we get rid of your weak towns in "
+"the North. Go ahead, Rishix! Give them a lesson!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:597
+msgid "Ha, ha! We’ll tear these puny earth-dwellers to pieces!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:641
+msgid "That city to the northwest...is it the port of Tirigaz?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:646
+msgid ""
+"Yes...although it wasn’t so well fortified during my times. Things have "
+"changed here indeed."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:651
+msgid "Is that smoke I- Wait, I hear some steps..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:664
+msgid "Vuruk"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:677
+msgid "Hello, strangers! Are you loyal to the Grand Council?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:682
+msgid "Ehm..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:687
+msgid "Yes, we are."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:692
+msgid ""
+"The vile saurians are besieging the port of Tirigaz, and I can’t enter the "
+"city and bring some important news to our lord. I think I speak for all of "
+"us, when I say your help would be very valuable. I need to get to the city "
+"keep, but that isn’t safe until those vermin are defeated!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:697
+msgid "The enemies of our friends are our enemies. We can help you."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:702
+msgid ""
+"(whispering) Although I wonder why those creatures are attacking them in the "
+"first place..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:707
+msgid ""
+"We must stop and defeat those saurians before they take over Tirigaz or any "
+"of the villages providing food and resources to the port in the North."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:712
+msgid "Let’s prepare for battle again, then."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:720
+msgid "Vuruk, what is it that you need to report to the lord of Tirigaz?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:725
+msgid ""
+"Hmm...it’s something I’m not allowed to share with anyone else but lord Tan-"
+"Vatar and his commanders."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:730
+msgid "Very well, then."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:744
+msgid "Come in aid of your kin, friends from the deep sea!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:796
+msgid ""
+"Ah, hah! They have the support of some wild creatures from the ocean! "
+"Nothing we cannot handle."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:841
+msgid "Where did all these damned spawns come from?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:851
+msgid "This is becoming harder than it was supposed to be."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:914
+msgid ""
+"Arthol has been taken over by the saurians! Now there’s no hope for Tirigaz!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:937
+msgid ""
+"Tirigaz has been captured! Our mission has failed, and we won’t be able to "
+"reach Zocthanol now!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:970
+msgid "No! I’ve got to... uuugh..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:982
+msgid ""
+"We let the orcish messenger die in the battlefield! The lord of Tirigaz is "
+"not going to like this..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:998
+msgid "The treacherous ones cannot win! Eeaack..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1022
+msgid "Damn you, earth-dwellers!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1044
+msgid ""
+"I have been struck down by the damned minions of an undead lich! This is not "
+"fair!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1059
+msgid "Noooooo! You’ll suffer for this atrocity!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1075
+msgid "Ha, ha, ha! Die, fool!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1080
+msgid "No! The city will fall...without a leader... *ack*"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1085
+msgid ""
+"Take that, orcish scum! Your leader is dead now, and your city is now ours!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1097
+msgid ""
+"The commander of the defense of Tirigaz has been slain! The city won’t "
+"resist for much longer now..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1117
+msgid "Don’t get any closer to our villages, you vermin!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1122
+msgid "Crush their villages into the ground!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1152
+msgid ""
+"These villages belong to the lord of Tirigaz! We must protect them, not "
+"capture them!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1176
+msgid "Vitork"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1187
+msgid "Yes! We did it!"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1192
+msgid ""
+"This is an important battle you’ve helped us win, travelers. The city of "
+"Tirigaz shall be eternally thankful for your assistance."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1197
+msgid ""
+"It is our duty to assist our allies in these times. However, I believe this "
+"soldier has something to tell you..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1202
+msgid "Vuruk, brother, you made it! Did you discover anything new?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1207
+msgid ""
+"Ha, indeed! I need to talk with you about it later, but now I must report to "
+"the chieftains."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1212
+msgid ""
+"I see you helped Vuruk return from his mission. Well done! So, how can we "
+"pay our debt with you?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1217
+msgid ""
+"Um, we are currently looking for transportation services. We must sail "
+"through the open ocean to find a certain island..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1222
+msgid ""
+"Don’t take it as an offense, but only true fools would dare sail through the "
+"open ocean! Nobody has entered deeper waters and returned in one piece, "
+"ever! Nobody knows exactly what kind of creatures inhabit the Vast Sea. "
+"Nobody knows with certainty what lies beyond the horizon, but it can’t be "
+"good, or our someone would have returned already! Why would anyone want to "
+"travel so far into unknown waters, when you have plenty of safe lands behind "
+"you?"
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1227
+msgid ""
+"We have a mission to complete, but like Vuruk’s, it is not something we’d "
+"discuss with..."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1232
+msgid ""
+"We know the location of a certain isle where some elves who once inhabited "
+"the Great Continent went to. We need to gather some information from them — "
+"this is a mission for the Grand Council."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1237
+msgid "Uh, huh."
+msgstr ""
+
+#: After_the_Storm/scenarios/05_Bay_of_Tirigaz.cfg:1242
+msgid ""
+"The Grand Council? Why didn’t you mention it in the first place? We’ll do "
+"anything we can to help you in your mission. It’ll be difficult to gather a "
+"crew for you, but at least I can give you one of our fastest transport "
+"vessels."
+msgstr ""
+
+#. [scenario]: id=06_01_Quenoth_Isle
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:5
+msgid "Quenoth Isle"
+msgstr ""
+
+#. [side]
+#. [side]: id=Gaellis, type=Quenoth Marshal
+#. [side]: id=Maina, type=Quenoth Shyde
+#. [side]: id=Inara, type=Quenoth Avenger
+#. [side]: id=Lintaen, type=Quenoth Hero
+#. [side]: id=Listra, type=Quenoth Druid
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:49
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:34
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:52
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:39
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:78
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:96
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:115
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:185
+msgid "team_name^Quenoth"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:86
+msgid ""
+"This place appears to be abandoned... Are you sure this is the correct "
+"island?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:91
+msgid ""
+"Not completely...but it’s possible that the Quenoth elves just avoid these "
+"shores for some reason."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:96
+msgid "Let’s explore and try to find them, then."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:237
+msgid "Time passes..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:270
+msgid ""
+"Maybe we should return to the ship. I’m not sure we should really go into "
+"the forest during night."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:275
+msgid "Why are you hesitating now?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:280
+msgid ""
+"Do you remember when we almost lost you in the caves beneath Wesmere? I "
+"don’t want to risk that occurring again. We don’t know why we haven’t found "
+"any elves here and..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:285
+msgid "Is there something you haven’t told me?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:290
+msgid "Galas, I-"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:301
+msgid "I hear something moving among the trees."
+msgstr ""
+
+#. [event]: type=Quenoth Fighter, id=Nion, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:313
+msgid "Nion"
+msgstr ""
+
+#. [event]: type=Quenoth Fighter, id=Nion, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:322
+msgid "Valen"
+msgstr ""
+
+#. [event]: type=Quenoth Fighter, id=Nion, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:331
+msgid "Hara"
+msgstr ""
+
+#. [event]: type=Quenoth Fighter, id=Nion, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:347
+msgid "Yon"
+msgstr ""
+
+#. [event]: type=Quenoth Fighter, id=Nion, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:356
+msgid "Ladien"
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:364
+msgid "Who are you and where you come from? You don’t seem to be of our kin."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:369
+msgid ""
+"We are elves! There’s no need to point at us with those arrows, too; we’re "
+"clearly at numerical disadvantage here."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:374
+msgid ""
+"You do not dress like our people. Is this some kind of joke? We are pretty "
+"sure we’ve never seen your faces on this island."
+msgstr ""
+
+#. [message]: speaker=Hara
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:379
+msgid "They are probably impostors sent by Uria to destroy our home!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:384
+msgid "Let us explain..."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:389
+msgid "Arrest them!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:396
+msgid "Stop!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:413
+msgid ""
+"<i>(spreading wings apart)</i> How can you NOT recognize your sylvan "
+"ancestors, young girl? Have the Quenoth elves completely forgotten their "
+"history after all this time?!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:424
+msgid ""
+"<i>(in a calm, yet sad tone)</i> When was the last time you saw this glow in "
+"the night?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:449
+msgid ""
+"Elynia held a small fire in her hands, illuminating the surroundings with a "
+"strong, blue light. The elves looked in awe at her subtle but effective "
+"display of the power of Faerie, and some of them stepped back uncertain of "
+"the meaning of this unusual situation."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/06_01_Quenoth_Isle.cfg:458
+msgid "Come with me."
+msgstr ""
+
+#. [scenario]: id=06_02_Elves_of_a_Different_Land
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:5
+msgid "Elves of a Different Land"
+msgstr ""
+
+#. [side]: id=Gaellis, type=Quenoth Marshal
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:39
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:44
+msgid "Gaellis"
+msgstr ""
+
+#. [side]: id=Maina, type=Quenoth Shyde
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:57
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:83
+msgid "Maina"
+msgstr ""
+
+#. [side]: id=Inara, type=Quenoth Avenger
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:101
+msgid "Inara"
+msgstr ""
+
+#. [side]: id=Lintaen, type=Quenoth Hero
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:120
+msgid "Lintaen"
+msgstr ""
+
+#. [unit]: id=Del, type=Quenoth Hero
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:131
+msgid "Del"
+msgstr ""
+
+#. [unit]: id=Vardé, type=Quenoth Shaman
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:144
+msgid "Vardé"
+msgstr ""
+
+#. [unit]: id=Shin, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:157
+msgid "Shin"
+msgstr ""
+
+#. [unit]: id=Ji, type=Quenoth Archer
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:169
+msgid "Ji"
+msgstr ""
+
+#. [side]: id=Listra, type=Quenoth Druid
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:190
+msgid "Listra"
+msgstr ""
+
+#. [unit]: id=Nadia, type=Quenoth Shaman
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:201
+msgid "Nadia"
+msgstr ""
+
+#. [unit]: id=Belan, type=Quenoth Rider
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:213
+msgid "Belan"
+msgstr ""
+
+#. [unit]: id=Zarel, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:226
+msgid "Zarel"
+msgstr ""
+
+#. [unit]: id=Noran, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:239
+msgid "Noran"
+msgstr ""
+
+#. [unit]: id=Ivalen, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:252
+msgid "Ivalen"
+msgstr ""
+
+#. [unit]: id=Kal, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:265
+msgid "Kal"
+msgstr ""
+
+#. [unit]: id=Niemin, type=Quenoth Fighter
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:278
+msgid "Niemin"
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:315
+msgid ""
+"Lord Gaellis, son of Kalehssar, we found this couple of strangers in the "
+"southeastern shores. They came from the northern seas, and seem to bring the "
+"light of Eloh with them."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:325
+msgid "Eloh? That name..."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:330
+msgid ""
+"It’s been a long time since any land dweller came to this island. The last "
+"time they set foot on its shores, it was our kin who came desperately "
+"seeking a new home. We didn’t leave anyone behind. Who are you?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:335
+msgid "Sir, I am Galas, son of Valthir, and this is..."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:340
+msgid "Elynia, daughter of Deniéth-Isal."
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:345
+msgid ""
+"You vaguely look like one of us. Spread your wings. Your face is that of an "
+"elf, but your clothes, and your wings...they are very different from us. "
+"Where did you come from?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:350
+msgid ""
+"We come from the Great Continent — from the Far North, beyond the tall Heart "
+"Mountains that grasp the sky and guard the green lands where the suns’ light "
+"has not been enough to burn those beautiful forests forever. We are not like "
+"you, indeed; we are forest elves, and we have come to seek your help against "
+"the great evil that has befell Irdya."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:355
+msgid ""
+"Forest elves? That’s absolutely ridiculous. The last our people saw of the "
+"Great Continent were vast deserts plagued with foul orcs, necromancers and "
+"those human barbarians. There’s no green life left on it!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:360
+msgid ""
+"Maybe your people didn’t travel far enough to the north! Most of the central "
+"area fits your description, but there are secluded valleys where life has "
+"thrived, and the Far North is vast enough to allow humans and orcs to live "
+"relatively in peace with each other."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:365
+msgid "That is-"
+msgstr ""
+
+#. [message]: speaker=Inara
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:370
+msgid ""
+"What evil is that you mentioned? Kalehssar, the Blade of Eloh, destroyed the "
+"one who attempted to destroy the last remnants of our kind."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:375
+msgid ""
+"You killed just a minion of a greater power. The fight is not over yet, and "
+"we have just killed another...minion of hers. She’s none other than Uria, "
+"who has got an entire empire of human followers and unspeakable horrors "
+"working with the forces of Inferno to destroy what’s left of Irdya!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:380
+msgid ""
+"I know that this may sound ridiculously dramatic, but I speak the truth, for "
+"I am the slayer of Zhangor, and Eloh guided me back to you in this era, "
+"because you have the missing page of our civilization’s history: Kalehssar "
+"fought Yechnagoth, the Eater of Souls, and defeated her, on this island, a "
+"few hundreds of years ago."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:391
+msgid ""
+"The elves were shocked by the mere mention of the three accursed names. They "
+"nervously looked at each other as if rocks would fall from the sky in "
+"response to Elynia’s words."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:401
+msgid "I cannot do miracles. If you need more proof of our claims-"
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:406
+msgid ""
+"You were originally sent by Eloh to protect us from the demon-lord. Eloh "
+"sends you back to us to protect everyone from the Fallen Goddess. Now it’s "
+"all clear. The power you wield has not been seen by our kin for eons, as "
+"much of our ancestors’ knowledge perished with them when the spawns of Uria "
+"destroyed our forests. You are a rare gem among the entire elvish "
+"civilization, and we trust in you. We listen to the call of our forest "
+"ancestors, and we agree to help you."
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:411
+msgid "Don’t we all?"
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:416
+msgid "What kind of help do you need?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:421
+msgid ""
+"Necromancy is the least of evils now that Uria’s minions plague the Great "
+"Continent. In our long journey to this island, we have not only been "
+"assisted by the orcs of the Far North, but also by a lich who helped us "
+"defeat the Shadow Master. We still need his help here, so I request that "
+"he’s allowed to bring the ship carrying our orcish and undead allies to this "
+"island."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:431
+msgid "That request...is very unusual for an elf."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:436
+msgid ""
+"It’s true that many necromancers have worked together with Uria’s minions to "
+"bring doom to the natural inhabitants of the Continent, including the Desert "
+"Elves. But it’s also true that the sheer power of Darkness is not enough to "
+"define the difference between evil and good, and that we have allied with "
+"the orcs in the past, back when there was only one sun and all elves lived "
+"in the forests of Irdya."
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:441
+msgid ""
+"We’ll allow the orcs and the undead to come to assist you once you tell us "
+"what you are exactly going to do, but beware that our warriors and priests "
+"are ready to take care of them should they do anything suspicious."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/06_02_Elves_of_a_Different_Land.cfg:446
+msgid "We require access to the place where Yechnagoth was destroyed."
+msgstr ""
+
+#. [scenario]: id=07_The_Search_for_the_Past, race=bats, type=Water Serpent, race=verlissh
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:5
+msgid "The Search for the Past"
+msgstr ""
+
+#. [side]
+#. [side]: type=Lesser Giant Spider
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:40
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:55
+msgid "team_name^Cave creatures"
+msgstr ""
+
+#. [side]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:90
+msgid "team_name^Yechnagoth’s guards"
+msgstr ""
+
+#. [side]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:105
+msgid "team_name^Chaos guards"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:154
+msgid "Follow the path and explore underground"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:159
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:679
+#: After_the_Storm/scenarios/08_Fear.cfg:86
+#: After_the_Storm/scenarios/08_Fear.cfg:227
+msgid "Death of Horo"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:160
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:680
+#: After_the_Storm/scenarios/08_Fear.cfg:87
+#: After_the_Storm/scenarios/08_Fear.cfg:228
+msgid "Death of Kyara"
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:271
+msgid ""
+"I don’t like this place. It feels as if something is waiting to ambush us in "
+"the darkness."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:276
+msgid ""
+"Heh, darkness. These elves aren’t very smart after all. Who’d think that "
+"sending one of their sun-loving youths would be any help to us?"
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:281
+msgid ""
+"Keep your rotten mouth shut, lich! We are being more lenient than anyone "
+"would with those who deal with your unnatural friends and these filthy apes."
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:286
+msgid "Who are you calling “filthy apes”, you..."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:291
+msgid ""
+"Calm down, everyone! If we are to explore these caverns, we’ll need to stay "
+"together."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:296
+msgid "What are you looking for? Some kind of artifact? Rocks? Spiders?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:301
+msgid ""
+"We believe there was another fortress beneath the dark citadel in which "
+"Yechnagoth was found. If our enemies used it once, they may have left behind "
+"scrolls, artifacts or maybe hints from which we could learn about what we "
+"are facing. Uria, that is."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:306
+msgid "And her minions."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:311
+msgid ""
+"This isn’t time to fight amongst us; many have died in the north already due "
+"to petty disputes. Just stay alert and let’s see what we can find."
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:316
+msgid "We will help you as best we can, elf."
+msgstr ""
+
+#. [unit]: type=Death Knight, id=Firden
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:333
+msgid "Firden"
+msgstr ""
+
+#. [message]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:348
+msgid "*Hissssssss*"
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:353
+msgid "A giant spider. Just an annoying giant spider."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:358
+msgid "It can still kill you if you are not careful, orc."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:370
+msgid "Look out, there are undead standing in our way!"
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:375
+msgid ""
+"This is impossible! We had made sure there was no evil left in this island"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:380
+msgid ""
+"Above the surface of the earth, your druids could barely detect what roamed "
+"below. That’s hardly surprising."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:392
+msgid ""
+"There was very little power left on this one. Maybe he guarded this place "
+"for Argan before it was abandoned."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:410
+msgid "Not bad for a sun-loving little girl."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:415
+msgid "Shut up, necromancer."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:448
+msgid "Now what?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:453
+msgid ""
+"We have been in enemy fortresses before; this is most likely not a dead end "
+"despite the appearances. Let’s check the cave to the east."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:484
+msgid "Touchplate triggered. A wall moves."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:507
+msgid "Crystal glyph activated. A wall moves."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:529
+msgid ""
+"Hm... I don’t know what I was thinking; there is nothing to see following "
+"this stream."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:554
+msgid "These accursed bats are everywhere!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:559
+msgid "It’s a cave, what did you expect? Rabbits?"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:569
+msgid "Those water creatures don’t look friendly at all."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:577
+msgid "These abominations resemble our druids’ description of Yec-"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:582
+msgid ""
+"Yes, we know. Do you really need to comment on it whenever we find something "
+"different?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:619
+msgid "There was an ascending road here, but it’s blocked by giant boulders."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:624
+msgid ""
+"That might have been the path to Yechnagoth’s citadel. So something else was "
+"definitely built underground as well."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:629
+msgid "Good, let’s follow it then."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:663
+msgid "Ghouls. I guess this is Argan’s old lair."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:670
+msgid ""
+"Yes, it seems to be... Let’s take a look at those chambers. And remove its "
+"repugnant residents."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:674
+msgid "Gather all information you can get from Argan’s lair"
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:718
+msgid ""
+"A human skeleton. Who knows how this poor bastard ended up thrown into this "
+"chamber."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:723
+msgid ""
+"One of Argan’s experiments, probably. Either that or this person had "
+"something of importance to the Empire."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:731
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:740
+msgid "Crystal Glyph"
+msgstr ""
+
+#. [scenario]: id=07_The_Search_for_the_Past, race=bats, type=Water Serpent, race=verlissh
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:764
+msgid ""
+"The Verlissh are a collection of vastly different lifeforms associated with "
+"the warriors of Rythé. The most basic creatures are capable of merging into "
+"larger, more complex beings."
+msgstr ""
+
+#. [scenario]: id=07_The_Search_for_the_Past, race=bats, type=Water Serpent, race=verlissh
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:766
+msgid ""
+"Uria knows that the Argazar used the Verlissh to provide their so-called "
+"“biomechanical” warriors with unnatural strength, resilience and abilities. "
+"She also knows of other sources of these creatures that we could use to "
+"raise a whole army to put an end to Irdya’s current Dark Age."
+msgstr ""
+
+#. [scenario]: id=07_The_Search_for_the_Past, race=bats, type=Water Serpent, race=verlissh
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:768
+msgid ""
+"The Norsulan technology stolen by Uria from those who work for the one who’s "
+"said to be the reincarnation of Valdir has been very helpful in our quest to "
+"understand the power of the most interesting creations of the Argazars, the "
+"first civilization who set foot on Irdya only to die in a short time."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:792
+msgid ""
+"This glyph shall not be used by anyone but those who are true descendants of "
+"She who wields the Arcane Flame that protects Irdya."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:803
+msgid "Elynia, you should check this crystal; it may have information we need."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:821
+msgid ""
+"This glyph contains a spell of Teleport which will allow you to cross great "
+"distances if you can put your soul before your body, look forward without "
+"your eyes and touch the air beyond your sight. If you can concentrate enough "
+"energy, you shall be able to go anywhere within your memories and find "
+"anybody as long as you can feel their heart.\n"
+"\n"
+"Be careful, for not everything is written, and those who stray from the path "
+"of their reality might not find anything in the other side of the mirror."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:825
+msgid ""
+"That’s strange. Why would Argan keep something he obviously couldn’t use in "
+"his lair?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:830
+msgid ""
+"It might be that he foresaw that all this would happen...and wanted to help "
+"us even if he couldn’t break Uria’s control over his actions."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:835
+msgid ""
+"It’s more likely that he wanted to set a trap for us or anyone else who "
+"would manage to find this place."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:840
+msgid ""
+"He never intended to cause me any harm with his actions! I’ll acquire the "
+"spell, for it could be of use later."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:845
+msgid "Elynia, don’t-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:859
+msgid ""
+"As Elynia touches the crystal with a hand, the glyph disintegrates and "
+"becomes a fine golden dust, covering her for a few moments..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:890
+msgid ""
+"...until that too suddenly vanishes away. There is no noticeable difference "
+"to Elynia’s appearance."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:895
+msgid "I don’t feel any different, but I should have this new power, now."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:900
+msgid ""
+"Hmph. In my times, you didn’t get magic abilities from a rock. Be careful if "
+"you ever attempt to use that spell — I don’t think it’s safe. While those "
+"human mages of our times could learn to travel great distances like that, "
+"many of them also disappeared and were never heard of again."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:924
+msgid ""
+"Some ancient legends of uncertain origin say that the First created a "
+"beatiful woman out of fine dust, and gave her control of an awesome power "
+"that flows through the veins of every one of her faerie descendants, "
+"including the elves of Irdya."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:926
+msgid ""
+"Other legends describe one of her siblings: Merthiaal, the Eater of Souls, "
+"as known by those who speak the language of the gods, said to have been "
+"created out of dirt, and to have envied the wielder of the Arcane Flame, for "
+"the First displayed great favoritism towards her."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:928
+msgid ""
+"The most primitive races of Irdya, such as the merfolk, prefer to avoid "
+"referring to Merthiaal by any name; if they must mention her, they’ll speak "
+"of Yechnagoth, an accursed name in one of their ancient tongues."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:930
+msgid ""
+"Uria’s demons say that Merthiaal’s envy consumed her mind and drove her mad "
+"enough to lose control of her powers and accidentally destroy an entire "
+"world before Uria ripped her heart out, destroyed her body, and bound her "
+"soul to a gem, the Dusk Emerald."
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:932
+msgid ""
+"Now that we have created a new body for her heart and her soul using "
+"Verlissh creatures, she shall have a new oportunity to destroy the "
+"descendants of her rival and allow Uria to reign over this decadent world at "
+"last."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1013
+msgid "There doesn’t seem to be much more to see here. That’s unfortunate."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1018
+msgid ""
+"What we have found here is...frightening. We always thought that there was a "
+"single world, the one in which we live. Our priestesses won’t-"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1023
+msgid ""
+"You’ll have more trouble digesting the information about Yechnagoth. “The "
+"First” is also described in the ruins of a hidden city beneath the Heart "
+"Mountains, and he created ten powerful demons, the Original Ten. I "
+"understand that this implies that you, the elves and other faerie creatures, "
+"are descended, or at least based on Yechnagoth’s and Uria’s sister."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1028
+msgid ""
+"Eloh. That name was almost never mentioned in my times, and I could find "
+"very little information about her. I suppose that Zhangor’s influence upon "
+"the Wesmere elves may have reintroduced her to our kin’s lore. It’s most "
+"likely not her real name anyway."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1033
+msgid ""
+"What you have learned about Eloh, and Yechnagoth and Uria...should not be "
+"shared with other elves, orcs or even humans. It could be...devastating to "
+"our cultures, to say the least, especially in these times when demons roam "
+"and spoil Irdya at will within our sight."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1038
+msgid ""
+"<i>(snicker)</i> And you say that Argan never intended to cause you any "
+"harm? All that we have found proves that he really wanted to destroy your "
+"kind after all! Using the powers of an ancient demon, no less!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1043
+msgid ""
+"I’m not believing that it could be his true intention. He was...under Uria’s "
+"control."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1048
+msgid ""
+"So, have you forgotten what he said? “I chose my fate — I guess this is what "
+"I deserved from the beginning.” I know, his last words were very vague, but "
+"it certainly sounded like he knew what he was doing the whole time. Perhaps "
+"it was not his intention to cause harm to *you* in particular, but the "
+"damage he caused throughout the continent, in the name of Uria... It hurt "
+"you, didn’t it? To make things worse, it seemed like Uria felt his loss. If "
+"he was a mere puppet of hers, would she have proclaimed her intentions to "
+"avenge her “emissary” like she did?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1054
+msgid ""
+"Elynia slowly approaches Mal Keshar, staring at him with a grim expression "
+"in her eyes — something that neither the lich of Galas had seen in her "
+"before."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1059
+msgid "You know nothing."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1064
+msgid "I saw enough. I heard enough."
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1069
+msgid ""
+"<i>(nervously)</i> We should go back to the surface soon before we run out "
+"of provisions."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1074
+msgid ""
+"Elynia...if I’m not mistaken, we found a journal in the Heart, and you have "
+"kept it all this time with you, correct?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1079
+msgid ""
+"<i>(hesitates for a second)</i> I...the one who suggested the idea, he was "
+"under Uria’s control, wasn’t he? The journal we have might not be Argan’s."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1084
+msgid ""
+"I am sure it is. I knew Lédinor well enough, and I’m sure that was him "
+"speaking, not Uria. Shortly afterwards, his face...changed. No matter what "
+"Uria said, I’m certain that Lédinor was struggling to overcome her control "
+"all that time, resisting it long enough to help us, knowing that she’d win "
+"at the end. If he had told us about it, his will would have collapsed much "
+"earlier."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1089
+msgid ""
+"We are descendants of Eloh, and as the Quenoth elves know, not even "
+"Yechnagoth’s mind control can work on us that easily."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1094
+msgid ""
+"I know you are probably hesitating to read Argan’s journal because you fear "
+"to learn about how much of a monster he became."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1099
+msgid "I..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1104
+msgid ""
+"I could read it if you give me a few days. If you don’t want to know any "
+"details besides what is revelant to our quest, fine, I won’t disclose such "
+"information to anyone."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1109
+msgid "<i>(with a softer expression)</i> Very well."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1114
+msgid ""
+"And while I work on it, you go to the beach, maybe get a tan, play with your "
+"little fellow desert elves and...let’s put a smile on that face once and for "
+"all, shall we? You need to laugh a bit from time to time — it really helps "
+"when you’ve lived for so long, I know. So, go ahead, enjoy your short "
+"vacation. Meanwhile, I’ll be *killing* myself reading a damn book; I’ve not "
+"read books for...millenia, you know? Suddenly everyone forgot how to read "
+"and write after the Fall!"
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1119
+msgid "You are dead already."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1124
+msgid "I know, I know, and so you’ll be if you keep pointing out the obvious."
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1139
+msgid ""
+"We have spent too much time in these caverns, and many of my men are "
+"starving."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07_The_Search_for_the_Past.cfg:1144
+msgid ""
+"<i>(sighs, looking at the cave’s roof)</i> It’s too bad that we always have "
+"a time limit of some sort for anything we do."
+msgstr ""
+
+#. [scenario]: id=07x_Resolutions
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:5
+msgid "Resolutions"
+msgstr ""
+
+#. [event]: id=Galas, id=Elynia, (id=Kyara) facing sw}
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:93
+msgid "Vordel"
+msgstr ""
+
+#. [event]: id=Galas, id=Elynia, (id=Kyara) facing sw}
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:97
+msgid "Naron"
+msgstr ""
+
+#. [event]: id=Galas, id=Elynia, (id=Kyara) facing sw}
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:101
+msgid "Dela"
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:111
+msgid ""
+"It is certainly unfortunate that you couldn’t find a solution to this "
+"problem. Everything seems peaceful and good from our current location, but "
+"if Uria’s minions win the war and take over the continent, it will be a "
+"matter of time until they come back to claim this island. What if Yechnagoth "
+"is able to control the surface creatures in the continent again?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:116
+msgid ""
+"At least we know that her soul is no longer in this world. There’s a faint "
+"possibility that they might be unable to use her heart for anything yet. We "
+"must make haste and instruct our allies to destroy the remains of Wesmere..."
+"and clear other lands controlled by the Iron Triad."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:121
+msgid ""
+"A few of our people expressed interest on joining your group to help you in "
+"this quest, and learn more about the state of the lands whence we came a "
+"couple of centuries ago."
+msgstr ""
+
+#. [message]: speaker=Dela
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:126
+msgid "Eloh would want us to help our kin in these dark times"
+msgstr ""
+
+#. [message]: speaker=Vordel
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:131
+msgid ""
+"Our numbers are very small, and we don’t have the resources to support an "
+"army, but we have the knowledge, and the faith to try to make a difference "
+"in the battlefield."
+msgstr ""
+
+#. [message]: speaker=Naron
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:136
+msgid "It’d be a honor to fight alongside you, sir."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:141
+msgid ""
+"Fight, indeed. We have spent too much time far from “home” and who knows "
+"what’s become of it in the meantime."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:146
+msgid ""
+"The honor is ours. We are grateful for your help in this day, and the day "
+"when you helped everyone by banishing Yechnagoth’s soul from Irdya."
+msgstr ""
+
+#. [message]: speaker=Maina
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:151
+msgid ""
+"Young Galas, it’s no small deed what you three have done for us too. "
+"Although your journey is not quite complete yet, by defeating one of Uria’s "
+"most powerful demons you have given the world a new hope for a new future."
+msgstr ""
+
+#. [message]: speaker=Gaellis
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:156
+msgid ""
+"Kyara is easily one of our most skilled archers, and she has expressed her "
+"desire to join you in your quest. You will need all the help you can get."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:161
+msgid "I’m not-"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:166
+msgid ""
+"You can come with us if you wish, but you need to be aware of the dangers "
+"that lie in our way."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:171
+msgid ""
+"I am aware. I’ve talked with lord Galas of the subject before — I just want "
+"to be of help to forest ancestors in this struggle for survival."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/07x_Resolutions.cfg:176
+msgid ""
+"We must now prepare for departing this next morning. A long path awaits us."
+msgstr ""
+
+#. [scenario]: id=08_Fear, id=event drone
+#: After_the_Storm/scenarios/08_Fear.cfg:5
+msgid "Fear"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/08_Fear.cfg:81
+msgid "Explore the peninsula"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/08_Fear.cfg:99
+msgid ""
+"The fog is so dense I can barely see anything in the distance. I don’t like "
+"the looks of this."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/08_Fear.cfg:104
+msgid ""
+"Indeed. We should explore this peninsula carefully and stay together. Maybe "
+"we can find an abandoned castle or village to rest while we plan our next "
+"course."
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/08_Fear.cfg:109
+msgid ""
+"The air is unusually dense. There’s something more about this place I don’t "
+"like."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/08_Fear.cfg:114
+msgid "We may soon find out..."
+msgstr ""
+
+#. [message]: speaker=Kyara
+#: After_the_Storm/scenarios/08_Fear.cfg:156
+msgid "What kind of hellish spawn is that thing?!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/scenarios/08_Fear.cfg:161
+msgid "Shaxthals. We are definitely not alone here."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: After_the_Storm/scenarios/08_Fear.cfg:166
+msgid "It’s time to fight our way through this place then."
+msgstr ""
+
+#. [unit]: type=Chaos Magus, id=Essornius
+#: After_the_Storm/scenarios/08_Fear.cfg:189
+msgid "Essornius"
+msgstr ""
+
+#. [message]: speaker=Horo
+#: After_the_Storm/scenarios/08_Fear.cfg:262
+msgid "Yes, we did it!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/08_Fear.cfg:267
+msgid "Let’s try to get out of this land as quickly as we can."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/08_Fear.cfg:276
+msgid "Galas?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: After_the_Storm/scenarios/08_Fear.cfg:285
+msgid "...Elynia?"
+msgstr ""
+
+#. [scenario]: id=09_The_Triad_part_1
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:5
+msgid "The Triad — Part 1"
+msgstr ""
+
+#. [side]: id=Elyssa, type=Shaxthal Warlord Elyssa
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:50
+msgid "Elyssa"
+msgstr ""
+
+#. [side]: id=Mal Kendria, type=Necromancer
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:70
+msgid "Mal Kendria"
+msgstr ""
+
+#. [side]: id=Nar-hamoth, type=Shaxthal Warlord
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:92
+msgid "Nar-hamoth"
+msgstr ""
+
+#. [side]: id=Mal Hekuba, type=Ancient Lich
+#: After_the_Storm/scenarios/09_The_Triad_part_1.cfg:113
+msgid "Mal Hekuba"
+msgstr ""
+
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:13
+msgid "Return to Wesmere"
+msgstr ""
+
+#. [side]: type=Shaxthal Queen, id=Hive Queen
+#. [side]
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:32
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:52
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:62
+#: After_the_Storm/scenarios/11_The_Queen.cfg:54
+#: After_the_Storm/scenarios/11_The_Queen.cfg:74
+#: After_the_Storm/scenarios/11_The_Queen.cfg:84
+msgid "team_name^Hive"
+msgstr ""
+
+#. [side]: type=Shaxthal Queen, id=Hive Queen
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:41
+#: After_the_Storm/scenarios/11_The_Queen.cfg:63
+msgid "Hive Queen"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:92
+msgid "Proceed underground into the enemy hive"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:96
+msgid "Turns run out"
+msgstr ""
+
+#. [event]
+#: After_the_Storm/scenarios/10_Return_to_Wesmere.cfg:98
+msgid ""
+"You can recruit or recall up to $player_castle_hexes units on the first turn "
+"only."
+msgstr ""
+
+#: After_the_Storm/scenarios/11_The_Queen.cfg:18
+msgid "Hail to the Queen"
+msgstr ""
+
+#. [side]: type=Sylvan Warden, id=Elynia
+#. [side]
+#: After_the_Storm/scenarios/11_The_Queen.cfg:36
+#: After_the_Storm/scenarios/11_The_Queen.cfg:94
+msgid "team_name^Elynia"
+msgstr ""
+
+#. [terrain_type]: id=overlay-pit
+#. [terrain_type]: id=dark-hive-floor
+#. [terrain_type]: id=dark-hive-surface
+#. [terrain_type]: id=dark-hive-lair
+#: After_the_Storm/terrain-virtual.cfg:15 After_the_Storm/terrain.cfg:28
+#: After_the_Storm/terrain.cfg:37 After_the_Storm/terrain.cfg:46
+msgid "Dark Hive"
+msgstr ""
+
+#. [terrain_type]: id=overlay-campfire
+#: After_the_Storm/terrain-virtual.cfg:24
+msgid "Campfire"
+msgstr ""
+
+#. [terrain_type]: id=overlay-gate-se
+#. [terrain_type]: id=overlay-gate-sw
+#: After_the_Storm/terrain-virtual.cfg:34
+#: After_the_Storm/terrain-virtual.cfg:43
+msgid "Gate"
+msgstr ""
+
+#. [terrain_type]: id=wasteland
+#: After_the_Storm/terrain.cfg:6
+msgid "Wasteland"
+msgstr ""
+
+#. [terrain_type]: id=blood_pool
+#. [terrain_type]: id=blood_lake
+#: After_the_Storm/terrain.cfg:58 After_the_Storm/terrain.cfg:69
+msgid "Blood"
+msgstr ""
+
+#. [race]: id=verlissh
+#: After_the_Storm/units/alien-verlissh.cfg:5
+msgid "race^Verlissh"
+msgstr ""
+
+#. [race]: id=verlissh
+#: After_the_Storm/units/alien-verlissh.cfg:6
+msgid "race+female^Verlissh"
+msgstr ""
+
+#. [race]: id=verlissh
+#: After_the_Storm/units/alien-verlissh.cfg:7
+msgid "race^Verlisshi"
+msgstr ""
+
+#. [race]: id=verlissh
+#: After_the_Storm/units/alien-verlissh.cfg:10
+msgid ""
+"The main attack force of the Chaos Empire relies on alien creatures that "
+"come from the outer Unknown, said to have fallen from the skies at the "
+"commands of the Chaos lores.\n"
+"\n"
+"The few blessed ones who have survived one of these horrors' attacks, can "
+"only describe the fear they felt when they were facing the multiple eyes and "
+"slimy jaws of these creatures, thinking that it would be the last time they "
+"would see the sunlight."
+msgstr ""
+
+#. [unit_type]: id=Verlissh Matrix Core, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Matrix_Core.cfg:12
+msgid "Matrix Core"
+msgstr ""
+
+#. [unit_type]: id=Verlissh Matrix Core, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Matrix_Core.cfg:63
+msgid ""
+"This thing is impossible to describe, no one has seen anything like it "
+"before."
+msgstr ""
+
+#. [attack]: type=cold
+#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:69
+#: After_the_Storm/units/alien-verlissh/Matrix_Core.cfg:67
+#: After_the_Storm/units/alien-verlissh/Psy_Crawler.cfg:33
+msgid "energy ray"
+msgstr ""
+
+#. [attack]: type=fire
+#: After_the_Storm/units/alien-verlissh/Matrix_Core.cfg:76
+msgid "hot goo"
+msgstr ""
+
+#. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:13
+msgid "Matrix Flow System"
+msgstr ""
+
+#. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:65
+msgid ""
+"No one knows for sure what kind of creature has this sort of thing instead "
+"of arms and legs. But what is known for sure is that they cannot move "
+"around, and are restricted to stay still in a single place. However, this "
+"does not mean that they do not have any manner of defense from external "
+"attacks."
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:78
+msgid "goo"
+msgstr ""
+
+#. [unit_type]: id=Psy Crawler, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Psy_Crawler.cfg:5
+msgid "Psy Crawler"
+msgstr ""
+
+#. [unit_type]: id=Psy Crawler, race=verlissh
+#: After_the_Storm/units/alien-verlissh/Psy_Crawler.cfg:20
+msgid ""
+"The Psy Crawlers are the grunt attack force of the Verlissh. Albeit being "
+"rather slow and weak, they are a true menace for unexperienced fighters."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+#: After_the_Storm/units/elves-quenoth/Archer.cfg:5
+msgid "Quenoth Archer"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+#: After_the_Storm/units/elves-quenoth/Archer.cfg:19
+msgid ""
+"The Quenoth Archers are trained from youth in archery, and so skilled in "
+"long-range combat. Though their bows are cruder and their arrows less "
+"plentiful than their forest counterparts, they fight with ferocity that does "
+"credit to their race."
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/humans/Chaos_Raider.cfg:40
+#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:33
+#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:27
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:34
+#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:28
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:33
+#: After_the_Storm/units/elves-quenoth/Hero.cfg:22
+#: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:23
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:33
+#: After_the_Storm/units/elves-quenoth/Avenger.cfg:33
+#: After_the_Storm/units/elves-quenoth/Scout.cfg:31
+#: After_the_Storm/units/elves-quenoth/Champion.cfg:23
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:33
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:22
+#: After_the_Storm/units/elves-quenoth/Archer.cfg:23
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:38
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:22
+#: After_the_Storm/units/elves-quenoth/Captain.cfg:34
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:32
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/elves-wood/Wayfarer.cfg:58
+#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:36
+#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:37
+#: After_the_Storm/units/humans/Chaos_Bowman.cfg:38
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:45
+#: After_the_Storm/units/elves-quenoth/Hero.cfg:31
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:42
+#: After_the_Storm/units/elves-quenoth/Avenger.cfg:45
+#: After_the_Storm/units/elves-quenoth/Scout.cfg:40
+#: After_the_Storm/units/elves-quenoth/Champion.cfg:32
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:42
+#: After_the_Storm/units/elves-quenoth/Archer.cfg:32
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:47
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:31
+#: After_the_Storm/units/elves-quenoth/Captain.cfg:43
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:41
+msgid "bow"
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-quenoth/Archer.cfg:212
+msgid "female^Quenoth Archer"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Avenger, race=elf
+#: After_the_Storm/units/elves-quenoth/Avenger.cfg:5
+msgid "Quenoth Avenger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Avenger, race=elf
+#: After_the_Storm/units/elves-quenoth/Avenger.cfg:29
+msgid ""
+"The Quenoth Avengers are extremely skillful and extremely quick, powerful in "
+"all forms of combat. Like their kin, they prefer the sword to the bow and "
+"are adept at sneaking around and backstabbing their enemies."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-quenoth/Avenger.cfg:152
+msgid "female^Quenoth Avenger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Captain, race=elf
+#: After_the_Storm/units/elves-quenoth/Captain.cfg:5
+msgid "Quenoth Captain"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Captain, race=elf
+#: After_the_Storm/units/elves-quenoth/Captain.cfg:28
+msgid ""
+"Skilled in commanding other elves, the Quenoth Captains provide a bonus to "
+"all level 1 units on adjacent hexes. Quenoth Captains prefer engaging the "
+"enemy in melee combat, but are trained in archery as well."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Champion, race=elf
+#: After_the_Storm/units/elves-quenoth/Champion.cfg:5
+msgid "Quenoth Champion"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Champion, race=elf
+#: After_the_Storm/units/elves-quenoth/Champion.cfg:19
+msgid ""
+"Quenoth Champions are awesome masters of swordsmanship, inflicting grievous "
+"wounds in close combat. Master fighters, they are also skilled with the bow, "
+"able to inflict damage on their enemies from both near and far."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Druid, race=elf
+#: After_the_Storm/units/elves-quenoth/Druid.cfg:5
+msgid "female^Quenoth Druid"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Druid, race=elf
+#: After_the_Storm/units/elves-quenoth/Druid.cfg:22
+msgid ""
+"The Quenoth Druids are powerful masters of the sands and forests. Brilliant "
+"at ensnaring unwary opponents, they use their vast knowledge of the plants "
+"of the desert to heal allies. Druids are excellent supporting units in any "
+"group of elves."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/elves-quenoth/Druid.cfg:26
+#: After_the_Storm/units/elves-quenoth/Shaman.cfg:26
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/elves-quenoth/Star.cfg:55
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:39
+#: After_the_Storm/units/elves-quenoth/Druid.cfg:36
+msgid "ensnare"
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/elves-quenoth/Star.cfg:67
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:51
+#: After_the_Storm/units/elves-quenoth/Druid.cfg:48
+msgid "thorns"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:5
+msgid "Quenoth Fighter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:18
+msgid ""
+"The fighters make up the bulk of the Quenoth warriors. They are trained in "
+"both sword and bow, though like most of their kin, they prefer swordplay to "
+"archery."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hero, race=elf
+#: After_the_Storm/units/elves-quenoth/Hero.cfg:5
+msgid "Quenoth Hero"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hero, race=elf
+#: After_the_Storm/units/elves-quenoth/Hero.cfg:18
+msgid ""
+"Quenoth Heroes focus on individual performance on the battlefield, having "
+"tweaked their combat skills to the very maximum. These warriors prefer "
+"fighting at close range with the sword, but also have some skill with the "
+"bow."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:5
+msgid "Quenoth Horseman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:32
+msgid ""
+"Trading speed for heavier arms and armament, the Quenoth Horsemen delight in "
+"riding into danger instead of away from it. This is an awful description, "
+"please FIXME."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:5
+msgid "Quenoth Marksman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:18
+msgid ""
+"The Quenoth Marksmen are experts in use of the bow. Though their bows and "
+"arrows are not as fine as those of their ancestors, they continue to hone "
+"their skill. This great skill with the bow compensates for their lack of "
+"skill in melee combat."
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:32
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:31
+msgid "longbow"
+msgstr ""
+
+#. [female]
+#. [variation]
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:168
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:254
+msgid "female^Quenoth Marksman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marshal, race=elf
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:5
+msgid "Quenoth Marshal"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marshal, race=elf
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:29
+msgid ""
+"The Quenoth Marshals are master commanders, able to inspire confidence in "
+"any level 1 or 2 unit in adjacent hexes, causing them to fight with "
+"increased skill. Quenoth Marshals prefer engaging the enemy in melee combat, "
+"but are trained in archery as well."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:5
+msgid "Quenoth Outrider"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:29
+msgid ""
+"Riding like the wind, the Quenoth Outriders breeze across the sands to "
+"strike at weaker units and exposed flanks. Skilled in the sword, and trained "
+"in the bow, they strike hard before flying off into the sands to evade "
+"response."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Ranger, race=elf
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:5
+msgid "Quenoth Ranger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Ranger, race=elf
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:29
+msgid ""
+"The Quenoth Rangers are quick and powerful. Skilled in both short and long-"
+"range combat, Rangers are truly all-round fighters. Like their kin, they "
+"prefer the sword to the bow and are adept at sneaking around and "
+"backstabbing their enemies."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:152
+msgid "female^Quenoth Ranger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Rider, race=elf
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:5
+msgid "Quenoth Rider"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Rider, race=elf
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:28
+msgid ""
+"Swift riders, the Quenoth Riders are fast in the open lands. They can use a "
+"bow from horseback, but prefer to engage in melee combat when necessary."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#: After_the_Storm/units/elves-quenoth/Scout.cfg:5
+msgid "Quenoth Scout"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#: After_the_Storm/units/elves-quenoth/Scout.cfg:27
+msgid ""
+"These elvish scouts move swiftly across sands and forests. Their skill on "
+"horseback is virtually unmatched, although they do lack power in combat."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+#: After_the_Storm/units/elves-quenoth/Shaman.cfg:5
+msgid "female^Quenoth Shaman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+#: After_the_Storm/units/elves-quenoth/Shaman.cfg:22
+msgid ""
+"Shamans focus on less violent ways to hinder the enemy. Their entangling "
+"attack slows enemies down and reduces by one the number of times they may "
+"attack. They also possess basic healing abilities."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/elves-quenoth/Shaman.cfg:36
+msgid "entangle"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sharpshooter, race=elf
+#: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:5
+msgid "Quenoth Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sharpshooter, race=elf
+#: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:19
+msgid ""
+"The most elite archers among the elves, the Quenoth Sharpshooters use the "
+"best bows and arrows available, which makes them just as deadly as their "
+"ancestors. These Sharpshooters are incredibly accurate, even when firing "
+"very quickly, which makes them excellent at picking off entrenched enemies."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:142
+msgid "female^Quenoth Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shyde, race=elf
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:5
+msgid "female^Quenoth Shyde"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shyde, race=elf
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:22
+msgid ""
+"Similar to their forest counterparts, the Quenoth Shydes are the living "
+"testament to the beatiful and mysterious powers of their faerie ancestors. "
+"Rarely seen nowadays, rumored to be awaiting the return of Eloh to the lands "
+"of Irdya, these protectors of the elvish legacy are said to be capable of "
+"healing any sort of wounds inflicted upon their kin as long as there's still "
+"a drop of life in them."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/elves-quenoth/Star.cfg:42
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:26
+msgid "faerie touch"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: After_the_Storm/units/elves-quenoth/Star.cfg:5
+msgid "female^Quenoth Star"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: After_the_Storm/units/elves-quenoth/Star.cfg:38
+msgid ""
+"SPECIAL_NOTE^ This unit gains a 10% bonus to resistance from all attacks."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: After_the_Storm/units/elves-quenoth/Star.cfg:38
+msgid ""
+"Only a few Shydes of the Quenoth elves get to learn the secrets that allow "
+"the most devoted faeries to shine with the light of Eloh like living stars. "
+"The powers they acquire allow them to reduce the wounds they may suffer when "
+"attacked, and glide unencumbered across virtually any place. With their help "
+"and guidance, the morale of the Quenoth elves has been kept strong enough to "
+"defeat all sorts of monsters and enemies in their long journey to establish "
+"their home in amidst the seas of Irdya.\n"
+"\n"
+"The Quenoth Stars are rarely seen nowadays, and are rumored to be awaiting "
+"the return of Eloh to the lands of Irdya for the final battle against Uria."
+msgstr ""
+
+#. [unit_type]: id=Elvish Civilian, race=elf
+#: After_the_Storm/units/elves-wood/Civilian.cfg:5
+msgid "Elvish Civilian"
+msgstr ""
+
+#. [unit_type]: id=Elvish Civilian, race=elf
+#: After_the_Storm/units/elves-wood/Civilian.cfg:20
+msgid ""
+"Since elves are not warlike by nature, most of their population is composed "
+"by civilians, who learn, at very early age, basic usage of swords and bows, "
+"so that they can defend themselves, or their homes, in times of need, "
+"forming a fairly skilled militia. However, if you are hurling civilians at "
+"your foes, you're clearly out of superior forces."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-wood/Civilian.cfg:139
+msgid "female^Elvish Civilian"
+msgstr ""
+
+#. [unit_type]: id=Elvish Hunter, race=elf
+#: After_the_Storm/units/elves-wood/Hunter.cfg:5
+msgid "Elvish Hunter"
+msgstr ""
+
+#. [unit_type]: id=Elvish Hunter, race=elf
+#: After_the_Storm/units/elves-wood/Hunter.cfg:31
+msgid ""
+"The elvish militia is mainly composed of civilians who have dropped their "
+"bows in favour of entangling unwary oponents using their bolas, and then "
+"finish them off with their swords. They are trained to scour the woods, "
+"hills and mountains for prey and enemies."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/elves-wood/Wayfarer.cfg:47
+#: After_the_Storm/units/elves-wood/Trapper.cfg:49
+#: After_the_Storm/units/elves-wood/Prowler.cfg:53
+#: After_the_Storm/units/elves-wood/Hunter.cfg:49
+msgid "bolas"
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-wood/Hunter.cfg:152
+msgid "female^Elvish Hunter"
+msgstr ""
+
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: After_the_Storm/units/elves-wood/Prowler.cfg:5
+msgid "Elvish Prowler"
+msgstr ""
+
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: After_the_Storm/units/elves-wood/Prowler.cfg:37
+msgid ""
+"The best hunters learn to take advantage of their surroundings to attack "
+"unwary enemies by surprise. Camouflage is the most frightening ability of "
+"these masters of elusive strategies, as an unwary foe could be struck down "
+"by them with ease. It has been recorded that entire raiding parties have "
+"been decimated by Prowlers, in matter of a few minutes, even seconds.\n"
+"\n"
+"This is one of the various reasons that the wood elves are respected and "
+"feared by most races."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-wood/Prowler.cfg:130
+msgid "female^Elvish Prowler"
+msgstr ""
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: After_the_Storm/units/elves-wood/Trapper.cfg:5
+msgid "Elvish Trapper"
+msgstr ""
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: After_the_Storm/units/elves-wood/Trapper.cfg:33
+msgid ""
+"Elvish Trappers have increased their expertise on patrolling and defending "
+"their bases, having learned the value of confusing their enemies and "
+"backstabbing them. These skirmishers have become more skilled with the short "
+"sword, having less need of using their bolas to beat their oponents."
+msgstr ""
+
+#. [female]
+#: After_the_Storm/units/elves-wood/Trapper.cfg:126
+msgid "female^Elvish Trapper"
+msgstr ""
+
+#. [unit_type]: id=Elvish Wayfarer, race=elf
+#: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
+msgid "Elvish Wayfarer"
+msgstr ""
+
+#. [unit_type]: id=Elvish Wayfarer, race=elf
+#: After_the_Storm/units/elves-wood/Wayfarer.cfg:33
+msgid "FIXME"
+msgstr ""
+
+#. [race]: id=fairy
+#: After_the_Storm/units/fairies.cfg:5
+msgid "race^Faerie"
+msgstr ""
+
+#. [race]: id=fairy
+#: After_the_Storm/units/fairies.cfg:6
+msgid "race+male^Faerie"
+msgstr ""
+
+#. [race]: id=fairy
+#: After_the_Storm/units/fairies.cfg:7
+msgid "race^Faeries"
+msgstr ""
+
+#. [race]: id=fairy
+#: After_the_Storm/units/fairies.cfg:8
+msgid ""
+"Great, dark forests and caves are excellent places for mysterious creatures "
+"to live and hide in. Rarely seen, the mischievous fairies are some of the "
+"most beautiful beings who inhabit those parts. Their protective attitude "
+"towards nature make them friends of the elves who often share their "
+"territory, but their whimsical personality and control over the fire element "
+"are characteristics that any creature foreign to their forests should fear "
+"and respect."
+msgstr ""
+
+#. [unit_type]: id=Faerie Dryad, race=fairy
+#: After_the_Storm/units/fairies/Dryad.cfg:5
+msgid "Dryad"
+msgstr ""
+
+#. [unit_type]: id=Faerie Dryad, race=fairy
+#: After_the_Storm/units/fairies/Dryad.cfg:35
+msgid ""
+"The beautiful nymphs that secretly live in forests have been named Dryads, "
+"because of their afinity with vegetation. These faerie beings are beautiful "
+"enough to often fool enemies, who mistake them for innocent ladies, until "
+"they see themselves being consumed with their mystic fire. This is yet "
+"another reason to avoid entering elvish territory without permission."
+msgstr ""
+
+#. [attack]: type=fire
+#: After_the_Storm/units/fairies/Spirit.cfg:44
+#: After_the_Storm/units/fairies/Fire.cfg:31
+#: After_the_Storm/units/fairies/Sprite.cfg:30
+#: After_the_Storm/units/fairies/Dryad.cfg:41
+msgid "fire aura"
+msgstr ""
+
+#. [attack]: type=fire
+#: After_the_Storm/units/fairies/Spirit.cfg:56
+#: After_the_Storm/units/fairies/Fire.cfg:40
+#: After_the_Storm/units/fairies/Sprite.cfg:39
+#: After_the_Storm/units/fairies/Sylvan_Warden.cfg:65
+#: After_the_Storm/units/fairies/Dryad.cfg:50
+msgid "mystic fire"
+msgstr ""
+
+#. [unit_type]: id=Fire Faerie, race=fairy
+#: After_the_Storm/units/fairies/Fire.cfg:5
+msgid "Fire Faerie"
+msgstr ""
+
+#. [unit_type]: id=Fire Faerie, race=fairy
+#: After_the_Storm/units/fairies/Fire.cfg:25
+msgid ""
+"Faeries are rarely seen in a battlefield, as they are usually pacific "
+"creatures when not disturbed. And they are rarely disturbed, as most races "
+"know already what can the consequences be, if they dare defy a faerie, thus "
+"choosing to respect them and their homes. However, it is said that in times "
+"of war and great need they can become powerful allies to those who protect "
+"nature as much as they do. And the best race for that purpose are the forest "
+"elves.\n"
+"\n"
+"The most experienced faeries have developed a fearsome mastery of the fire "
+"element, which they can use to throw powerful fireballs to their oponents at "
+"long range, or to burn them at close range with a single touch of their "
+"hands. It is said that their very bodies start to burn, eventually leading "
+"them to become non-corporeal spirits of nature, made of pure fire."
+msgstr ""
+
+#. [unit_type]: id=Faerie Spirit, race=fairy
+#: After_the_Storm/units/fairies/Spirit.cfg:5
+msgid "Forest Spirit"
+msgstr ""
+
+#. [unit_type]: id=Faerie Spirit, race=fairy
+#: After_the_Storm/units/fairies/Spirit.cfg:38
+msgid ""
+"Faeries may eventually become one with the fire element, turning into "
+"spirits of flame and might, which they will use to relentlessly protect the "
+"forests they inhabit or people to which they have swore allegiance. However, "
+"seeing one of these spirits is more rare than stumbling upon a Wose, even "
+"for elves."
+msgstr ""
+
+#. [unit_type]: id=Faerie Sprite, race=fairy
+#: After_the_Storm/units/fairies/Sprite.cfg:5
+msgid "Sprite"
+msgstr ""
+
+#. [unit_type]: id=Faerie Sprite, race=fairy
+#: After_the_Storm/units/fairies/Sprite.cfg:24
+msgid ""
+"Mischievous in nature, these fiery fairies are pranksters at heart, with a "
+"sense of humor that is often called nymph-like. While their command of the "
+"fire element remains a mystery, it has been rumored that these fairies are "
+"cousins to the imp. However, their protective attitude of nature and "
+"whimsical personality make them fast friends to the elves."
+msgstr ""
+
+#. [unit_type]: id=Sylvan Warden, race=fairy
+#: After_the_Storm/units/fairies/Sylvan_Warden.cfg:5
+msgid "female^Sylvan Warden"
+msgstr ""
+
+#. [unit_type]: id=Sylvan Warden, race=fairy
+#: After_the_Storm/units/fairies/Sylvan_Warden.cfg:23
+msgid ""
+"Although she is probably best known for the power of the Union which she "
+"formerly wielded, her mastery of faerie magic is great enough to compensate "
+"the loss. She is a guardian of the forests, and will do anything to stop "
+"those who dare disturb peace on them."
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: After_the_Storm/units/humans/Chaos_Bowman.cfg:5
+msgid "Chaos Bowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: After_the_Storm/units/humans/Chaos_Bowman.cfg:25
+msgid ""
+"The backbones of most armies are soldiers capable of using ranged weapons of "
+"sorts. The bow is the cheapest, yet effective, weapon that a military can "
+"afford for beginners in their lines. Bowmen are usually given a short sword "
+"to defend themselves if that should ever be necessary; they are instructed "
+"not to engage enemies in close combat.\n"
+"\n"
+"Bowmen serving the forces of Chaos are trained for moving and attacking "
+"covered by the black shroud of night. This causes great difficulty to most "
+"adversaries, as they are often adapted to fight under the light of the two "
+"suns, over the sands; their lack of protection against the freezing cold of "
+"night is also an advantage for Chaos Bowmen."
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/humans/Chaos_Bowman.cfg:29
+msgid "short sword"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:5
+msgid "Cataphract"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:20
+msgid ""
+"At the zenith of their career, mounted soldiers of Chaos go through unknown "
+"rituals and are ascended to the top of the hierarchy. They seem to have "
+"become, as their mounts, living, blood-thirsty killer machines. Although "
+"just respectable soldiers on their own, a few groups of Cataphracts at night "
+"are certainly enough to take over a large town."
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:42
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:43
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:5
+msgid "Chaos Cavalier"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:21
+msgid ""
+"With time, Chaos Raiders are ascended to higher ranks of the military, given "
+"better weapons, armor and mount. The mount plays an essential role in the "
+"effectiveness of these units. Horses are, by nature, prone to be scared in "
+"the battlefield; when this occurs, the soldier mounting it is usually "
+"injured or killed by the confused animal.\n"
+"\n"
+"The mounts used by Chaos Cavaliers, however, are not known to have ever "
+"reacted in such ways to the battle action. Their behavior suggests that they "
+"have been well trained for the horrors they face. Another possibility is "
+"that they are simply possessed by some demonic force, as are many other "
+"creatures under the control of these men."
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: After_the_Storm/units/humans/Chaos_Crossbowman.cfg:5
+msgid "Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: After_the_Storm/units/humans/Chaos_Crossbowman.cfg:27
+msgid ""
+"Unlike their comrades, the Chaos Longbowmen, who only seek greater power "
+"with their bows, these archers decide to seek power in a more balanced "
+"fashion. Due to this, they are trained to be adept with both their axes and "
+"their crossbows.\n"
+"\n"
+"Such training results in a warrior adept with fighting at both close and "
+"ranged combat, and are especially dangerous at night, due to the fact that "
+"they were trained to fight in the freezing night."
+msgstr ""
+
+#. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
+#: After_the_Storm/units/humans/Chaos_Crossbowman_Advanced.cfg:5
+msgid "Advanced Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: After_the_Storm/units/humans/Chaos_Dark_Knight.cfg:5
+msgid "Knight of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: After_the_Storm/units/humans/Chaos_Dark_Knight.cfg:25
+msgid ""
+"Tougher than the average Chaos follower, the Dark Knight attempts to confuse "
+"it's opponent by wielding a different weapon in each hand. He lets his style "
+"on combat alter depending on the situation, which makes him a tough warrior "
+"to fight."
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:21
+msgid ""
+"Demons know well that the only thing which can stop a tidal wave is a "
+"powerful wall. Doom Guards are such wall, wall of living flesh and steel. "
+"Devoid of bloodlust, their aggression is changed into fanatic loyalty. Doom "
+"Guards are not the ones to fight, they are the ones to stand against every "
+"possible enemy, until they are wounded enough to die instantly."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:36
+#: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:35
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: After_the_Storm/units/humans/Chaos_Headhunter.cfg:5
+msgid "Headhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: After_the_Storm/units/humans/Chaos_Headhunter.cfg:27
+msgid ""
+"The Chaos Hordes rely heavily in their lores' charisma to attrack more "
+"practicioners and recruit new adepts. Some of those adepts do not have the "
+"magic skills to join the Invoker orders, but instead are used as messengers "
+"of doom, given a club, a small supply of javelines and ridding them from "
+"their souls, via the darkest arts known only by the demonic masters. They "
+"are then sent to spread fear and despair amongst their victims, decimating "
+"their defenses before the demons are unleashed and sent to finish the job. "
+"Their fanatism leads them to forget any forms of proper defense, and so, "
+"being rather weak and vulnerable, kill their oponents even if that would "
+"mean their own death."
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:5
+msgid "Hell Guardian"
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:22
+msgid ""
+"Only the toughest of armorers are worthy of the most effective armors and "
+"weapons, forged by the best demonic blacksmiths, and blessed by unlawful "
+"magic. It is said that they could stand against an avalanche with ease, if "
+"they were commanded to do so."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: After_the_Storm/units/humans/Chaos_Invader.cfg:5
+msgid "Chaos Invader"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: After_the_Storm/units/humans/Chaos_Invader.cfg:28
+msgid ""
+"Chaos warriors share the common belief that any government and any god is "
+"corrupt by default, even before being recruited. This is exactly what their "
+"future masters seek for, and easily convince them to join their cause. By "
+"this thought they fulfill the bidding of the lords of Chaos, who do not "
+"sugar coat their reign and let their men face the harsh truth."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker.cfg:5
+msgid "Chaos Invoker"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker.cfg:26
+msgid ""
+"These dark cultists whose mastery of chaos magic is impressive, are called "
+"'Chaos Invokers' by their oponents. Often spotted amongst the first line of "
+"an attack formation, and protected by small groups of warriors, these "
+"cultists command the vanguard hordes of chaos, seeking the best opportunity "
+"to advance in their ranks and become more powerful, willing to rid "
+"themselves of their mortal souls in the process."
+msgstr ""
+
+#. [attack]: type=arcane
+#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:54
+#: After_the_Storm/units/humans/Chaos_Invoker.cfg:47
+#: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:47
+#: After_the_Storm/units/humans/Chaos_Invoker_Lore.cfg:60
+msgid "ethereal blast"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lore, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker_Lore.cfg:5
+msgid "Chaos Lore"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lore, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker_Lore.cfg:27
+msgid ""
+"The mastery of demons lies in the changing into demon oneself. Chaos Lores "
+"are demonic minds entrapped in human body. What is left of human in these "
+"creatures are only bodies and memories of invokers and magi, who finally "
+"achieved the true power of their lords."
+msgstr ""
+
+#. [attack]: type=cold
+#: After_the_Storm/units/humans/Chaos_Invoker_Lore.cfg:48
+msgid "infernal chill"
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:5
+msgid "Chaos Magus"
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:26
+msgid ""
+"It is they, who rally with the larger groups of chaos warriors, supporting "
+"them with magic. As demonic essence touches chaotic mages, they gain the "
+"sharpness of mind and way of thinking more resembling demons, than human "
+"beings. Trapped between humanity and demonity, they seek no turning back, "
+"but aspire to ultimately rid themselves of all mortal bounds, including "
+"their vulnerable souls. Yet, this mutation process has some important side "
+"effects on them, as they turn into demons; their resistance to arcane "
+"attacks is gradually reduced, to equal that of the true demons."
+msgstr ""
+
+#. [unit_type]: id=Chaos Longbowman, race=human, description=FIXME
+#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:5
+msgid "Chaos Longbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=FIXME
+#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:5
+msgid "Heavy Longbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: After_the_Storm/units/humans/Chaos_Marauder.cfg:5
+msgid "Marauder"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: After_the_Storm/units/humans/Chaos_Marauder.cfg:26
+msgid ""
+"It is said that experience makes real warriors. Unfortunately, that is true "
+"even for the Chaos vanguard forces and their messengers, which usually are "
+"not warriors in the beginning. They don't even wield real weapons - except "
+"for a club and a few javelines to throw - in that stage of their training, "
+"in which many die or get converted into undead, or demons. But the bright "
+"ones who get to survive and gain experience become skilled enough to wield "
+"an axe. They are still far from mastering the use of battle axes, but that "
+"interim level is more than enough to cause trouble, death and destruction on "
+"the oponents of Chaos, which is why they are titled the 'Marauders' by "
+"survivors to their deadly assaults."
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: After_the_Storm/units/humans/Chaos_Raider.cfg:5
+msgid "Chaos Raider"
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: After_the_Storm/units/humans/Chaos_Raider.cfg:20
+msgid ""
+"These are the most basic mounted soldiers of Chaos. Albeit they do not have "
+"great experience, their versatility is of importance; they can serve as "
+"scouts, messengers, or even deathly warriors at the vanguard of large hordes."
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: After_the_Storm/units/humans/Chaos_Razerman.cfg:5
+msgid "Chaos Razerman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: After_the_Storm/units/humans/Chaos_Razerman.cfg:29
+msgid ""
+"Knights of the orders of Chaos seem to take great delight into tearing apart "
+"their victims, a demon-like delight. This suggests that they no longer have "
+"soul, or that they have been turned into demons already. Nevertheless, this "
+"delight and blood lust is the symbol of the philosophy of Chaos, their "
+"representative feature."
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:5
+msgid "Soulhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:29
+msgid ""
+"The most dreadful part of the training of the messengers of doom is being "
+"rid of their souls by their masters. However, the resultant warrior is a mix "
+"of endurance, agility, accuracy and skill. Warriors that don't need armor, "
+"for they don't fear death at all, and prefer to wear just the necessary "
+"clothes and wield a minimal set of weaponry. Although they can be killed "
+"with ease by experienced and lucky oponents, the great damage that they can "
+"deal before dying is enough to compensate the loss for the Chaos hordes.\n"
+"\n"
+"Since they have been rid of their souls, it is often rumored that they kill "
+"and destroy searching for their lost soul, or for a soul that can replace "
+"its place in that empty shell called 'body'. Rumor that gave them the title "
+"of 'Soulhunters'."
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:42
+msgid "battle axe"
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:51
+msgid "javelin"
+msgstr ""
+
+#. [unit_type]: id=Door, race=mechanical
+#: After_the_Storm/units/mechanical/Door.cfg:5
+msgid "Door"
+msgstr ""
+
+#. [unit_type]: id=Door, race=mechanical
+#: After_the_Storm/units/mechanical/Door.cfg:21
+msgid ""
+"The door will open only to those who are allied with its owners, unless "
+"struck down by their enemies first."
+msgstr ""
+
+#. [unit_type]: id=Fungoid, race=monster
+#: After_the_Storm/units/monsters/Fungoid.cfg:5
+msgid "Fungoid"
+msgstr ""
+
+#. [unit_type]: id=Fungoid, race=monster
+#: After_the_Storm/units/monsters/Fungoid.cfg:29
+msgid ""
+"Fungoids are mushroom-like creatures that can multiply very quickly. Soft "
+"and weak, they don't represent a real threat to most races. Yet, adventurers "
+"appear from time to time swearing they have seen a fungoid bigger than them. "
+"This myth has never been proved true, however."
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: After_the_Storm/units/monsters/Giant_Ant.cfg:5
+msgid "Giant Ant"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: After_the_Storm/units/monsters/Giant_Ant.cfg:20
+msgid ""
+"Ants are common in almost any environment, from caverns deep under the earth "
+"to the tops of tall mountains. Those that live deep underground tend to grow "
+"up over their normal size. Though normally not hostile, they can bite at "
+"close range, dealing more damage than a normal-sized ant."
+msgstr ""
+
+#. [unit_type]: id=Giant Mushroom, race=monster, description=FIXME
+#: After_the_Storm/units/monsters/Giant_Mushroom.cfg:5
+msgid "Giant Mushroom"
+msgstr ""
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: After_the_Storm/units/monsters/Giant_Spider_Lesser.cfg:5
+msgid "Lesser Giant Spider"
+msgstr ""
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: After_the_Storm/units/monsters/Giant_Spider_Lesser.cfg:18
+msgid ""
+"Smaller and weaker Giant Spiders are very common underground. They usually "
+"prey on single insects roaming around, but sometimes it is possible to find "
+"dwarven or human corpses trapped in their webs, which suggests they have "
+"little problem in eating big individuals fool enough to fall in their traps."
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: After_the_Storm/units/monsters/Hound_Chaos.cfg:5
+msgid "Hound of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: After_the_Storm/units/monsters/Hound_Chaos.cfg:19
+msgid ""
+"Quite fragile in combat, the Hounds of Chaos are directly affected by the "
+"magic of the chaos magi, resulting in them listening and obeying every "
+"command of their masters. The results are mindless effective assassins. "
+"Though they are easily taken care of by a tougher adversary, their nimble "
+"bodies allow them to penetrate far into enemy lines and severely damage "
+"their support units."
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: After_the_Storm/units/monsters/Hound_Demonic.cfg:5
+msgid "Demonic Hound"
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: After_the_Storm/units/monsters/Hound_Demonic.cfg:25
+msgid ""
+"Hounds who serve the power of Chaos are slowly consumed by its essence, just "
+"like their human masters and comrades. Aside from the involved removal of "
+"their souls and the increased bodily strength, demonic hounds acquire a more "
+"developed intellect, which turns them into more perilous foes who will not "
+"stop at anything but the accomplishment of their purpose and desire of "
+"bloodbath."
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: After_the_Storm/units/monsters/Hound_Hell.cfg:5
+msgid "Hellhound"
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: After_the_Storm/units/monsters/Hound_Hell.cfg:26
+msgid ""
+"These creatures are no longer the loyal companions of demonic assault "
+"parties. They turn into their leaders by the dread they inspire into other "
+"followers of Chaos, and the intelligence they have developed as heartless "
+"half-demons. Because it is not common for these hounds to acquire enoguh "
+"experience to evolve this further, as their frantic attacks usually harms "
+"them to death. Thus, at this point they are respected and treated as heroes "
+"by their comrades."
+msgstr ""
+
+#. [unit_type]: id=Leech, race=monster
+#: After_the_Storm/units/monsters/Leech.cfg:5
+msgid "Leech"
+msgstr ""
+
+#. [unit_type]: id=Leech, race=monster
+#: After_the_Storm/units/monsters/Leech.cfg:49
+msgid ""
+"Leeches are universally known for their common diet, the warm blood of "
+"various bigger creatures. However, this is exactly why they are often used "
+"for medicinal purposes.\n"
+"\n"
+"Although not directly related, the same name is applied to groups of strange "
+"worms attached to the ground, found under caves, who are not a great danger "
+"as they cannot move around to search for prey. Instead, they await unwary "
+"victims who get close enough for them to be able to trap them in their "
+"deadly tentacles and then swallow their blood, which increases their "
+"strength and heals their wounds.\n"
+"\n"
+"It is fortunate that they have not developed legs; otherwise, they would be "
+"an almost unstoppable menace to explorers and dwellers of the caves they "
+"inhabit."
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/monsters/Leech.cfg:58
+msgid "drainer"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: After_the_Storm/units/shaxthal.cfg:54
+msgid "race^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: After_the_Storm/units/shaxthal.cfg:55
+msgid "race+female^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: After_the_Storm/units/shaxthal.cfg:56
+msgid "race^Shaxthals"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: After_the_Storm/units/shaxthal.cfg:65
+msgid ""
+"Long before the arrival of humans, the ancient civilzation of the Argazars "
+"dominated Irdya. Losing a war with the planet Rythé, and found themselves "
+"close to complete oblivion. But with their great knowledge of biology, "
+"genetics, technology and even magic, they were able to create the ultimate "
+"weapon: the biomechanicals, known in their ancient tongue as 'Shaxthals'. "
+"These invincible legionnaries combined the toughest and most lethal "
+"attributes of every creature known by their creators. They served as "
+"protectors to the Argazars, but could not guard them against Rythénian "
+"strategic weapons. The Rythé desolated the lands of Irdya, destroyed the "
+"cities, and buried the works of the Argazars.\n"
+"\n"
+"A remnant of the Argazars, buried deep in the very underground base where "
+"shaxthal production was centered. The Rythénians thought their race was "
+"gone, so they ceased attacking the planet. No one knows what events took "
+"place on the surface during centuries and millennia that followed, as the "
+"shattered ecology of Irdya reknit itself. But what is known, is that the "
+"Argazars lost control over their creations -- or, rather, their creations "
+"ceased recognizing them as masters. Whether this was due to a mutation in "
+"the shaxthal or the remnant Argazars themselves is not known.\n"
+"\n"
+"Without the direction of the Argazars, the instincts of the shaxthals "
+"prevailed. Their drives were a strange and predatory mixture of those of "
+"their biological ancestors and the warfare programming of their artificial "
+"bodies. Those instincts eventually drove them them to consume the remainins "
+"of the Argazar civilization. Eventually they took the Argazars' bodies and "
+"integrated them into their own buiomechanical plan. For they had been "
+"designed with an assimilation system that allowed them to integrate into new "
+"environments, or adapt the environments themselves to suit their needs, "
+"including any living organisms that might inhabit them.\n"
+"\n"
+"The Shaxthals kept most of the technology of the Argazars, losing magic and "
+"the advanced forms of biomanipulation with which they had been created. "
+"Reduced to barely a few dozen, the Argazars figured out a biological "
+"weakness of their creations, a way to destroy most of the Shaxthals en "
+"masse. All but a few of the strongest shaxthals perished. Fatefully, the "
+"Argazars decided to keep them in cryogenic pods instead of destroying them "
+"forever, as they thought there might be a last hope of using reprogrammed "
+"shaxthals to rebuild their civilization at some point in the future. That "
+"foolish thought was almost condemned the Great Continent to an armageddon "
+"millennia later.\n"
+"\n"
+"Long after the Fall of Wesnoth, the self-proclaimed Emperor of Chaos figured "
+"out a way to resurrect the creatures, and reproduce their technology by "
+"artificial means. The chaos mages of the Empire even enabled them to them "
+"able to reproduce by natural, asexual means. Thus modified, they became the "
+"principal and most dreaded weapon of the Chaos Empire. After the defeat of "
+"Argan the Shadow Master, the Shaxthals were freed from their imprisonment in "
+"the dark hives of the Heart, and adapted to the time-renewed ecology of the "
+"surface world. They then began to prey on the speaking peoples of Irdya."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone.cfg:5
+msgid "Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone.cfg:28
+msgid ""
+"These shaxthal drones have not completely grown up, so they are considerably "
+"weaker than their adult counterparts, close to larvary state. Incredibly, "
+"when younger, these creatures' body is bigger, with most of it filled with "
+"strange poisonous fluids. Although they are also slower than their adults, "
+"their flexible exoskeleton allows them for good defense from their enemies."
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/shaxthal/Drone_Enforcer.cfg:56
+#: After_the_Storm/units/shaxthal/Drone_Runner.cfg:47
+#: After_the_Storm/units/shaxthal/Drone.cfg:56
+#: After_the_Storm/units/shaxthal/Drone_Protector.cfg:45
+#: After_the_Storm/units/shaxthal/Drone_Sentry.cfg:55
+#: After_the_Storm/units/shaxthal/Drone_Assault.cfg:48
+msgid "energy shock"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Assault.cfg:5
+msgid "Assault Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Assault.cfg:20
+msgid ""
+"Of all the horrors that have been witnessed by all those who oppose the "
+"Chaos Empire and survive the time necessary to pass the story onto "
+"generation by generation, the worst ever recorded might be these floating "
+"metallic beasts that resemble nagas in shape, and insects in appearance, "
+"that have big and strong claws, capable of cutting a man in half with small, "
+"if not nought, effort. These abominations, called the 'Shaxthal' by the "
+"witnesses, honor their name, derived from an ancient human dialect - which "
+"would mean 'invincible' in the modern tongue -, by being fierce, seemingly "
+"unstoppable and virtually invulnerable to physical weapons, for their body "
+"is protected by an incredibly tough and thick shell-armor, of which the only "
+"flaw would be the gaps of flesh in each joint, smelling like rotten flesh.\n"
+"\n"
+"By their resemblance to insects, they have also been titled the 'Drones' by "
+"the rebel forces, but it is a name easily underestimated by unexperienced "
+"fighters that have never seen them in reality. Those foolish ones only "
+"survive long enough to be crushed alive, limb by limb, by a lightbeam coming "
+"from the creature's eyes."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Enforcer.cfg:5
+msgid "Enforcer Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Enforcer.cfg:28
+msgid ""
+"It is said that bulkier versions of the Sentry Drones dwell in the darkness "
+"of the Shaxthal hives protecting their offspring and territory. They also "
+"appear to be smarter than other individuals of their kind, which needless to "
+"say makes them extremely dangerous to confront."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Protector.cfg:5
+msgid "Protector Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Protector.cfg:19
+msgid ""
+"Some drones develop their flexibility and deftness more than others. The "
+"Protectors have chosen the path of endurance and attack strength, becoming "
+"heavier and slower, yet really lethal weapons of mass destruction. However, "
+"they have also developed a worrisome accuracy on their attacks of energy "
+"shockwaves."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Runner.cfg:5
+msgid "Runner Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Runner.cfg:22
+msgid ""
+"Some drones are known for their speed and visual agility and accuracy as the "
+"'Runners'. They stand on only their lower pair of legs, which are very "
+"strong and are designed with scouting performance in mind. They are not a "
+"perilous threat alone on their own, but larger groups are, as with most "
+"species, dangerous.\n"
+"\n"
+"Evidence indicates that their intelligence is very similar to that of "
+"humans, dwarves or elves, albeit being as violent and unpredictable as orcs. "
+"It is unfortunate that such features were put under the commands of the "
+"forces of Chaos instead."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Sentry.cfg:5
+msgid "Sentry Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_Sentry.cfg:27
+msgid ""
+"The Sentry Drones are weaker light-armored variants of the deadly Assault "
+"Drones, reserved for surveiling Shaxthal bases and breeding hives. This "
+"design is so optimized for defending their position rather than exposing "
+"themselves in the outside for assaults, which usually means that when one of "
+"these variants is lured out of its warren, it is easily defeated by swarms "
+"of oponents."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_War.cfg:5
+msgid "War Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: After_the_Storm/units/shaxthal/Drone_War.cfg:19
+msgid "This is a War Drone. Behold! (FIXME)"
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/shaxthal/Drone_War.cfg:42
+msgid "war-blades"
+msgstr ""
+
+#. [attack]: type=impact
+#: After_the_Storm/units/shaxthal/Drone_War.cfg:51
+msgid "energy burst"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Larva, race=shaxthal
+#: After_the_Storm/units/shaxthal/Larva.cfg:5
+msgid "Larva"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Larva, race=shaxthal
+#: After_the_Storm/units/shaxthal/Larva.cfg:27
+msgid ""
+"Every creature must undergo a larvary state in their lifecycle, and "
+"shaxthals are not an exception to the rule. They are weak and dumb, and "
+"their body is still soft, barely armored. Although not suited for direct "
+"combat, shaxthal larvas can still be dangerous to unwary adversaries thanks "
+"to their poisonous salive and blood."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: After_the_Storm/units/shaxthal/Rayblade.cfg:5
+msgid "Rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: After_the_Storm/units/shaxthal/Rayblade.cfg:19
+msgid ""
+"Very few have survived the 'bladestorm' that the Rayblades perform in the "
+"battlefield. In an unnatural manner, they can spin over their own bodies and "
+"destroy their oponents by extending their arms, which instead of hands at "
+"the end have sharp blades, during a fast spinning. Yet worse is that they "
+"seem not to require air at all, being able to stay hours, or days, perhaps, "
+"in the waters of the deepest rivers known."
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/shaxthal/Rayblade.cfg:27
+msgid "weapon^rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: After_the_Storm/units/shaxthal/Razorbird.cfg:5
+msgid "Razorbird"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: After_the_Storm/units/shaxthal/Razorbird.cfg:19
+msgid ""
+"Beside the manufactured drones, other exotic lifeforms have developed and "
+"evolved amongst the Shaxthals, lifeforms that start from a mundane basis, "
+"such as birds. The shaxthal birds, however, are armored; this makes them "
+"slower than natural birds, but also makes them more dangerous, as they have "
+"the ability to throw some appendices of their armor that resemble feather-"
+"shaped knives, knives that can be shot from safe distance to the victim, "
+"inflicting great damage on it."
+msgstr ""
+
+#. [attack]: type=pierce
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:31
+#: After_the_Storm/units/shaxthal/Razorbird.cfg:31
+msgid "beak"
+msgstr ""
+
+#. [attack]: type=blade
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:43
+#: After_the_Storm/units/shaxthal/Razorbird.cfg:40
+msgid "blade shower"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:5
+msgid "Thunderbird"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:19
+msgid ""
+"The shaxthal Razorbirds can grow up even more, becoming threats that are "
+"best avoided in open fields, as they can let themselves fall over their "
+"victim piercing it with their powerful beak. And, in case that is not "
+"enough, the sharpness of their throwing blades is enhanced by their common "
+"practice of producing deadly electric sparks with them."
+msgstr ""
+
+#. [attack]: type=fire
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:52
+msgid "thunderbolt"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Warlord Elyssa, race=shaxthal
+#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:5
+msgid "female^Shaxthal Warlord"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Warlord Elyssa, race=shaxthal
+#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:37
+msgid ""
+"The Chaos military is a very well organized one - the Great Continent has "
+"not seen such kind of disciplined, massive hordes of blood-thirsty foes "
+"since the times of the legendary Mal-Ravanal, responsible of the creation of "
+"a long-lasting order of followers to his cause.\n"
+"\n"
+"At the top of the hiearchy, above the Iron Triad and below the Emperor of "
+"Chaos, lies the greatest commander of their ranks, bestowed with supreme "
+"control over the army, their many strongholds, and their economy, research "
+"and production. Her body has dried up over the time, after being "
+"artificially repaired and modified to preserve her life, to continue serving "
+"Uria for the rest of eternity. It is unknown what her purposes are, or how "
+"loyal she is to the Shadow Master in truth.\n"
+"\n"
+"However, that little matters to anyone who may stumble upon her, for their "
+"fate is already set..."
+msgstr ""
+
+#. [attack]: type=fire
+#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:66
+msgid "burning inferno"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Wyrm, race=shaxthal
+#: After_the_Storm/units/shaxthal/Wyrm.cfg:5
+msgid "Wyrm"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Wyrm, race=shaxthal
+#: After_the_Storm/units/shaxthal/Wyrm.cfg:56
+msgid ""
+"These biomechanicals pretty much resemble the structure, appearance and "
+"behavior of Water Serpents, except that they don't need to breath, they are "
+"very strong and resistant to physical damage, and, most importantly, they "
+"cannot move quickly on most dry terrains. In fact, moving on the surface can "
+"be specially dangerous for them, as their lack of legs and excess of weight, "
+"combinated, render them defenseless.\n"
+"\n"
+"In a dramatically big contrast, their performance on their natural "
+"environments, the Shaxthal nests, is extremely dangerous for any intruders "
+"that may stumble across with these sneaky prowlers."
+msgstr ""
