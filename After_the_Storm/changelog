@@ -2,6 +2,22 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.4.0:
+--------------
+* Scenarios:
+  * 01 - The Skirmish:
+    * Fix minor dialogue typo.
+  * 03 - Civil War:
+    * Fixed a little oversight causing gold to be actually carried over to the
+      next scenario.
+  * 05 - Bay of Tirigaz:
+    * Fix minor dialogue typo.
+  * 09 - The Triad:
+    * New scenario.
+* Units:
+  * Removed help markup from the Sylvan Essence ability special notes to avoid
+    issues in Pango contexts (e.g. sidebar tooltips).
+
 Version 0.3.2:
 --------------
 * Graphics:
@@ -11,7 +27,6 @@ Version 0.3.2:
   * 08 - Fear:
     * New scenario.
 
-
 Version 0.3.1:
 --------------
 * Scenarios:
@@ -20,7 +35,6 @@ Version 0.3.1:
   * 05 - Bay of Tirigaz:
     * Fixed a loophole with the treasure spawns.
     * Fixed warnings about image file extensions with animated fountains.
-
 
 Version 0.3.0:
 --------------
