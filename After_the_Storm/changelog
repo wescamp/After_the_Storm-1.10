@@ -2,6 +2,39 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.4.3:
+--------------
+* Scenarios:
+  * 07 - The Search for the Past:
+    * Fix the poisoned recalls bug for real now; this also fixes an ugly case
+      of saved game corruption resulting from that.
+  * 09 - The Triad (part 1):
+    * Don't allow cutscene helpers to be put into the recall list.
+
+Version 0.4.2:
+--------------
+* Scenarios:
+  * Removed player income in scenario 6 and 7 cutscenes.
+  * 06 - Quenoth Isle/Elves of a Different Land:
+    * Fixed gold carryover for scenario 07.
+  * 07 - The Search for the Past:
+    * Remove poison/slowed/ambush status from units at the end to avoid recall
+      issues in later scenarios.
+  * 07 - Resolutions:
+    * Fixed gold carryover for scenario 08.
+  * 09 - The Triad (part 1):
+    * Fixed undead and faerie units in the recall list being killed in turn 2.
+
+Version 0.4.1:
+--------------
+* Scenarios:
+  * Added custom flag styles for various AI sides.
+  * Minor wording changes, some of them contributed by tr0ll.
+  * 10 - Tears:
+    * New scenario.
+* Units:
+  * Renamed Chaos Lore to Chaos Lorekeeper.
+
 Version 0.4.0:
 --------------
 * Scenarios:
