@@ -2,6 +2,17 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.4.4:
+--------------
+* Scenarios:
+  * 10 - Tears:
+    * Made significantly easier.
+    * Fixed missing gold carryover from scenario 08.
+  * 11 - Return to Wesmere (part 1):
+    * New scenario.
+* Units:
+  * New NPC bird behavior code.
+
 Version 0.4.3:
 --------------
 * Scenarios:
