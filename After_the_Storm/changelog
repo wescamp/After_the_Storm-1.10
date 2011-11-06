@@ -2,6 +2,52 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.5.2a:
+---------------
+* Fixed a "unknown unit" error on scenario 06.
+
+Version 0.5.2:
+--------------
+* Scenarios:
+  * Merged various prose suggestions and fixes from Pentarctagon, AI and vultraz
+    from the forum topic.
+  * 06 - Quenoth Isle:
+    * Minor improvements.
+  * 12 - The Queen:
+    * Fixed a case where Mal Keshar could speak when he isn't supposed to.
+    * Minor improvements.
+* User interface:
+  * Removed map borders overlay from fullscreen cutscene UI.
+
+Version 0.5.1:
+--------------
+* Scenarios:
+  * Fixed several inconsistencies regarding cutscene linger mode.
+* Units:
+  * Turned Galas' bolas attack into an AMLA.
+  * Turned Galas' ambush ability into an AMLA.
+  * Gave Galas more AMLAs: Strength I, Strength II.
+* User interface:
+  * Cutscene-only scenarios now use custom UI themes lacking sidebars and other
+    useless cruft.
+
+Version 0.5.0a:
+---------------
+* Fixed a minor issue with the credits screen background.
+
+Version 0.5.0:
+--------------
+* Scenarios:
+  * 09 - The Triad (part 3):
+    * Fixed problems with the final cutscene on Wesnoth 1.9.8 and earlier.
+  * 11 - Return to Wesmere (part 2):
+    * New scenario.
+  * Completed episode I.
+* Units:
+  * Removed Skirmisher ability from Elynia.
+  * Spawners have a small chance of deactivating themselves after spawning a
+    unit.
+
 Version 0.4.4:
 --------------
 * Scenarios:
