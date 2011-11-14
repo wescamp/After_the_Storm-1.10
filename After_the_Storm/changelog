@@ -2,6 +2,14 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.5.3:
+--------------
+* Graphics:
+  * New or updated unit graphics: Shaxthal Drone, Shaxthal Runner Drone,
+    Shaxthal Sentry Drone, Shaxthal Enforcer Drone, Shaxthal Hive Queen.
+* Units:
+  * Updated AMLA XP requirements to match mainline on 1.9.10 and later.
+
 Version 0.5.2a:
 ---------------
 * Fixed a "unknown unit" error on scenario 06.
