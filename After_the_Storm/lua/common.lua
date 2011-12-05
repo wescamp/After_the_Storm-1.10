@@ -24,6 +24,7 @@ function wesnoth.wml_actions.setup_doors(cfg)
 	local locs = wesnoth.get_locations {
 		terrain = "*^Z\\",
 		{ "or", { terrain = "*^Z/" } },
+		{ "not", { { "filter", {} } } },
 	}
 
 	for k, loc in ipairs(locs) do
@@ -84,5 +85,21 @@ function wesnoth.wml_actions.item_fast(cfg)
 		-- FIXME: these items aren't going to be removed, so I'm
 		-- not bothering with state tracking right now.
 		wesnoth.add_tile_overlay(loc[1], loc[2], cfg)
+	end
+end
+
+---
+-- Removes the terrain overlay from every hex matching a given SLF.
+--
+-- [remove_terrain_overlays]
+--     ... SLF ...
+-- [/remove_terrain_overlays]
+---
+function wesnoth.wml_actions.remove_terrain_overlays(cfg)
+	local locs = wesnoth.get_locations(cfg)
+
+	for i, loc in ipairs(locs) do
+		local locstr = wesnoth.get_terrain(loc[1], loc[2])
+		wesnoth.set_terrain(loc[1], loc[2], string.gsub(locstr, "%^.*$", ""))
 	end
 end
