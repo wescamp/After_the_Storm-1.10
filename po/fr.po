@@ -3,100 +3,119 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-13 23:53-0500\n"
-"PO-Revision-Date: 2011-02-21 15:33+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-01-19 10:29+0100\n"
+"Last-Translator: \n"
 "Language-Team: none\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: After_the_Storm/_main.cfg:43
+#, fuzzy
 msgid "(requires Wesnoth 1.9.5 or later — 1.9.8 or later recommended)"
-msgstr ""
+msgstr "(nécessite Wesnoth 1.7.8 ou plus récent)"
 
 #: After_the_Storm/_main.cfg:43
+#, fuzzy
 msgid "Version"
-msgstr ""
+msgstr "Version :"
 
 #. [campaign]: id=After_the_Storm_I
 #: After_the_Storm/_main.cfg:48
+#, fuzzy
 msgid "AtS-1"
-msgstr ""
+msgstr "AtS-1"
 
 #. [campaign]: id=After_the_Storm_I
 #: After_the_Storm/_main.cfg:49
+#, fuzzy
 msgid "After the Storm I: Fear"
-msgstr ""
+msgstr "Après la Tempête I : Peur"
 
 #. [campaign]: id=After_the_Storm_I
 #: After_the_Storm/_main.cfg:59
+#, fuzzy
 msgid ""
 "After the Emperor of Chaos was defeated, the free civilizations of the Great "
 "Continent hoped that his followers would abandon the ongoing war. Meanwhile, "
 "Galas’ band heads back to the northern lands to request aid for their next "
 "journey."
 msgstr ""
+"Après la défaite de l'Empereur du Chaos, les races du Grand Continent eurent "
+"l'espoir que ses suivants abandonneraient la guerre. Pendant ce temps, la "
+"compagnie de Galas se dirigea vers les terres septentrionales pour obtenir "
+"de l'aide dans leur prochain voyage..."
 
 #. [campaign]: id=After_the_Storm_I
 #: After_the_Storm/_main.cfg:61
+#, fuzzy
 msgid "(Intermediate level, 13 scenarios.)"
-msgstr ""
+msgstr "(Niveau intermédiaire, 13 scénarios.)"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normal)"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "difficulty_menu^Wraith"
-msgstr ""
+msgstr "Apparition"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "(Hard)"
-msgstr ""
+msgstr "(Difficile)"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "difficulty_menu^Banebow"
-msgstr ""
+msgstr "Archer de la dévastation"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "(Easy)"
-msgstr ""
+msgstr "(Facile)"
 
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:64 After_the_Storm/_main.cfg:90
+#, fuzzy
 msgid "difficulty_menu^Skeleton"
-msgstr ""
+msgstr "Squelette"
 
 #. [endlevel]
 #. [campaign]: id=After_the_Storm_I
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/macros/scenario-utils.cfg:269 After_the_Storm/_main.cfg:66
 #: After_the_Storm/_main.cfg:92
+#, fuzzy
 msgid "To be continued..."
-msgstr ""
+msgstr "A suivre..."
 
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:74
+#, fuzzy
 msgid "AtS-2"
-msgstr ""
+msgstr "AtS-1"
 
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:75
+#, fuzzy
 msgid "After the Storm II: Fate"
-msgstr ""
+msgstr "Après la Tempête I : Peur"
 
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:85
@@ -107,28 +126,33 @@ msgstr ""
 
 #. [campaign]: id=After_the_Storm_II
 #: After_the_Storm/_main.cfg:87
+#, fuzzy
 msgid "(Intermediate level, 0 scenarios of ?? completed.)"
-msgstr ""
+msgstr "(Niveau intermédiaire, 13 scénarios.)"
 
 #. [about]
 #: After_the_Storm/about.cfg:13
+#, fuzzy
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Créateur et Chef de Conception"
 
 #. [about]
 #: After_the_Storm/about.cfg:22
+#, fuzzy
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Maintenance de la campagne"
 
 #. [about]
 #: After_the_Storm/about.cfg:31
+#, fuzzy
 msgid "Non-maintainer Uploads"
-msgstr ""
+msgstr "Uploads de non-mainteneur"
 
 #. [about]
 #: After_the_Storm/about.cfg:38
+#, fuzzy
 msgid "Graphics"
-msgstr ""
+msgstr "Graphismes"
 
 #. [about]
 #: After_the_Storm/about.cfg:81
@@ -137,50 +161,60 @@ msgstr ""
 
 #. [about]
 #: After_the_Storm/about.cfg:93
+#, fuzzy
 msgid "SVN services, maintenance toolkit and primary hosting"
-msgstr ""
+msgstr "Services SVN, toolkit de maintenance et hébergement principal"
 
 #. [entry]
 #: After_the_Storm/about.cfg:95
+#, fuzzy
 msgid "The Wesnoth-UMC-Dev Project"
-msgstr ""
+msgstr "Projet de développement coordonné Wesnoth UMC"
 
 #. [about]
 #: After_the_Storm/about.cfg:99
+#, fuzzy
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Remerciements supplémentaires"
 
 #. [entry]
 #: After_the_Storm/about.cfg:125
+#, fuzzy
 msgid "You, for playing this campaign"
-msgstr ""
+msgstr "Vous, pour jouer cette campagne"
 
 #. [entry]
 #: After_the_Storm/about.cfg:128
+#, fuzzy
 msgid "Anyone else I could forget to mention"
-msgstr ""
+msgstr "Et toute personne que j'ai oublié de mentionner"
 
 #: After_the_Storm/base-rc.cfg:34
+#, fuzzy
 msgid "Cyan"
-msgstr ""
+msgstr "Cyan"
 
 #: After_the_Storm/base-rc.cfg:35
+#, fuzzy
 msgid "Yellow"
-msgstr ""
+msgstr "Yellow"
 
 #: After_the_Storm/base-rc.cfg:36
+#, fuzzy
 msgid "Pink"
-msgstr ""
+msgstr "Pink"
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
 #: After_the_Storm/editor-loader.cfg:16
+#, fuzzy
 msgid "After the Storm (custom terrains)"
-msgstr ""
+msgstr "Après la Tempête (terrains personnalisés)"
 
 #. [scenario]: id=01_The_Skirmish
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:5
+#, fuzzy
 msgid "The Skirmish"
-msgstr ""
+msgstr "L'embuscade"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:31
@@ -196,18 +230,21 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:27
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:56
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:38
+#, fuzzy
 msgid "team_name^Galas"
-msgstr ""
+msgstr "team_name^Galas"
 
 #. [side]: type=Sergeant, id=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:52
+#, fuzzy
 msgid "team_name^Townsmen"
-msgstr ""
+msgstr "team_name^Townsmen"
 
 #. [side]: type=Sergeant, id=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:66
+#, fuzzy
 msgid "Morzey"
-msgstr ""
+msgstr "Morzey"
 
 #. [side]
 #. [side]: type=Chaos Cataphract, id=Mendryr
@@ -248,18 +285,21 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:55
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:69
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:80
+#, fuzzy
 msgid "team_name^Enemies"
-msgstr ""
+msgstr "team_name^Ennemis"
 
 #. [side]: type=Chaos Magus, id=Ilce'than
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:201
+#, fuzzy
 msgid "Ilce’than"
-msgstr ""
+msgstr "Ilce'than"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:221
+#, fuzzy
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Vaincre le chef ennemi"
 
 #. [event]: type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: id=Elyssa level 6}
@@ -282,8 +322,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:134
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:159
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:906
+#, fuzzy
 msgid "Death of Galas"
-msgstr ""
+msgstr "Mort de Galas"
 
 #. [event]: type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: id=Elyssa level 6}
@@ -321,8 +362,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:135
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:160
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:907
+#, fuzzy
 msgid "Death of Elynia"
-msgstr ""
+msgstr "Mort d'Elynia"
 
 #. [event]: type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: id=Elyssa level 6}
@@ -359,205 +401,281 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:136
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:161
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:908
+#, fuzzy
 msgid "Death of Mal Keshar"
-msgstr ""
+msgstr "Mort de Mal Keshar"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:274
+#, fuzzy
 msgid ""
 "Night falls, and the scouts reported at midday that those cursed soldiers "
 "were heading towards our town."
 msgstr ""
+"La nuit tombe, et les éclaireurs ont rapporté à midi que ces soldats maudits "
+"se dirigeaient vers notre ville."
 
 #. [message]: role=guard_2
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:278
+#, fuzzy
 msgid ""
 "Yeah, so it was not enough for them to burn and ransack Tyannes... Blast it. "
 "The elders and their warriors, why don’t they send us help?"
 msgstr ""
+"Ah, donc ça ne leur a pas suffit de brûler et de mettre Tyannes à sac... "
+"Damnation. Pourquoi est-ce que les anciens et les guerriers ne nous envoient "
+"aucune aide ?"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:282
+#, fuzzy
 msgid ""
 "Since the beginning of the War, little they have cared about safety, not "
 "only ours, but theirs too. It’s rumored that the country itself is poorly "
 "defended right now — it’s become easy prey for foreign invaders."
 msgstr ""
+"Depuis le début de la Guerre, il se soucient peu de notre sécurité, non "
+"seulement de la nôtre, mais de la leur également. Les rumeurs disent que ce "
+"pays est bien maigrement défendu à l'heure où nous parlons. Une proie facile "
+"pour les envahisseurs étrangers."
 
 #. [message]: role=guard_2
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:286
+#, fuzzy
 msgid "Not just foreign. I’ve heard that the elves have..."
-msgstr ""
+msgstr "Pas seulement les étrangers. J'ai entendu dire que les elfes ont..."
 
 #. [message]: role=guard_3
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:290
+#, fuzzy
 msgid "On guard! Three strangers approach from the southern road!"
-msgstr ""
+msgstr "En guarde ! Trois étrangers approchent depuis la route du sud !"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:316
+#, fuzzy
 msgid "Halt there! Identify yourselves, strangers!"
-msgstr ""
+msgstr "Stop ! Qui va là ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:320
+#, fuzzy
 msgid ""
 "We are travelers, and we don’t plan to stay in your town for more than one "
 "night. You don’t need to know who we are."
 msgstr ""
+"Nous sommes en voyage, et nous ne désirons pas rester dans votre ville plus "
+"d'une nuit. Vous n'avez pas besoin de savoir qui nous sommes."
 
 #. [message]: role=guard_2
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:324
+#, fuzzy
 msgid "Sorry, but we were ordered not to let anybody...pa...she’s...beautiful."
 msgstr ""
+"Vous m'en voyez navré, mais on nous a donné l'odre de ne laisser personne... "
+"pass... elle est... tellement belle..."
 
 #. [message]: role=guard_3
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:328
+#, fuzzy
 msgid "A fairy?"
-msgstr ""
+msgstr "Une fée ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:332
+#, fuzzy
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
 #. [message]: role=guard_3
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:336
+#, fuzzy
 msgid "What’s your kind doing so far from the green northern lands?"
 msgstr ""
+"Et vous êtes un elfe ? Que faites-vous donc si loin de vos terres vertes du "
+"nord ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:340
+#, fuzzy
 msgid ""
 "As I said, we are traveling, and don’t plan to stay in your town for more "
 "than one night. Just let us in."
 msgstr ""
+"Comme je vous l'ai déjà dit, nous sommes en voyage, et ne souhaitons pas "
+"demeurer dans votre ville plus d'une nuit. Laissez-nous simplement rentrer."
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:355
+#, fuzzy
 msgid "Who is that? Hey, the cloaked one!"
-msgstr ""
+msgstr "Qui est-ce donc ? Vous, avec une capuche !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:359
+#, fuzzy
 msgid "Eh?"
-msgstr ""
+msgstr "Hmm ?"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:363
+#, fuzzy
 msgid "Aaah!!"
-msgstr ""
+msgstr "Aaah !!"
 
 #. [message]: role=guard_3
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:367
+#, fuzzy
 msgid "Necromancer! A..."
-msgstr ""
+msgstr "Nécromancien ! Un..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:371
+#, fuzzy
 msgid ""
 "You are not alerting the entire town of our presence, are you? Such a "
 "handsome man could spend the night doing...more interesting things, than "
 "fighting us..."
 msgstr ""
+"Vous n'allez pas avertir toute la ville de notre présence, si ? Un homme "
+"aussi charmant pourrait passer la nuit... à faire des choses plus "
+"intéressantes que nous combattre..."
 
 #. [message]: role=guard_3
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:375
+#, fuzzy
 msgid "<b>*gulp*</b> Eh, I..."
-msgstr ""
+msgstr "<b>*gloups*</b> Eh bien, je..."
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:379
+#, fuzzy
 msgid ""
 "I don’t know what the hell your purpose here is, but we do have important "
 "things to do this night, such as defending the town from your cursed "
 "henchmen!"
 msgstr ""
+"Bon sang, je ne sais pas quel est votre but, mais nous avons des choses "
+"importantes à faire cette nuit, comme par exemple défendre notre ville "
+"contre vos maudits sbires !"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:383
+#, fuzzy
 msgid "Henchmen? Do you see anyone else accompanying us?"
-msgstr ""
+msgstr "Sbires ? Voyez-vous donc quiconque nous accompagnant ?"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:387
+#, fuzzy
 msgid "Eh... uhm... well, no?"
-msgstr ""
+msgstr "Euh... et bien... et bien non ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:391
+#, fuzzy
 msgid "Well, then."
-msgstr ""
+msgstr "Bien, alors."
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:417
+#, fuzzy
 msgid ""
 "Eh! That you don’t bring anyone with you does not mean you cannot call upon "
 "them! We heard rumors of the cursed warriors coming to our valley!"
 msgstr ""
+"Eh ! Ce n'est pas parce que vous n'avez personne avec vous que vous ne "
+"pouvez pas les appeler ! Nous avons entendu que des guerriers maudits "
+"venaient dans notre vallée !"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:422
+#, fuzzy
 msgid "Cursed, you say?"
-msgstr ""
+msgstr "Maudits, dites-vous ?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:427
+#, fuzzy
 msgid ""
 "Clad in black armor, bringing flags with impaled skulls at the top, and "
 "smelling especially funny?"
 msgstr ""
+"Revêtu d'une armure noire, apportant des étendards parés de crânes empalés à "
+"leur sommet, et sentant particulièrement bizarre ?"
 
 #. [message]: role=guard_2
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:432
+#, fuzzy
 msgid "Yes, yes. Do you know them?"
-msgstr ""
+msgstr "Oui, oui. Vous les connaissez ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:437
+#, fuzzy
 msgid ""
 "Actually, they are our enemies as well. We have had some encounters with "
 "them before. Perhaps we could be of help, <i>if</i> you would let us inside "
 "your walls."
 msgstr ""
+"A dire vrai, ce sont nous ennemis. Nous connaissons leurs faiblesses mieux "
+"que vous, nous pouvons donc vous apporter notre aide, <i>si</i> vous nous "
+"laissez rentrer."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:442
+#, fuzzy
 msgid ""
 "Let them come in! We are in need of all the help we can get if we do not "
 "want to suffer the same fate of our comrades at Tyannes, and it is not the "
 "first time I hear of a necromancer helping our cause."
 msgstr ""
+"Laissez les passer ! Nous avons besoin de toute l'aide que nous pouvons "
+"trouver, si nous ne voulons pas subire le même sort que nos camarades de "
+"Tyannes. Et ce n'est d'ailleurs pas la première fois que j'entends parler "
+"d'un nécromancien soutenant notre cause."
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:447
+#, fuzzy
 msgid "Yes, sir! As you command, sir!"
-msgstr ""
+msgstr "Oui, sire ! A vos ordres, sire !"
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:476
+#, fuzzy
 msgid ""
 "Strangers, please help us. I am sure the gate guards already told you of the "
 "situation..."
 msgstr ""
+"Etrangers, s'il-vous-plaît, aidez-nous. Je suis sur que les gardes de la "
+"porte vous ont déjà expliqué la situation..."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:481
+#, fuzzy
 msgid "Yes, they did."
-msgstr ""
+msgstr "Oui, ils l'ont fait."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:486
+#, fuzzy
 msgid ""
 "Well, I suppose you can be trusted. Please aid us in this battle; plagues "
 "have decimated most of our capable warriors, and all we have left is the "
 "town militia, for which we can barely afford proper weapons."
 msgstr ""
+"Eh bien, je suppose que l'on peut vous faire confiance. S'il-vous-plaît, "
+"assistez-nous dans cette bataille ; la peste a décimé nos guerriers les plus "
+"capable, et il ne nous reste que la milice, qui peut déjà à peine se payer "
+"des armes convenables..."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:491
+#, fuzzy
 msgid "We’ll do. Just don’t ask names."
 msgstr ""
+"Nous le ferons. En retour, contentez-vous de ne pas nous demander nos noms."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:496
@@ -566,76 +684,103 @@ msgstr ""
 
 #. [message]: role=guard_6
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:501
+#, fuzzy
 msgid "My lord! Torches and wardrums approach from the northern hills!"
 msgstr ""
+"Monseigneur ! Des torches et des tambours de guerre s'approchent dans les "
+"collines du nord !"
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:506
+#, fuzzy
 msgid "Blast it, they arrived sooner than I expected. To arms!"
-msgstr ""
+msgstr "Enfer, ils arrivent plus tôt que prévu. Aux armes ! "
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:520
+#, fuzzy
 msgid "Curse you, heretics! The Iron Council shall punish you for your deeds!"
 msgstr ""
+"Soyez maudits, hérétiques ! Le Conseil de Fer vous punira pour vos actes !"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:532
+#, fuzzy
 msgid "I do not think so."
-msgstr ""
+msgstr "Je ne le pense pas."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:541
+#, fuzzy
 msgid ""
 "We will be eternally thankful for your help, travelers! If there is anything "
 "we can do to pay you back..."
 msgstr ""
+"Nous vous serons éternellement reconnaissants pour votre aide, voyageurs ! "
+"Si nous pouvons faire quoi que ce soit en retour..."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:546
+#, fuzzy
 msgid ""
 "No problem; we just need provisions for our journey to the Northern country."
 msgstr ""
+"Il n'y a pas de quoi ; nous avons simplement besoin de provisions pour notre "
+"voyage vers les pays du Nord."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:551
+#, fuzzy
 msgid ""
 "Are you traveling North then? There is a mountain pass there, to the north-"
 "east. It should take you faster to the country, but rumor has it that undead "
 "have roamed about the place since the beginning of the War."
 msgstr ""
+"Vous allez vers le Nord alors ? Il y a une montagne vers là-bas, au nord-"
+"est. Elle devrait vous amener plus rapidement vers le pays, mais les rumeurs "
+"disent que l'endroit est ravagé par les morts-vivants depuis le début de la "
+"Guerre."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:556
+#, fuzzy
 msgid "Thanks for the information, we will go through that pass."
-msgstr ""
+msgstr "Merci pour ces informations, nous irons par ce chemin."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:561
+#, fuzzy
 msgid "Are you sure?"
-msgstr ""
+msgstr "En êtes-vous sûrs ?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:566
+#, fuzzy
 msgid "I <i>control</i> the dead. We don’t need to worry about them."
-msgstr ""
+msgstr "Je <i>contrôle</i> les morts. Nous n'avons pas à nous soucier d'eux."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:590
+#, fuzzy
 msgid ""
 "Sometimes your beloved ones must be willing to sacrifice their lives for a "
 "greater cause."
 msgstr ""
+"Parfois ceux que nous aimons doivent accepter de sacrifier leurs vies pour "
+"une cause plus grande."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:604
+#, fuzzy
 msgid "Oh, no! We have run out of time, and their reinforcements have arrived!"
 msgstr ""
+"Oh non ! Nous avons perdu trop de temps, et leurs renforts sont arrivés !"
 
 #. [scenario]: id=02_High_Pass
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:5
+#, fuzzy
 msgid "High Pass"
-msgstr ""
+msgstr "Haut Col"
 
 #. [side]
 #. [side]: id=Mal Ciphan, type=Lich
@@ -643,18 +788,21 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:75
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:51
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:171
+#, fuzzy
 msgid "team_name^Undead"
-msgstr ""
+msgstr "team_name^Morts-vivants"
 
 #. [side]: id=Mal Ciphan, type=Lich
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:94
+#, fuzzy
 msgid "Mal Ciphan"
-msgstr ""
+msgstr "Mal Ciphan"
 
 #. [side]: id=Nyadien, type=Draug
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:214
+#, fuzzy
 msgid "Nyadien"
-msgstr ""
+msgstr "Nyadien"
 
 #. [event]: type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]
@@ -665,196 +813,260 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:187
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:245
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:132
+#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Vaincre tous les chefs ennemis"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:262
+#, fuzzy
 msgid ""
 "This place gives me chills. Perhaps this path was not a good choice after "
 "all."
 msgstr ""
+"Cet endroit me fait frissonner. Peut-être n'était-ce pas un bon choix, après "
+"tout."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:267
+#, fuzzy
 msgid "Pah. Leave your worries behind, there is nothing to..."
-msgstr ""
+msgstr "Allons. Laissez vos soucis derrière vous, il n'y a rien à..."
 
 #. [message]: type=Necrophage
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:314
+#, fuzzy
 msgid "Groaaar!!!"
-msgstr ""
+msgstr "Groooarrr !!!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:319
+#, fuzzy
 msgid "...and who called upon you?"
-msgstr ""
+msgstr "... et qui donc vous a appellé ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:324
+#, fuzzy
 msgid ""
 "So the rumors were true. This pass is infested with undead. We’ll have to "
 "give them a rest before we can continue on."
 msgstr ""
+"Alors les rumeurs étaient vraies. Ce col est infesté de morts-vivants. Nous "
+"allons devoir leur donner le repos avant de pouvoir continuer."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:329
+#, fuzzy
 msgid "Aww, this will be boring."
-msgstr ""
+msgstr "Oooh, ça promet d'être ennuyeux..."
 
 #. [message]: speaker=Mal Ciphan
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:338
+#, fuzzy
 msgid ""
 "Ahhh, the traitors! You are not going to see the sunlight anymore, I’ll feed "
 "your souls to Yechnagoth!"
 msgstr ""
+"Aahhh, les traîtres ! Vous ne verrez plus la lumière du jour désormais, je "
+"nourrirai Yechnagoth de vos âmes !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:343
+#, fuzzy
 msgid "The same old tune. These goons should seek a new job or something."
 msgstr ""
+"Toujours le même refrain... Ces cinglés devraient vraiment trouver quelque "
+"chose d'autre à faire..."
 
 #. [message]: speaker=Nyadien
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:352
+#, fuzzy
 msgid ""
 "You, Galas! You abandoned us in the valley! You let all of us die! You shall "
 "perish, and your soul will be tortured as you deserve it!"
 msgstr ""
+"Vous, Galas ! Vous nous avez abandonné dans la vallée ! Vous nous avez "
+"laissés mourir ! Vous allez périr céans, et votre âme sera torturée comme "
+"vous le méritez !"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:357
+#, fuzzy
 msgid "Nyadien? But..."
-msgstr ""
+msgstr "Nyadien ? Mais..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:362
+#, fuzzy
 msgid "Do you know him?"
-msgstr ""
+msgstr "Vous le connaissez ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:367
+#, fuzzy
 msgid ""
 "Yes, he was the leader of the patrol group that replaced mine just before "
 "the loyalists invaded our valley."
 msgstr ""
+"Oui, il était le chef de la patrouille qui replaça la mienne juste avant que "
+"les loyalistes n'envahissent notre vallée."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:372
+#, fuzzy
 msgid ""
 "Elf, know that Galas did not have the power to stop that invasion, but we "
 "have just demolished the Empire. There is nothing that should force you to "
 "roam this world anymore!"
 msgstr ""
+"Elfe, sachez que Galas n'avait pas le pouvoir de stopper cette invasion, "
+"mais à présent l'Empire est détruit. Il n'y a plus rien qui vous force à "
+"errer dans ce monde !"
 
 #. [message]: speaker=Nyadien
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:377
+#, fuzzy
 msgid "I will personally make sure you don’t go unpunished, traitor!"
-msgstr ""
+msgstr "Je m'assurerai personellement de votre châtiment, traître !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:382
+#, fuzzy
 msgid ""
 "It is a waste of time to try to deal with this pile of bones. The "
 "necromancer who raised him probably used some malign trick to fill him with "
 "hatred towards you."
 msgstr ""
+"C'est une perte de temps de vouloir négocier avec ce tas d'os. Le "
+"nécromancien qui l'a invoqué aura probablement utilisé un maléfice pour le "
+"remplir de haine à votre égard."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:400
+#, fuzzy
 msgid ""
 "I am vanquished, but I curse your race to never see a day of peace or joy "
 "again for the rest of eternity!"
 msgstr ""
+"Je gîs vaincu, mais je maudis votre race de ne jamais voir la paix et la "
+"joie, pour le reste de l'éternité."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:412
+#, fuzzy
 msgid "So many times... I forget how many times they have said that."
-msgstr ""
+msgstr "Tant de fois... j'ai oublié combien de fois ils ont dit cela."
 
 #. [scenario]: id=03_Civil_War
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:5
+#, fuzzy
 msgid "Civil War in the North"
-msgstr ""
+msgstr "Guerre Civile dans le Nord."
 
 #. [side]: id=Celán, type=Elvish Champion
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:42
+#, fuzzy
 msgid "team_name^Elves (north)"
-msgstr ""
+msgstr "team_name^Elfes (nord)"
 
 #. [side]: id=Celán, type=Elvish Champion
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:53
+#, fuzzy
 msgid "Celán"
-msgstr ""
+msgstr "Celàn"
 
 #. [side]: id=Unidë, type=Elvish Avenger
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:69
+#, fuzzy
 msgid "team_name^Elves (south-east)"
-msgstr ""
+msgstr "team_name^Elfes (sud-est)"
 
 #. [side]: id=Unidë, type=Elvish Avenger
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:85
+#, fuzzy
 msgid "Unidë"
-msgstr ""
+msgstr "Unidë"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:100
+#, fuzzy
 msgid "team_name^Fort Eldáin"
-msgstr ""
+msgstr "team_name^Elynia"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:135
+#, fuzzy
 msgid "team_name^Grand Council"
-msgstr ""
+msgstr "team_name^Galas"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:147
+#, fuzzy
 msgid "team_name^Grand Council villages"
-msgstr ""
+msgstr "team_name^Galas"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:313
+#, fuzzy
 msgid "Move Galas, Elynia and Mal Keshar to Fort Eldáin"
-msgstr ""
+msgstr "Menez Galas, Elynia et Mal Keshar jusqu'au Fort Eldàin"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:329
+#, fuzzy
 msgid ""
 "There are signs of a battle in this area. And the smoke I smell probably "
 "comes from that fortress in the distance!"
 msgstr ""
+"Il y a des trace de combats dans cette zone. Et la fumée que je sens vient "
+"probablement de cette forteresse au loin !"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:334
+#, fuzzy
 msgid ""
 "Quickly, let’s investigate what happened here. I hope it’s not too late."
 msgstr ""
+"Vite, allons voir ce qui s'est passé. J'espère qu'il n'est pas trop tard."
 
 #. [message]: type=Bowman
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:439
+#, fuzzy
 msgid ""
 "Who are you? Why, do you bring your unholy spawns to feed upon our remains "
 "when we have fallen already?!"
 msgstr ""
+"Qui êtes-vous ? Êtes-vous en train d'amener vos créatures maléfiques se "
+"nourrir de nos cadavres quand nous serons tombés ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:444
+#, fuzzy
 msgid "We come in peace and the undead are our supporters in this war."
-msgstr ""
+msgstr "Nous venons en paix et les mort-vivants nous aident dans cette guerre."
 
 #. [message]: type=Footpad
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:450
+#, fuzzy
 msgid "It is... it is the Lady of Light! I had heard rumors but this is..."
 msgstr ""
+"C'est... c'est la Dame de Lumière ! J'ai entendu de nombreuses rumeurs, mais "
+"c'est..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:455
+#, fuzzy
 msgid ""
 "This fortress barely stands. What vile creatures have come to plague the "
 "northern country?"
 msgstr ""
+"Cette forteresse tient à pein. Quelles viles créatures sont venues infester "
+"le pays du nord ?"
 
 #. [message]: type=Bowman
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:461
+#, fuzzy
 msgid ""
 "The elves, my lady. The elves have gone mad and are attacking each other. We "
 "are unfortunate enough to have been born in territory that lies in middle of "
@@ -863,91 +1075,130 @@ msgid ""
 "for much longer. Most of our men have died defending the walls of the city, "
 "and resources are scarce."
 msgstr ""
+"Les elfes, ma Dame. Les elfes sont devenus fous et s'attaquent les uns les "
+"autres. Nous avons la malchance d'être nés sur une terre s'étendant au "
+"milieu de leur chemin de destruction. Aucune de leur clique ne cherche une "
+"fin paisible au conflit, et nous ne résisterons pas à leur siège bien "
+"longtemps. La plupart de nos hommes sont morts en défendant les murs de la "
+"cité, et nos ressources se font rares."
 
 #. [message]: type=Bowman
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:467
+#, fuzzy
 msgid ""
 "We cannot continue without help, and the messengers we sent to the Grand "
 "Council for reinforcements have not returned yet. I’ll probably hate myself "
 "for the rest of my life for asking help from those who deal with dark magic, "
 "but..."
 msgstr ""
+"Nous ne pouvons pas continuer sans aide, et les messagers envoyés au Grand "
+"Conseil quêter des renforts ne sont pas encore rentrés. Je me haïrai "
+"probablement toute ma vie pour demander de l'aide à ceux qui manient la "
+"magie sombre, mais..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:472
+#, fuzzy
 msgid "Pfft, we cannot waste our time here."
-msgstr ""
+msgstr "Bah, nous ne pouvons pas perdre notre temps ici."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:477
+#, fuzzy
 msgid ""
 "We must help these poor people and try to negotiate a deal with our kinsmen. "
 "We must not allow another elvish war to clear the remains of our "
 "civilization! Otherwise..."
 msgstr ""
+"Nous devons aider ces pauvres gens et essayer de négocier avec ceux de notre "
+"race. Nous ne devons pas permettre qu'une autre guerre elfique ne vienne "
+"détruire notre civilisation ! Sinon..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:482
+#, fuzzy
 msgid "Our sacrifices would have been in vain."
-msgstr ""
+msgstr "Nos sacrifices auront été faits en vain."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:487
+#, fuzzy
 msgid "We’ll help you defend your fortress until the reinforcements arrive."
 msgstr ""
+"Nous vous aiderons à défendre votre forteresse en attendant les renforts."
 
 #. [message]: type=Bowman
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:493
+#, fuzzy
 msgid "Thank you."
-msgstr ""
+msgstr "Merci."
 
 #. [message]: type=Footpad
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:508
+#, fuzzy
 msgid "Lead us, my lord."
-msgstr ""
+msgstr "Menez-nous, Monseigneur."
 
 #. [value]
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:550
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:612
+#, fuzzy
 msgid ""
 "Resist for $survival_turn_limit turns until the Grand Council’s "
 "reinforcements arrive"
 msgstr ""
+"Résistez pendant $survival_turn_limit pour permettre aux renforts du Grand "
+"Conseil d'arriver"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:568
+#, fuzzy
 msgid ""
 "Who is it that helps the human sub-people to defend their town against the "
 "true rulers of the forest?"
 msgstr ""
+"Qui aide donc ce sous-peuple humain à défendre leur ville contre les vrais "
+"seigneurs de la forêt ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:573
+#, fuzzy
 msgid ""
 "I am Galas, an elf of the Valley of Elynia like you. What is the reason for "
 "this unnecessary bloodshed?"
 msgstr ""
+"Je suis Galas, elfe de la Vallée d'Elynia, comme vous. Quelle est la raison "
+"de cette effusion de sang ?"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:578
+#, fuzzy
 msgid ""
 "We are at war with those who have taken the life of our leader, Lord "
 "Inodien, as well as his successor! Are you supporters of their foul cause "
 "too?"
 msgstr ""
+"Nous sommes en guerre contre ceux qui ont pris la vie de notre chef, le "
+"Seigneur Inodien, et de son héritier ! Soutenez-vous leur cause également ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:583
+#, fuzzy
 msgid ""
 "You know me well, Unidë, and I would not support anyone, elf or not, who "
 "would threaten the life of our leaders and our civilization. However, you "
 "are not doing any better by answering to their attacks by murdering more of "
 "our kind and even innocent human peasants."
 msgstr ""
+"Vous me connaissez bien, Unidë, et je ne soutiendrais nul être, elfe ou non, "
+"qui menacerait la vie de nos chefs ou notre civilisation. Cependant, vous ne "
+"faites pas mieux en répondant à leurs attaques, puisque vous ne faites que "
+"tuer plus de nos frères, et même des paysans innocents."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:588
+#, fuzzy
 msgid ""
 "There must be a way to solve this problem without resorting to fighting. In "
 "these grim times, with war already raging in the outer lands, the last thing "
@@ -955,23 +1206,34 @@ msgid ""
 "definitive doom. The traitors must be judged by the law, not by chaos and "
 "death."
 msgstr ""
+"Il doit y avoir un moyen de résoudre ce problème sans les armes. En ces "
+"temps sinistres, il n'y a que la guerre dans les contrées de l'extérieur. "
+"L'apporter à notre civilisation signerait notre perte. Ces traîtres doivent "
+"être jugés selon la loi, et non par le chaos et la mort."
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:593
+#, fuzzy
 msgid ""
 "Who do you think you are to give me commands? I am the war-leader now. I "
 "obey no orders from those who ally themselves with the worthless human scum "
 "and their foul dark sorcerers."
 msgstr ""
+"Qui pense-tu donc être pour me donner des ordres ? Je suis chef de guerre à "
+"présent. Je ne me plie pas aux ordres de ceux qui s'allient à ces racailles "
+"d'humains et à leurs sorciers putrides !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:598
+#, fuzzy
 msgid ""
 "Diplomacy isn’t going to work, of course. This petty elf has a death-wish."
 msgstr ""
+"La diplomacie ne fonctionnera pas, bien sûr. Cet elfe étroit cherche la mort."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:603
+#, fuzzy
 msgid ""
 "Avoid killing their leaders at all costs. If we want to solve this conflict, "
 "we’ll need the Grand Council to negotiate with the faction leaders some sort "
@@ -979,633 +1241,882 @@ msgid ""
 "warriors will become unstoppable and even more people will be slaughtered. I "
 "only wish we could stop our kinsmen without resorting to violence."
 msgstr ""
+"Evitez de tuer leurs chefs à tout prix. Si nous voulons résourdre ce conflt, "
+"nous aurons besoin que le Grand Conseil négocie avec les chefs de factions "
+"un arrangement, ou un châtiment. Sans leurs chefs, j'ai peur que ces "
+"guerriers elfes ne deviennent imbattable, et que plus de gens ne soient "
+"tués. J'aimerais seulement pouvoir arrêter nos frères sans recourir à la "
+"violence."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:608
+#, fuzzy
 msgid ""
 "As it seems now, there is no other option to stop them until help arrives. "
 "To arms!"
 msgstr ""
+"Apparemment, nous n'avons pas d'autre option pour les arrêter avant que "
+"l'aide arrive. Aux armes !"
 
 #. [value]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:614
+#, fuzzy
 msgid "Death of an enemy leader"
-msgstr ""
+msgstr "Mort d'un chef ennemi"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:640
+#, fuzzy
 msgid ""
 "I won’t be able to slay the traitors with my own hands... Avenge my defeat "
 "my brethren! May this be the last day the traitors live to see the light of "
 "Naia and Sela!"
 msgstr ""
+"Je ne pourrai pas tuer tous les traîtres de mes propres mains... Vengez ma "
+"défaite, mes frères ! Que ce jour soit le dernier que ces traîtres vivent "
+"sous les lumières de Naia et Sela ! "
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:652
+#, fuzzy
 msgid ""
 "We shouldn’t have allowed her to die. Now it will be near impossible to stop "
 "this war!"
 msgstr ""
+"Nous ne devrions pas avoir permis sa mort. Maintenant il sera presque "
+"impossible d'arrêter cette guerre !"
 
 #. [message]: speaker=Celán
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:666
+#, fuzzy
 msgid "Alas, I have fallen before putting an end to this conflict."
-msgstr ""
+msgstr "Hélas, je suis tombé avant d'avoir pu mettre un terme à ce conflit."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:678
+#, fuzzy
 msgid ""
 "We shouldn’t have allowed him to die. Now it will be near impossible to stop "
 "this war!"
 msgstr ""
+"Nous ne devrions pas l'avoir laissé mourir. Maintenant il sera presque "
+"impossible d'arrêter cette guerre !"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:701
+#, fuzzy
 msgid "I die...for our people!"
-msgstr ""
+msgstr "Je meurs... pour notre peuple !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:722
+#, fuzzy
 msgid "Ahh, great job. Now we are killing other elves."
-msgstr ""
+msgstr "Aah, joli travail. Maintenant, tuons d'autres elfes."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:730
+#, fuzzy
 msgid ""
 "The situation doesn’t improve. If the reinforcements don’t arrive soon we "
 "won’t be able to hold this place for much longer!"
 msgstr ""
+"La situation ne s'améliore pas. Si les renforts n'arrivent pas bientôt, nous "
+"ne pourrons plus tenir très longtemps !"
 
 #. [unit]: type=Arch Mage, id=Arnesius
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:769
+#, fuzzy
 msgid "Arnesius"
-msgstr ""
+msgstr "Arnesius"
 
 #. [unit]: type=Orcish Slurbow, id=Kar-velgan
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:784
+#, fuzzy
 msgid "Kar-velgan"
-msgstr ""
+msgstr "Kar-velgan"
 
 #. [unit]: type=Elvish Enchantress, id=Unarye
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:798
+#, fuzzy
 msgid "Unarye"
-msgstr ""
+msgstr "Unarye"
 
 #. [message]: speaker=Arnesius
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:810
+#, fuzzy
 msgid ""
 "Elves, stop this disastrous bloodshed! You have killed many innocent people "
 "of your kind, and many human and orcish civilians. You broke the treaty we "
 "signed with Lord Galas and are no longer allowed to inhabit our lands!"
 msgstr ""
+"Elfes, cessez ce massacre ! Vous avez tuez beaucoup d'innocent de votre "
+"sang, ainsi que des civils humains et orcs. Vous avez violé le traité que "
+"nous avions signé avec le Seigneur Galas, et n'êtes par conséquent plus "
+"autorisés à habiter nos terres !"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:815
+#, fuzzy
 msgid "We do not listen to human sub-people!"
-msgstr ""
+msgstr "Nous ne répondons pas à la sous-race humaine !"
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:820
+#, fuzzy
 msgid ""
 "Then you shall listen to your own authorities. I came as soon as I could to "
 "bring order to this chaos. You have not only disobeyed the will of your "
 "lord, Galas, but you have also ignored Elynia, the Lady of Light; by not "
 "listening to them, you have sealed our fate."
 msgstr ""
+"Alors vous devrez écouter vos propres autorités. Je suis venu aussi vite que "
+"possible pour apporter l'ordre dans ce chaos. Vous n'avez pas seulement agi "
+"contre la volonté de votre seigneur Galas, mais vous avez également ignoré "
+"Elynia, la Dame de Lumière ; en les ignorant, vous avez scellé votre destin."
 
 #. [message]: speaker=Arnesius
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:825
+#, fuzzy
 msgid ""
 "The Grand Council has decided to banish the elvish kind from the northern "
 "country. You shall leave in no more than five days, or we’ll summon our "
 "armies for dealing with you! We don’t want to do this, but you know you are "
 "in numerical inferiority."
 msgstr ""
+"Le Grand Conseil a décidé de bannir tout elfe du pays du Nord. Vous devrez "
+"être partis dans les cinq prochains jours, ou nous lèverons nos armées pour "
+"marcher contre vous ! Nous n'avons pas le désir de faire cela, mais vous "
+"savez que vous êtes en infériorité numérique."
 
 #. [message]: speaker=Celán
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:830
+#, fuzzy
 msgid ""
 "So did one of your kind decide to kill the puny ‘lord’ of these rebels to "
 "make up an excuse for banishing our people?"
 msgstr ""
+"Est-ce donc qu'un homme a assassiné le faible chef de ces rebelles afin de "
+"faire bannir notre peuple de ces terres ?"
 
 #. [message]: speaker=Kar-velgan
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:835
+#, fuzzy
 msgid "Listen, wose-born creatures, Inodien was slain by no elf, human or orc!"
 msgstr ""
+"Ecoutez, sages créatures, Inodien ne fut pas tué par nul elfe, humain ou "
+"orc !"
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:840
+#, fuzzy
 msgid ""
 "We have good reasons to think that the loyalists sent forth their "
 "mercenaries to do the job and create a dispute among your  men to send us "
 "all to our doom. But we are not letting that happen, at least not today."
 msgstr ""
+"Nous avons de bonnes raisons de penser que les loyalistes ont envoyés leurs "
+"mercenaires pour faire naître une discorde parmi votre peuple et ainsi "
+"signer notre perte. Mais nous ne laisserons pas cela arriver, pas "
+"aujourd'hui."
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:845
+#, fuzzy
 msgid "This is unfair! Why should we pay for others’ crimes?"
 msgstr ""
+"C'est injuste ! Pourquoi devrions-nous payer pour le crime d'un autre ?"
 
 #. [message]: speaker=Kar-velgan
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:850
+#, fuzzy
 msgid ""
 "You don’t have your hands clean! How can you dare to imply that you haven’t "
 "committed any crimes? Just take a look at the dirty battlefield below your "
 "nose!"
 msgstr ""
+"Vos mains ne sont pas immaculées pour autant ! Comment osez-vous prétendre "
+"que vous n'avez commis aucun crime ? Regardez à ce champ de bataille, sous "
+"votre nez !"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:855
+#, fuzzy
 msgid ""
 "It is true. We have spilled much elvish blood with this fight. We’ll leave "
 "these lands as soon as we can."
 msgstr ""
+"C'est vrai. Nous avons fait couler beaucoup de sang elfique dans ce combat. "
+"Nous quitterons ces terres aussi vite qu'il nous sera possible."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:860
+#, fuzzy
 msgid "What? And how are we going to travel to Zocthanol Isle then?"
-msgstr ""
+msgstr "Quoi ? Et comment allons nous voyager jusqu'à l'Ile de Zhocthanol ?"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:865
+#, fuzzy
 msgid ""
 "I swear that my people will never forget this, the most vile of treacheries. "
 "I’ll call my troops for withdrawal from this accursed country, but know that "
 "I’ll someday return!"
 msgstr ""
+"Je jure que mon peuple n'oubliera jamais cette infâmie. J'appelle mes "
+"troupes à se retirer de ce pays maudit, mais sachez qu'un jour, je "
+"reviendrai !"
 
 #. [message]: speaker=Celán
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:870
+#, fuzzy
 msgid ""
 "If the Lady of Light is willing to never return to these lands for our own "
 "faults, then we will also abandon the country. Come with me, men! Let’s find "
 "a place that sets us apart enough from those fiends."
 msgstr ""
+"Si la Dame de Lumière accepte de ne jamais revenir en ces lieux à cause de "
+"nos fautes, alors nous aussi, nous abandonnerons ce pays. Venez avec moi, "
+"compagnons ! Trouvons un endroit loin de ces démons."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:875
+#, fuzzy
 msgid "Elynia? Can you tell us your plan?"
-msgstr ""
+msgstr "Elynia ? Pouvez-vous nous faire part de votre plan ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:880
+#, fuzzy
 msgid ""
 "There is a port to the west in the Bay of Tirigaz. It’s controlled by orcs, "
 "but perhaps we can find a way to bribe them so they lend us their ships and "
 "provisions. It is the only port that doesn’t belong to the Aragwaithi "
 "nowadays, and the closest one to our current location."
 msgstr ""
+"Il y a un port à l'ouest de la Bay de Tirigaz. Il est sous le contrôle des "
+"orcs, mais peut-être pouvons-nous trouver un moyen de les soudoyer, afin "
+"qu'ils nous cèdent bateaux et provisions. C'est le seul port qui "
+"n'appartienne pas aux Aragwaithi, et le plus près de notre position actuelle."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:885
+#, fuzzy
 msgid ""
 "Then to Tirigaz we go! But how will we determine the location of Zocthanol "
 "Isle?"
 msgstr ""
+"Alors allons à Tirigaz ! Mais comment trouverons-nous l'Ile de Zocthanol ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:890
+#, fuzzy
 msgid "That will be my job to do."
-msgstr ""
+msgstr "Ce sera mon travail de la localiser."
 
 #. [scenario]: id=04_Terror_at_Dusk
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:5
+#, fuzzy
 msgid "Terror at Dusk"
-msgstr ""
+msgstr "Terreur au Crépuscule"
 
 #. [side]: id=Darglen, type=Chaos Lorekeeper
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:111
+#, fuzzy
 msgid "Darglen"
-msgstr ""
+msgstr "Darglen"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:156
+#, fuzzy
 msgid ""
 "That is the sound of those blasted creatures! But what do they want here?"
 msgstr ""
+"C'est le bruit de ces damnées créatures ! Mais que veulent-elles donc ?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:161
+#, fuzzy
 msgid ""
 "Um...this is a strange coincidence. It might be that they are behind the "
 "death of Inodien."
 msgstr ""
+"Hum... C'est une étrange coincidence. Il pourraient être derrière la mort "
+"d'Inodien."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:166
+#, fuzzy
 msgid ""
 "That’s very likely. But not without the command of more intelligent beings, "
 "which means the Chaos Empire is behind this. Let’s get rid of them before "
 "they can cause more problems in the northern country."
 msgstr ""
+"C'est fort probable. Mais ils n'auraient pas pu réussir sans les ordres "
+"d'être plus intelligents, ce qui signifie que c'est l'Empire du Chaos qui "
+"est derrière tout cela. Débarrassons-nous d'eux avant qu'ils ne causent plus "
+"de problème dans le pays du Nord."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:178
+#, fuzzy
 msgid ""
 "Don’t die yet, vermin! We want some explanations before burying your skull "
 "in the sand!"
 msgstr ""
+"Ne meurs pas tout de suite, vermine ! Nous voulons des explications avant "
+"d'enfouir ton crâne dans le sable !"
 
 #. [message]: speaker=Darglen
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:183
+#, fuzzy
 msgid ""
 "And do you really believe I would speak? You can torture me as much as you "
 "want, but you won’t get anything from me!"
 msgstr ""
+"Et vous croyez vraiment que je vais parler ? Vous pouvez me torturer autant "
+"que vous voudrez, vous ne tirerez jamais rien de moi !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:188
+#, fuzzy
 msgid "Stupid..."
-msgstr ""
+msgstr "Stupide..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:193
+#, fuzzy
 msgid "Let him."
-msgstr ""
+msgstr "Laissez le."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:205
+#, fuzzy
 msgid ""
 "That annoying bastard...Hekuba. He and the Iron Triad must be behind this. "
 "But what are they trying to accomplish?"
 msgstr ""
+"Hekuba... ce bâtard gênant. La Triade de Fer et lui doivent être derrière "
+"cela. Mais qu'espèrent-ils donc accomplir ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:210
+#, fuzzy
 msgid ""
 "They probably want to take revenge on us and our kind after Argan’s death."
 msgstr ""
+"Ils veulent sans doute se venger sur nous et notre peuple de la mort d'Argan."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:224
+#, fuzzy
 msgid ""
 "This is the last one, and it doesn’t seem like there are more groups coming "
 "here."
 msgstr ""
+"C'est le dernier d'entre eux, et il ne semble pas y avoir d'autre groupe "
+"s'approchant d'ici."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:229
+#, fuzzy
 msgid ""
 "Let’s not worry a lot about them. These pathetic weaklings are nothing "
 "compared to the hordes we fought before."
 msgstr ""
+"Ne nous inquiétons pas d'eux outre mesure. Ces gringalets pathétiques ne "
+"sont rien comparés aux hordes que nous avons combattues par le passé."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:234
+#, fuzzy
 msgid "Let’s proceed to Tirigaz now, quickly."
-msgstr ""
+msgstr "Avançons vers Tirigaz à présent, vite."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:239
+#, fuzzy
 msgid ""
 "Why don’t we find their leaders, get rid of them and put an end to this "
 "stupid war now?"
 msgstr ""
+"Pourquoi ne pas trouver leurs chefs, les éliminer et mettre fin à cette "
+"guerre maintenant ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:244
+#, fuzzy
 msgid ""
 "No... That would be highly dangerous, because we don’t know what kind of "
 "enemies we’ll be facing, other than Mal Hekuba. You haven’t forgotten our "
 "last fight with him, have you? We are at a disadvantage until we can find "
 "more information on them, and that’s why finding Zocthanol is so important."
 msgstr ""
+"Non... Ce serait trop dangereux, parce que nous ne savons pas encore quels "
+"ennemis nous affronterions, en dehors de Mal Hekuba. Vous n'avez pas oublié "
+"notre dernier combat avec lui ? Ils auront l'avantage, jusqu'à ce que nous "
+"obtenions plus d'informations sur eux, et c'est pourquoi il est primordial "
+"que nous trouvions Zocthanol."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:249
+#, fuzzy
 msgid "Alright, let’s go then."
-msgstr ""
+msgstr "Très bien, allons-y alors."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:5
+#, fuzzy
 msgid "Bay of Tirigaz"
-msgstr ""
+msgstr "Baie de Tirigaz"
 
 #. [side]: id=Tan-Vatar, type=Orcish Sovereign
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:35
+#, fuzzy
 msgid "team_name^Tirigaz"
-msgstr ""
+msgstr "team_name^Tirigaz"
 
 #. [side]: id=Tan-Vatar, type=Orcish Sovereign
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:43
+#, fuzzy
 msgid "Tan-Vatar"
-msgstr ""
+msgstr "Tan-Vatar"
 
 #. [side]: id=Rishix, type=Saurian Flanker
 #. [side]: id=Ishkaal, type=Saurian Oracle
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:159
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:238
+#, fuzzy
 msgid "Invaders"
-msgstr ""
+msgstr "Envahisseurs"
 
 #. [side]: id=Rishix, type=Saurian Flanker
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:166
+#, fuzzy
 msgid "Rishix"
-msgstr ""
+msgstr "Rishix"
 
 #. [side]: id=Ishkaal, type=Saurian Oracle
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:246
+#, fuzzy
 msgid "Ishkaal"
-msgstr ""
+msgstr "Ishkaal"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:312
+#, fuzzy
 msgid "Sea creatures"
-msgstr ""
+msgstr "Créatures marines"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:335
+#, fuzzy
 msgid "Water serpents"
-msgstr ""
+msgstr "Serpents d'eau"
 
 #. [label]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:369
+#, fuzzy
 msgid "Arthol"
-msgstr ""
+msgstr "Arthol"
 
 #. [label]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:373
+#, fuzzy
 msgid "Tirigaz"
-msgstr ""
+msgstr "Tirigaz"
 
 #. [label]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:377
+#, fuzzy
 msgid "Krisval"
-msgstr ""
+msgstr "Krisval"
 
 #. [label]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:381
+#, fuzzy
 msgid "Burdyr"
-msgstr ""
+msgstr "Burdyr"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:421
+#, fuzzy
 msgid "N: Bisbarl"
-msgstr ""
+msgstr "N: Bisbarl"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:440
+#, fuzzy
 msgid ""
 "N: Bisbarl\n"
 "NW: Port of Tirigaz\n"
 "NE: Arthol"
 msgstr ""
+"N: Bisbarl\n"
+"NW: Port de Tirigaz\n"
+"NE: Arthol"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:457
+#, fuzzy
 msgid "SW: Province of Wyndill"
-msgstr ""
+msgstr "SW: Province de Wyndill"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:466
+#, fuzzy
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Vaincre les deux chefs ennemis"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:471
+#, fuzzy
 msgid "Death of Vuruk or the ally leader"
-msgstr ""
+msgstr "Mort des chefs alliés"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:472
+#, fuzzy
 msgid "The port of Tirigaz or the town of Arthol are captured by the enemy"
-msgstr ""
+msgstr "Le port de Tirigaz ou la ville d'Arthol sont capturés par l'ennemi"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:566
+#, fuzzy
 msgid ""
 "The orcs controlling the Bay of Tirigaz were busy defending the port against "
 "some hasty guests..."
 msgstr ""
+"Les orcs controllant la Baie de Tirigaz étaient occupés à défendre le port "
+"contre des invités pressés..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:571
+#, fuzzy
 msgid ""
 "You filthy soft-skinned beasts, this is your last opportunity to give us our "
 "swamps back! They’ve always been ours, and we are not planning to retreat to "
 "the territory of the pointy-eared demons!"
 msgstr ""
+"Bande de sale bêtes à la peau douce, ceci est votre dernière chance de nous "
+"rendre nos marais ! Ils ont toujours été nôtres, et nous ne prévoyons pas de "
+"nous retirer sur le territoire des démons aux oreilles pointues !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:576
+#, fuzzy
 msgid ""
 "We care little about your stupid wars to the East. We had a treaty, and you "
 "broke it by trespassing our well-established frontiers, and now you ask to "
 "give you back the very lands you’re stealing from us! After raiding the "
 "southern fortress, no less! You really believe we are going to give up now?"
 msgstr ""
+"Nous n'avons que faire de vos guerres ridicules dans l'Est. Nous avions un "
+"traité, et vous l'avez brisé en violé les frontières que nous avions "
+"établies, et maintenant vous nous demandez de vous <i>rendre</i> les terres "
+"que vous nous volez ? Et cela après avoir assailli la forteresse sud ! "
+"Croyez-vous vraiment que nous allons abandonner maintenant ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:581
+#, fuzzy
 msgid ""
 "‘Well-established’, you say? To the Dark Gods with you and your treaty! "
 "Since when can the words of an orc define where and how much our waters "
 "spread? Maybe you’ll admit your defeat once we get rid of your weak towns in "
 "the North. Go ahead, Rishix! Give them a lesson!"
 msgstr ""
+"'Frontières que nous avions établies', dites-vous ? Que les Dieux Sombres "
+"vous emportent, vous et votre traité ! Depuis quand les mots d'un orc "
+"peuvent-ils définir quelle est l'étendue de nos eaux ? Peut-être accepterez-"
+"vous la défaite quand nous aurons sacqué vos villes du Nord. Vas-y, Rishix ! "
+"Donne-leur une leçon !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:586
+#, fuzzy
 msgid "Ha, ha! We’ll tear these puny earth-dwellers to pieces!"
-msgstr ""
+msgstr "Haha ! Nous allons réduire ces habitants de la terre en pièce !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:630
+#, fuzzy
 msgid "That city to the northwest...is it the port of Tirigaz?"
-msgstr ""
+msgstr "Cette cité au nord-ouest... Est-ce le port de Tirigaz ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:635
+#, fuzzy
 msgid ""
 "Yes...although it wasn’t so well fortified during my time. Things have "
 "changed here indeed."
 msgstr ""
+"Oui, bien qu'il ne soit plus aussi fortifié qu'à mon époque. Les choses ont "
+"bien changé ici."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:640
+#, fuzzy
 msgid "Is that smoke I- Wait, I hear some steps..."
-msgstr ""
+msgstr "Est-ce que cette fumée que je - Attendez, j'entends un bruit de pas..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:653
+#, fuzzy
 msgid "Vuruk"
-msgstr ""
+msgstr "Vuruk"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:666
+#, fuzzy
 msgid "Hello, strangers! Are you loyal to the Grand Council?"
-msgstr ""
+msgstr "Bonjour, étrangers ! Êtes-vous demeurés loyaux au Grand Conseil ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:671
+#, fuzzy
 msgid "Ehm..."
-msgstr ""
+msgstr "Euh..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:676
+#, fuzzy
 msgid "Yes, we are."
-msgstr ""
+msgstr "Oui, nous le sommes."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:681
+#, fuzzy
 msgid ""
 "The vile saurians are besieging the port of Tirigaz, and I can’t enter the "
 "city and bring some important news to our lord. I think I speak for all of "
 "us, when I say your help would be very valuable. I need to get to the city "
 "keep, but that isn’t safe until those vermin are defeated!"
 msgstr ""
+"Ces vils sauriens assiègent le port de Tirigaz, et nous ne pouvons entrer "
+"dans la ville. Nous portons d'importantes nouvelles pour notre seigneru. Je "
+"parle au nom de tous quand je vous dit que votre aide serait extrêmement "
+"précieuse. Je dois accéder au donjon de la cité, mais ce ne sera pas "
+"possible tant que ces vermines ne sont pas vaincues !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:686
+#, fuzzy
 msgid "The enemies of our friends are our enemies. We can help you."
-msgstr ""
+msgstr "Les ennemis de nos amis sont nos ennemis. Nous vous aiderons."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:691
+#, fuzzy
 msgid ""
 "(whispering) Although I wonder why those creatures are attacking them in the "
 "first place..."
 msgstr ""
+"(en chuchotant) Bien que je me demande pourquoi ces créatures les ont "
+"attaqués en premier lieu..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:696
+#, fuzzy
 msgid ""
 "We must stop and defeat those saurians before they take over Tirigaz or any "
 "of the villages providing food and resources to the port in the North."
 msgstr ""
+"Nous devons arrêter ces sauriens avant qu'ils ne prennent Tirigaz ou les "
+"villages qui fournissent le port en ressource, au Nord."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:701
+#, fuzzy
 msgid "Let’s prepare for battle again, then."
-msgstr ""
+msgstr "Préparons-nous pour la bataille alors."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:709
+#, fuzzy
 msgid "Vuruk, what is it that you need to report to the lord of Tirigaz?"
 msgstr ""
+"Vuruk, que sont dont les nouvelles dont vous devez faire part au seigneur de "
+"Tirigaz ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:714
+#, fuzzy
 msgid ""
 "Hmm...it’s something I’m not allowed to share with anyone else but lord Tan-"
 "Vatar and his commanders."
 msgstr ""
+"Eh bien... Je ne suis pas autorisé à en parler à qui que ce soit en dehors "
+"de Tan-Vatar et de ses commandants."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:719
+#, fuzzy
 msgid "Very well, then."
-msgstr ""
+msgstr "Très bien, alors."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:733
+#, fuzzy
 msgid "Come in aid of your kin, friends from the deep sea!"
-msgstr ""
+msgstr "Venez et aidez ceux de votre race, amis du fond de la mer !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:785
+#, fuzzy
 msgid ""
 "Ah, hah! They have the support of some wild creatures from the ocean! "
 "Nothing we cannot handle."
 msgstr ""
+"Ah ha !Ils ont obtenu le soutient de quelque créature du fond de l'océan ! "
+"Rien que nous ne puissions maîtriser."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:830
+#, fuzzy
 msgid "Where did all these damned spawns come from?"
-msgstr ""
+msgstr "D'où sont donc venues ces créatures maudites ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:840
+#, fuzzy
 msgid "This is becoming harder than it was supposed to be."
-msgstr ""
+msgstr "Cela devient plus dur que ça n'aurait dû l'être."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:903
+#, fuzzy
 msgid ""
 "Arthol has been taken over by the saurians! Now there’s no hope for Tirigaz!"
 msgstr ""
+"Arthol a été pris par les sauriens ! Il n'y plus aucun espoir pour Tirigaz !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:924
+#, fuzzy
 msgid ""
 "Tirigaz has been captured! Our mission has failed, and we won’t be able to "
 "reach Zocthanol now!"
 msgstr ""
+"Tirigaz a été prise ! Notre mission a échoué, nous ne pourrons jamais "
+"atteindre Zocthanol à présent !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:952
+#, fuzzy
 msgid "No! I’ve got to... uuugh..."
-msgstr ""
+msgstr "Non ! Je dois... aaah..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:964
+#, fuzzy
 msgid ""
 "We let the orcish messenger die in the battlefield! The lord of Tirigaz is "
 "not going to like this..."
 msgstr ""
+"Nous avons laissé le messager orc mourir sur le champ de bataille ! Le "
+"seigneur de Tirigaz ne va pas aimer cela..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:978
+#, fuzzy
 msgid "The treacherous ones cannot win! Eeaack..."
-msgstr ""
+msgstr "Les être perfides ne peuvent pas l'emporter ! Aaargh..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1002
+#, fuzzy
 msgid "Damn you, earth-dwellers!"
-msgstr ""
+msgstr "Soyez-maudits, habitants de la terre !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1024
+#, fuzzy
 msgid ""
 "I have been struck down by the damned minions of an undead lich! This is not "
 "fair!"
 msgstr ""
+"J'ai été frappé par les servants d'une liche mort-vivante ! C'est injuste !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1039
+#, fuzzy
 msgid "Noooooo! You’ll suffer for this atrocity!"
-msgstr ""
+msgstr "Nooooooon ! Vous souffrirez pour cette atrocité !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1055
+#, fuzzy
 msgid "Ha, ha, ha! Die, fool!"
-msgstr ""
+msgstr "Ha, ha, ha ! Mourrez, pauvre fou !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1060
+#, fuzzy
 msgid "No! The city will fall...without a leader... *ack*"
-msgstr ""
+msgstr "Non ! Cette cité tombera... sans un chef... *argh*"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1065
+#, fuzzy
 msgid ""
 "Take that, orcish scum! Your leader is dead now, and your city is now ours!"
 msgstr ""
+"Prends-ça, pourriture d'orc ! Votre chef est mort maintenant, et votre cité "
+"nous appartient !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1077
+#, fuzzy
 msgid ""
 "The commander of the defense of Tirigaz has been slain! The city won’t "
 "resist for much longer now..."
 msgstr ""
+"Le commandeur de la défense de Tirigaz a été tué ! La ville ne résistera pas "
+"bien longtemps à présent..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1097
+#, fuzzy
 msgid "Don’t get any closer to our villages, you vermin!"
-msgstr ""
+msgstr "N'approchez pas plus de nos villages, vermines !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1102
+#, fuzzy
 msgid "Crush their villages into the ground!"
-msgstr ""
+msgstr "Réduisez leurs villages en cendre !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1132
+#, fuzzy
 msgid ""
 "These villages belong to the lord of Tirigaz! We must protect them, not "
 "capture them!"
 msgstr ""
+"Ces villages appartiennent au seigneur de Tirigaz ! Nous devons les "
+"protéger, pas les capturer !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1156
+#, fuzzy
 msgid "Vitork"
-msgstr ""
+msgstr "Vitork"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1167
+#, fuzzy
 msgid "Yes! We did it!"
-msgstr ""
+msgstr "Oui ! Nous avons réussi !"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1172
+#, fuzzy
 msgid ""
 "This is an important battle you’ve helped us win, travelers. The city of "
 "Tirigaz shall be eternally thankful for your assistance."
 msgstr ""
+"C'est une bataille importante dans laquelle vous nous avez assistés, "
+"voyageurs. La cité de Tirigaz vous sera éternellement reconnaissante pour "
+"votre aide."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1177
+#, fuzzy
 msgid ""
 "It is our duty to assist our allies in these times. However, I believe this "
 "soldier has something to tell you..."
 msgstr ""
+"C'est notre devoir de soutenir nous alliés dans ces temps difficiles. Je "
+"crois cependant que ce soldat a quelque chose à vous dire..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1182
+#, fuzzy
 msgid "Vuruk, brother, you made it! Did you discover anything new?"
-msgstr ""
+msgstr "Vuruk, frère, tu as réussi ! Apportes-tu des nouvelles ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1187
+#, fuzzy
 msgid ""
 "Ha, indeed! I need to talk with you about it later, but now I must report to "
 "the chieftains."
 msgstr ""
+"Ha, bien entendu ! Nous devrons en parler plus tard, je dois à présent faire "
+"mon rapport aux chefs de guerre."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1192
+#, fuzzy
 msgid ""
 "I see you helped Vuruk return from his mission. Well done! So, how can we "
 "pay our debt with you?"
 msgstr ""
+"Je vois que vous avez aidé Vuruk à terminer sa mission. Bien joué ! Dites-"
+"nous maintenant, comment pouvons-nous rembourser notre dette ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1197
+#, fuzzy
 msgid ""
 "Um, we are currently looking for transportation services. We must sail "
 "through the open ocean to find a certain island..."
 msgstr ""
+"Eh bien, nous sommes en recherche d'un moyen de transport. Nous devons "
+"naviguer à travers l'océan pour trouver une île..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1202
+#, fuzzy
 msgid ""
 "I mean no offense, but only fools would dare sail through the open ocean! "
 "Nobody has entered deeper waters and returned in one piece, ever! Nobody "
@@ -1614,36 +2125,58 @@ msgid ""
 "would have returned already! Why would anyone want to travel so far into "
 "unknown waters, when you have plenty of safe lands behind you?"
 msgstr ""
+"Ne le prenez pas mal, mais seuls les fous s'aventurent à voguer comme cela "
+"dans l'océan ! Personne n'a jamais navigué sur les eaux profondes et n'en "
+"est revenu indemne ! Personne ne sait précisément quelles créatures "
+"demeurent dans la Vaste Mer. Personne ne sait avec certitude ce qui repose "
+"au-delà de l'horizon, mais il ne peut rien y avoir de bien, sinon quelqu'un "
+"en serait déjà revenu ! Pourquoi quelqu'un voudrait-il s'aventurer si loin "
+"dans ces eaux inconnues, alors qu'il y a de vastes terres plus sûres juste "
+"derrière nous ?"
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1207
+#, fuzzy
 msgid ""
 "We have a mission to complete, but like Vuruk’s, it is not something we’d "
 "discuss with..."
 msgstr ""
+"Nous avons une mission à accomplir, mais comme celle de Vuruk, ce n'est pas "
+"quelque chose dont nous pouvons discuter avec..."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1212
+#, fuzzy
 msgid ""
 "We know the location of a certain isle where some elves who once inhabited "
 "the Great Continent went to. We need to gather some information from them — "
 "this is a mission for the Grand Council."
 msgstr ""
+"Nous connaissons la position d'une île où des elfes, qui habitèrent sur le "
+"Grand Continent, allèrent s'installer. Nous devons apprendre certaines "
+"choses d'eux - c'est une mission pour le Grand Conseil."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1217
+#, fuzzy
 msgid "Uh, huh."
-msgstr ""
+msgstr "Hu, huh."
 
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1222
+#, fuzzy
 msgid ""
 "The Grand Council? Why didn’t you say so in the first place? We’ll do "
 "anything we can to help you in your mission. It’ll be difficult to gather a "
 "crew for you, but at least I can give you one of our fastest transport "
 "vessels."
 msgstr ""
+"Le Grand Conseil ? Pourquoi n'avez-vous pas commencé par là ? Nous ferons "
+"tout ce que nous pourrons pour vous assister dans votre mission. Ce sera "
+"difficile de rassembler tout un équipage, mais nous pouvons au moins vous "
+"donner un de nos navires de transport les plus rapides."
 
 #. [scenario]: id=06_01_Quenoth_Isle
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:5
+#, fuzzy
 msgid "Quenoth Isle"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [side]: id=Gaellis, type=Quenoth Marshal
 #. [side]: id=Maina, type=Quenoth Shyde
@@ -1659,8 +2192,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:37
 #: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:55
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:56
+#, fuzzy
 msgid "team_name^Quenoth"
-msgstr ""
+msgstr "team_name^Elfes (nord)"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:93
@@ -1713,8 +2247,9 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:305
+#, fuzzy
 msgid "Galas, I—"
-msgstr ""
+msgstr "Galas"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:318
@@ -1743,8 +2278,9 @@ msgstr ""
 
 #. [event]: (id=Elynia) facing nw}, (id=Galas) facing se}, (id=Elynia) facing se}, type=Quenoth Fighter, id=Nion, (id=Galas) facing nw}, type=Quenoth Ranger, id=Valen, type=Quenoth Ranger, id=Hara, type=Quenoth Fighter, id=Yon, type=Quenoth Scout, id=Ladien, (id=Hara) (20) (4)}, (id=Nion) (23) (5)}, (id=Yon) (23) (7)}, (id=Valen) (20) (5)}, (id=Yon) 24 7}, (id=Nion) 23 4}, (id=Hara) 19 4}, (id=Elynia)}
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:375
+#, fuzzy
 msgid "Ladien"
-msgstr ""
+msgstr "Nyadien"
 
 #. [message]: speaker=Kyara
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:383
@@ -1894,8 +2430,9 @@ msgstr ""
 
 #. [unit]: id=Kal, type=Quenoth Fighter
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:273
+#, fuzzy
 msgid "Kal"
-msgstr ""
+msgstr "Krisval"
 
 #. [unit]: id=Niemin, type=Quenoth Fighter
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:286
@@ -2083,8 +2620,9 @@ msgstr ""
 #. [side]: type=Lesser Giant Spider
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:40
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:55
+#, fuzzy
 msgid "team_name^Cave creatures"
-msgstr ""
+msgstr "team_name^Galas"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:91
@@ -2093,8 +2631,9 @@ msgstr ""
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:107
+#, fuzzy
 msgid "team_name^Chaos guards"
-msgstr ""
+msgstr "team_name^Galas"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:156
@@ -2111,8 +2650,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:320
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:161
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:683
+#, fuzzy
 msgid "Death of Horo"
-msgstr ""
+msgstr "Mort de Vuruk"
 
 #. [event]
 #. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
@@ -2124,8 +2664,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:321
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:162
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:684
+#, fuzzy
 msgid "Death of Kyara"
-msgstr ""
+msgstr "Mort de Kri'tan"
 
 #. [message]: speaker=Horo
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:273
@@ -2599,8 +3140,9 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1095
+#, fuzzy
 msgid "You know nothing."
-msgstr ""
+msgstr "Vous le connaissez ?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1100
@@ -2885,8 +3427,9 @@ msgstr ""
 
 #. [message]: speaker=Horo
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:263
+#, fuzzy
 msgid "Yes, we did it!"
-msgstr ""
+msgstr "Oui ! Nous avons réussi !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:268
@@ -2895,13 +3438,15 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:277
+#, fuzzy
 msgid "Galas?"
-msgstr ""
+msgstr "Galas"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:286
+#, fuzzy
 msgid "...Elynia?"
-msgstr ""
+msgstr "Elynia"
 
 #. [scenario]: id=09_The_Triad_part_1
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:5
@@ -3149,8 +3694,9 @@ msgstr ""
 
 #. [event]: id=Elyssa level 6}
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:963
+#, fuzzy
 msgid "Move Galas, Elynia or Mal Keshar to the exit location"
-msgstr ""
+msgstr "Menez Galas, Elynia et Mal Keshar jusqu'au Fort Eldàin"
 
 #. [scenario]: id=09_The_Triad_part_2, type=Shaxthal Drone
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:5
@@ -3269,8 +3815,9 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:852
+#, fuzzy
 msgid "Elynia!"
-msgstr ""
+msgstr "Elynia"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:890
@@ -3435,8 +3982,9 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:666
+#, fuzzy
 msgid "Elynia... we must..."
-msgstr ""
+msgstr "Elynia... Non !"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:675
@@ -3489,8 +4037,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:28
 #: After_the_Storm/episode2/scenarios/00_Transience.cfg:27
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:23
+#, fuzzy
 msgid "team_name^Elynia"
-msgstr ""
+msgstr "team_name^Elynia"
 
 #. [side]: type=Chaos Lorekeeper, id=Grulock
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:62
@@ -3619,8 +4168,9 @@ msgstr ""
 
 #. [scenario]: id=11_Return_to_Wesmere_part_1
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:5
+#, fuzzy
 msgid "Return to Wesmere — Part 1"
-msgstr ""
+msgstr "Retour à Wesmere"
 
 #. [side]: type=Chaos Cataphract, id=Mendryr
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:97
@@ -3634,8 +4184,9 @@ msgstr ""
 
 #. [side]: type=Hell Guardian, id=Elgamal
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:138
+#, fuzzy
 msgid "team_name^Wesmere Defense"
-msgstr ""
+msgstr "team_name^Ennemis"
 
 #. [side]: type=Hell Guardian, id=Elgamal
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:150
@@ -3784,8 +4335,9 @@ msgstr ""
 
 #. [scenario]: id=11_Return_to_Wesmere_part_1_cutscene
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:5
+#, fuzzy
 msgid "Departure"
-msgstr ""
+msgstr "Créatures marines"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:52
@@ -3925,8 +4477,9 @@ msgstr ""
 
 #. [scenario]: id=11_Return_to_Wesmere_part_2, type=Shaxthal Drone,Shaxthal Sentry Drone,Shaxthal Sentry Drone, type=Shaxthal Drone
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:5
+#, fuzzy
 msgid "Return to Wesmere — Part 2"
-msgstr ""
+msgstr "Retour à Wesmere"
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:64
@@ -3938,8 +4491,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:72
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:108
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:125
+#, fuzzy
 msgid "team_name^Wesmere Hive"
-msgstr ""
+msgstr "team_name^Ruche"
 
 #. [event]: (id=Elynia) facing se}, (id=Mal Keshar) facing se}
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:326
@@ -4004,8 +4558,9 @@ msgstr ""
 
 #. [scenario]: id=12_The_Queen, race=orc, type=Shaxthal Drone
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:5
+#, fuzzy
 msgid "The Queen"
-msgstr ""
+msgstr "Reine de la Ruche"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:371
@@ -4088,8 +4643,9 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:680
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:824
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:878
+#, fuzzy
 msgid "Destroy the Queen"
-msgstr ""
+msgstr "Vive la Reine"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:734
@@ -4231,13 +4787,15 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/macros/character-deaths.cfg:182
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:1337
+#, fuzzy
 msgid "How could I let this happen? NO!"
-msgstr ""
+msgstr "Comment ai-je pu laisser cela arriver ? NON !"
 
 #. [message]
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:1349
+#, fuzzy
 msgid "My lady, we cannot spend any more time here!"
-msgstr ""
+msgstr "Bah, nous ne pouvons pas perdre notre temps ici."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:1362
@@ -4343,8 +4901,9 @@ msgstr ""
 #: After_the_Storm/macros/character-defines.cfg:176
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:115
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:138
+#, fuzzy
 msgid "Mal Kendria"
-msgstr ""
+msgstr "Mal Keshar"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:117
@@ -4438,11 +4997,13 @@ msgstr ""
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:10
 #: After_the_Storm/episode2/storytxt.cfg:10
+#, fuzzy
 msgid "Warning!"
-msgstr ""
+msgstr "Attention !"
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:14
+#, fuzzy
 msgid ""
 "Some scenarios of this campaign work in a dramatically different way to that "
 "of Wesnoth’s common gameplay. Therefore, it is especially important to pay "
@@ -4455,41 +5016,70 @@ msgid ""
 "Burning Suns</i> and especially <i>Invasion from the Unknown</i>, to be "
 "familiar with some characters and historical events."
 msgstr ""
+"Certains scénarios de cette campagne fonctionne d'une façon très différente "
+"du gameplay habituel de Bataille pour Wesnoth. Par conséquent, il est très "
+"important de faire particulièrement attention aux objectifs de mission, et "
+"de ne pas nécessairement vouloir tuer chaque ennemi, en particulier dans les "
+"cartes recouvertes de brume, où dans les endroits où les ennemis "
+"réapparaissent régulièrement.\n"
+"\n"
+"Bien que cela ne soit pas strictement requis, je recommande aux joueurs "
+"d'avoir joué ou lu l'histoire de <i>Descente dans les Ténèbres</i>, <i>Sous "
+"les Soleils Brûlants</i> et notamment <i>L'Obscure Invasion</i>, afin d'être "
+"déjà familiarisés certains personnages et événements."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:23
+#, fuzzy
 msgid ""
 "It would seem that with the defeat of Zhangor at the hands of Elynia the "
 "Lady of Light and Argan the Master of Darkness, the destruction of "
 "Yechnagoth by the Elves of Quenoth, and the end of the Shadow Master’s "
 "control over the Chaos Empire, peace would return to the world."
 msgstr ""
+"Il aurait semblé naturel qu'avec la défaite de Zhangor, vaincu par Elynia la "
+"Dame de Lumière et Argan le Maître des Ténèbres, la destruction de "
+"Yechnagoth par les Elfes de Quenoth, et la fin de la domination du Maître de "
+"l'Ombre sur l'Empire du Chaos, la paix reviendrait dans le monde de Wesnoth."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:26
+#, fuzzy
 msgid "“I wish that were true."
-msgstr ""
+msgstr "J'aimerais que cela soit vrai."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:29
+#, fuzzy
 msgid ""
 "I am Elynia, former disciple of the high Enchantress Niryone of the Ka’lian "
 "of Wesmere Forest. Others remember me better as the Lady of Light who "
 "defeated the demon-lord Zhangor. The one who fought along with her husband "
 "for so long, to be ultimately forced to kill him."
 msgstr ""
+"Je suis Elynia, ancienne disciple de la Haute Enchanteresse Niryone, des "
+"Ka'lian de la Forêt de Wesmere. D'autres se souviendront mieux de moi comme "
+"la Dame de Lumière qui vainquit le Seigneur-Démon Zhangor. Celle qui "
+"combattit aux côtés de son mari pour si longtemps, pour être finalement "
+"contrainte de commetre un meurtre. Celui de son propre mari."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:32
+#, fuzzy
 msgid ""
 "Although I used to be pure of heart, I fear that the evil I have committed "
 "is consuming my very soul. It is as if I was not myself. I cannot enjoy a "
 "zephyr, or the taste of fresh and clean water. I do not think I could love "
 "again either."
 msgstr ""
+"Bien que j'ai été pure de coeur, j'ai peur que le mal que j'ai perpetré ne "
+"consume mon corps lui-même. Comme si je n'étais plus moi-même. Je ne peux "
+"pas profiter d'un zéphire, ou du goût de l'eau fraîche et claire. Je ne "
+"pense même pas être capable d'aimer de nouveau."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:35
+#, fuzzy
 msgid ""
 "I control powers that nobody else possesses in these times. I bear with me a "
 "weighty charge, one that I sometimes regret. By slaying my beloved, have I "
@@ -4498,24 +5088,41 @@ msgid ""
 "demonstrate to the world that I failed in the mission that was assigned to "
 "me eons ago?"
 msgstr ""
+"Je contrôle des pouvoirs que personne ne possède plus à notre époque. Je "
+"supporte une charge de grand poids, que je regrette parfois d'avoir prise. "
+"En tuant mon aimé, ai-je été corrompue par la magie impie d'Uria ? Suis-je à "
+"présent dans une impasse ? Suis-je condamnée à retourner ce pouvoir que je "
+"transporte contre mes amis, et à montrer au monde que j'ai échoué dans la "
+"mission qui m'a été donnée il y a une éternité ?"
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:38
+#, fuzzy
 msgid ""
 "The tides of the sea are now always changing. It is not the peaceful Vast "
 "Sea that I met as a young girl. It is now a hostile sea of Death. I can "
 "sense the hatred and despair that overwhelm all the creatures of this world, "
 "flowing to it."
 msgstr ""
+"Les marées de la mer changent constamment maintenant. Ce n'est plus la Vaste "
+"Mer paisible que j'avais découverte quand je n'étais qu'une petite fille. "
+"Elle est maintenant devenue une mer de mort, hostile et distante. Je peux "
+"sentir la haine et le désespoir de toutes les créatures de ce monde couler "
+"vers elle."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:41
+#, fuzzy
 msgid ""
 "There is an ongoing war against those who established the new order of "
 "Irdya. But unseen enemies of the ancient world, foes of a forgotten era, "
 "creatures that threaten all life in Irdya, have been unleashed as well, and "
 "they are protected by an unspeakable force."
 msgstr ""
+"Une guerre se déroule à présent contre ceux qui établirent le nouvel ordre "
+"d'Irdya. Mais des ennemis de l'Ancien Monde, créatures d'une ère oubliée, "
+"qui menacent toute vie d'Irdya, ont été relâchées elles aussi, et elles sont "
+"protégées par une force indicible."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:44
@@ -4527,24 +5134,36 @@ msgstr ""
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:53
+#, fuzzy
 msgid ""
 "I had not seen the high, snowy peaks of the Heart Mountains for a long time. "
 "In the last occasion in which I could have the opportunity to enjoy the "
 "view, one of Uria’s foul hechmen was pursuing us and would not let us rest "
 "for a single minute."
 msgstr ""
+"Je n'avais pas contemplé les hauts sommets enneigés des Montagnes du Coeur "
+"depuis longtemps. La dernière fois que j'aurais pu apprécier leur beauté, un "
+"des sbires d'Uria nous poursuivait, et ne nous avait pas laissé pas nous "
+"reposer une seule minute."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:56
+#, fuzzy
 msgid ""
 "That enemy, a powerful sorcerer from the Iron Triad, a group who worships "
 "and follows Uria’s commands, is my highest worry right now. He displayed "
 "great power when we fought him; powers even greater than Malin Keshar’s "
 "arts. Some powers that must have been bestowed upon him by Uria herself."
 msgstr ""
+"Cet ennemi, un sorcier puissant de la Triade de Fer - un groupe de ceux qui "
+"adoraient et obéissaient au commandements d'Uria - est le plus grand de mes "
+"soucis en cet instant. Il avait montré une grande puissance lorsque nous "
+"l'avions combattu ; des pouvoirs encore plus grands que ce de Malin Keshar. "
+"Ces pouvoirs lui avaient sûrement été accordés par Uria lui-même."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:59
+#, fuzzy
 msgid ""
 "I suspect that, if he has full control over the Iron Triad, their evil "
 "design could not be thwarted by Argan’s passing. I fear that they have at "
@@ -4552,32 +5171,51 @@ msgid ""
 "faded away as we expected, and I’d dare to say it is becoming even stronger "
 "than before."
 msgstr ""
+"Je suspecte que, s'il a un contrôle total sur la Triade de Fer, leurs plans "
+"maléfiques ne seraient pas mis à mal par la mort d'Argan. J'ai peur qu'ils "
+"n'aient au moins un dernier coup à jouer dans ce jeu. La sombre silhouette "
+"du Chaos n'a pas disparu comme nous nous y attendions, et je m'aventure à "
+"penser qu'elle est même plus forte qu'auparavant."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:68
+#, fuzzy
 msgid ""
 "We rested for a night and swiftly continued our path to the Far North. As "
 "the human in the town told us, the shortcut was plagued with undead. "
 "However, with Mal Keshar’s arts we could easily overcome them, even more so "
 "now that their lords were gone."
 msgstr ""
+"Nous nous sommes reposés pour une nuit et avons poursuivi notre chemin vers "
+"le Grand Nord. Comme l'humain dans la ville nous l'avait dit, le raccourci "
+"était envahi par les zombies. Avec les arts de Mal Keshar, cependant, nous "
+"les avions facilement éliminés, d'autant plus que leurs seigneurs gisaient à "
+"présent morts."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:71
+#, fuzzy
 msgid ""
 "After many days, our trip came to an end and we were back in safe territory, "
 "in the northern humans’ country. Or so it seemed at first."
 msgstr ""
+"Après de nombreux jours, notre voyage toucha à sa fin, et nous fûmes de "
+"nouveau en lieu sûr, dans les terres des hommes du nord. Ou tu du moins le "
+"pensions-nous."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:80
+#, fuzzy
 msgid ""
 "We abandoned Aragwaith territory as agreed, to never return. It was the "
 "fairest deal for the elves."
 msgstr ""
+"Nous avons abandonné le territoire d'Aragwaith comme promis, pour ne plus "
+"jamais revenir. C'était le meilleur marché pour les elfes."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:83
+#, fuzzy
 msgid ""
 "The brash behavior of the new elvish leaders has disappointed me; in my "
 "times only the eldest and wisest could rise as leaders of our kind. Their "
@@ -4585,18 +5223,30 @@ msgid ""
 "personal benefit and individual conflicts had no place among the members of "
 "the Ka’lian."
 msgstr ""
+"L'attitude agressive des nouveaux chefs des elfes m'avait déçue ; de mon "
+"temps, seuls les plus anciens et les plus sages pouvaient se présenter comme "
+"dirigeants de notre race. Leurs décisions étaient prises en considération de "
+"ce qui était le mieux pour notre civilisation ; le bénéfice personnel et les "
+"conflits individuels n'avaient alors aucune place parmis les membres du "
+"Ka'lian."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:86
+#, fuzzy
 msgid ""
 "Then again, I had already seen how our civilization slowly began to "
 "deteriorate long ago. The Ka’lian began to be infested by inexperienced "
 "leaders, costly mistakes and hasty choices; including the choice of allying "
 "with Zhangor in anticipation of the Fall of Irdya."
 msgstr ""
+"Mais je ne faisais que contempler une fois de plus la décadence qui "
+"atteignait mon peuple depuis longtemps. Le Ka'lian fut infesté par des chefs "
+"inexpérimentés, des erreurs coûteuses et des choix faits à la hâte ; dont le "
+"choix de s'allier avec Zhangor dans l'anticipation de la chute d'Irdya."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:89
+#, fuzzy
 msgid ""
 "Now I also feel disappointed at myself. I should have guessed that this "
 "would happen and that I’d have to concentrate my efforts in keeping our kin "
@@ -4604,16 +5254,25 @@ msgid ""
 "Or at least I should have found someone capable of replacing me and mediate "
 "between our lords."
 msgstr ""
+"Mais je me suis également déçue moi-même. J'aurais dû deviner que cela "
+"arriverait, et que je devais unir mes efforts pour garder notre race unie "
+"derrière une seule bannière, au lieu de passer tant de temps loin de mes "
+"frères. Ou du moins aurais-je dû trouver quelqu'un qui pourrait me remplacer "
+"et être un médiateur entre nos seigneurs."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:92
+#, fuzzy
 msgid ""
 "That aside, I’m now certain that our mission on Zocthanol Isle is more "
 "essential than I originally believed."
 msgstr ""
+"Cela dit, je suis maintenant certaine que notre mission dans l'Ile de "
+"Zocthanol était plus vitale que je ne pensais au départ."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:97
+#, fuzzy
 msgid ""
 "The members of the Grand Council stated that no one witnessed any elf coming "
 "or leaving Inodien’s tent. However, some people claimed to have heard "
@@ -4623,9 +5282,18 @@ msgid ""
 "surroundings I sense we are going to find something else of interest very "
 "soon."
 msgstr ""
+"Les membres du Grand Conseil avaient indiqué qu'aucun elfe n'avait été vu "
+"entrant ou sortant de la tente d'Inodien. Certains rapportaient pourtant "
+"avoir entendu d'étrange sons venant de la forêt après qu'il eût été trouvé "
+"mort.\n"
+"\n"
+"Nous n'apprendrons peut-être jamais ce qui arriva vraiement. Malgré tout, en "
+"regardant autour de moi, je sens que nous allons trouver quelque chose "
+"d'intéressant très bientôt."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:117
+#, fuzzy
 msgid ""
 "True to his word, the orcish lord gave us the fastest transport ship in "
 "possession of his subordinates, provided us with orcish warriors for a crew, "
@@ -4633,17 +5301,30 @@ msgid ""
 "us to hear the news brought by the messenger we saved, and avoided any "
 "inquiries about what prompted the saurian conflict."
 msgstr ""
+"Fidèle à sa parole, le seigneur orc nous donna le bateau de transport le "
+"plus rapide que ses subordonnés possédaient, avec suffisamment de provisions "
+"pour des mois de voyage. Il ne put cependant convaincre qu'une poignée de "
+"guerriers orcs de se joindre à nous et de nous aider dans notre voyage sur "
+"la Grande Mer. Il ne nous permit pas d'entendre les nouvelles transportées "
+"par le messager que nous avions sauvé, et il évita toutes question sur les "
+"conséquences du conflit saurien."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:120
+#, fuzzy
 msgid ""
 "With Mal Keshar’s help, I managed to pinpoint the approximate location of "
 "Zocthanol based on a faint, dark presence towards the southwest. We rested "
 "within the walls of Tirigaz and departed early on the next morning."
 msgstr ""
+"Avec l'aide de Mal Keshar, nous avons pû déterminer la position "
+"approximative de Zocthanol, en se basant sur une faible, sombre présence "
+"dans le sud-est. Nous nous reposâmes alors dans les murs de Tirigaz et "
+"partîmes tôt le matin suivant."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:123
+#, fuzzy
 msgid ""
 "I never expected to find myself so far from the forests of the Great "
 "Continent, surrounded by an endless body of water inhabited by all sorts of "
@@ -4651,9 +5332,16 @@ msgid ""
 "interfer with our journey as we initially feared. Maybe they were aware of "
 "the importance of the mission for Irdya and its inhabitants."
 msgstr ""
+"Je ne m'attendais pas à me trouver si loin des forêts du Grand Continent, "
+"entourée d'une étendue d'eau sans fin, habitée par toutes sortes de "
+"créatures des profondeurs et de la surface ; des créatures qui, pour une "
+"raison inconnue, n'interférère pas avec notre voyage comme nous le craignons "
+"au départ. Peut-être connaissaient-ils l'importance de notre mission pour "
+"Irdya et ses habitants."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:126
+#, fuzzy
 msgid ""
 "The fear of failing to accomplish this mission and getting all of us killed "
 "in middle of the unknown did not let me sleep well for any single night. I "
@@ -4662,16 +5350,25 @@ msgid ""
 "pondering my mistakes, and wondering what continued occurring on the Great "
 "Continent."
 msgstr ""
+"La peur de faillir à notre mission et de mourir au milieu de l'inconnu ne me "
+"laissa pas une seule nuit de sommeil tranquille. Je restai éveillée tard "
+"pendant les grandes Ténèbres, gardant le pont avect Mal Keshar, ou "
+"contemplant l'humeur toujours changeante des vagues, réflechissant à mes "
+"erreurs, et me demandant ce qui se passait alors dans le Grand Continent."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:129
+#, fuzzy
 msgid ""
 "After countless days, we finally found our destination lit up by the setting "
 "suns."
 msgstr ""
+"Après un nombre incalculable de jours, nous trouvâmes enfin notre "
+"destination éclairée par les soleils levants."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:132
+#, fuzzy
 msgid ""
 "We carefully planned our landing, and decided that it would be best to keep "
 "the orcs and the undead waiting on the ship while Galas and I contacted the "
@@ -4679,6 +5376,11 @@ msgid ""
 "wild, perilous desert, they surely wouldn’t have fond memories of such "
 "creatures."
 msgstr ""
+"Nous préparâmes notre débarquement avec soin, et décidâmes qu'il serait "
+"mieux que les orcs et les morts-vivants attendent sur le bâteau, pendant que "
+"Galas et moi-même prenions contact avec les elfes et leur expliquions la "
+"situation. S'ils ceux là avaient survécu dans ce désert sauvage et menaçant, "
+"ils n'auraient certainement pas de bons souvenirs de telles créatures."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:141
@@ -4850,8 +5552,9 @@ msgstr ""
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:222
+#, fuzzy
 msgid "The darkness..."
-msgstr ""
+msgstr "Je... tombe dans les ténèbres..."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:225
@@ -5070,6 +5773,7 @@ msgstr ""
 
 #. [part]
 #: After_the_Storm/episode2/storytxt.cfg:16
+#, fuzzy
 msgid ""
 "Some scenarios of this campaign work in a dramatically different way to that "
 "of Wesnoth’s common gameplay. Therefore, it is especially important to pay "
@@ -5085,30 +5789,53 @@ msgid ""
 "If you haven’t completed Episode I of <i>After the Storm</i>, you probably "
 "should not play this episode yet."
 msgstr ""
+"Certains scénarios de cette campagne fonctionne d'une façon très différente "
+"du gameplay habituel de Bataille pour Wesnoth. Par conséquent, il est très "
+"important de faire particulièrement attention aux objectifs de mission, et "
+"de ne pas nécessairement vouloir tuer chaque ennemi, en particulier dans les "
+"cartes recouvertes de brume, où dans les endroits où les ennemis "
+"réapparaissent régulièrement.\n"
+"\n"
+"Bien que cela ne soit pas strictement requis, je recommande aux joueurs "
+"d'avoir joué ou lu l'histoire de <i>Descente dans les Ténèbres</i>, <i>Sous "
+"les Soleils Brûlants</i> et notamment <i>L'Obscure Invasion</i>, afin d'être "
+"déjà familiarisés certains personnages et événements."
 
 #: After_the_Storm/macros/abilities.cfg:12
+#, fuzzy
 msgid ""
 "\n"
 "\n"
 "Notes: "
 msgstr ""
+"\n"
+"\n"
+"Notes: "
 
 #: After_the_Storm/macros/abilities.cfg:17
+#, fuzzy
 msgid ""
 " Vegetated terrains are forest, great tree, farmland and mushroom grove "
 "hexes."
 msgstr ""
+"Les terrains \"végétaux\" sont la forêt, le grand arbre, le champ et le "
+"bosquet de champignons."
 
 #: After_the_Storm/macros/abilities.cfg:20
+#, fuzzy
 msgid "sylvan spark"
-msgstr ""
+msgstr "Etincelle Sylvaine"
 
 #: After_the_Storm/macros/abilities.cfg:24
+#, fuzzy
 msgid ""
 "Sylvan Spark:\n"
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
+"Etincelle Sylvaine:\n"
+"Placée sur un terrain végétal, l'unité se soigne de 5 points par tour. Si "
+"elle est empoisonnée, cela enlèvera le poison à la place de la guérison."
 
 #. [dummy]: id=absorb_damage
 #: After_the_Storm/macros/abilities.cfg:32
@@ -5124,11 +5851,13 @@ msgstr ""
 
 #. [dummy]: id=glamour
 #: After_the_Storm/macros/abilities.cfg:42
+#, fuzzy
 msgid "glamour"
-msgstr ""
+msgstr "Glamour"
 
 #. [dummy]: id=glamour
 #: After_the_Storm/macros/abilities.cfg:50
+#, fuzzy
 msgid ""
 "Glamour:\n"
 "All faeries can cast illusions on their enemies (or victims) that can be "
@@ -5154,14 +5883,42 @@ msgid ""
 "not related, and the later are always discarded, unlike the original "
 "experience amount, which is stored between changes of state."
 msgstr ""
+"Glamour:\n"
+"Toutes les fées peuvent lancer un sort d'illusion sur leurs ennemis (ou "
+"victimes) qu'elles peuvent utiliser pour se camoufler. Cependant, ce n'est "
+"pas une capacité adaptée au combat, puisqu'elle place la fée dans un état de "
+"faiblesse et l'expose aux attaques physiques.\n"
+"\n"
+"Une fée peut utiliser le sort Glamour pour se transformer complètement dans "
+"une autre créature qu'elle connait, et dont elle a appris l'anatomie et le "
+"comportement. L'unité qui lance ce sort pendant un tour ne sera pas capable "
+"de reprendre sa forme originelle, ou de prendre celle d'une autre cible "
+"jusqu'au prochain tour au début duquel l'unité s'est reposée (c'est-à-dire "
+"qu'elle n'a pas bougé ou attaqué pendant le tour précédent). Les points de "
+"mouvement sont calculés en réduisant de moitié le nombre de point que "
+"l'unité avait avant de lancer le sort. Les traits et les capacités de "
+"l'unité sont gardés seulement lorsqu'ils sont applicables. les AMLAs (After-"
+"Maximum-Level-Advancements) sont toujours ignorés, jusqu'à ce que l'unité "
+"revienne à sa forme originelle.\n"
+"\n"
+"Le maximum de points de vie de la fée en métamorphose peuvent différer du "
+"nombre normal, selon le type de créature ciblée. Cela s'applique également "
+"lors du retour à la forme originelle.\n"
+"\n"
+"Les points d'expérience gagnés dans la forme originelle ou métamorphosée de "
+"l'unité ne sont pas reliés, et ceux de la deuxième forme sont ignorés, à la "
+"différence du nombre de points d'expérience originel (avant transformation), "
+"qui est gardé entre les deux états."
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #: After_the_Storm/macros/abilities.cfg:58
+#, fuzzy
 msgid "sylvan essence"
-msgstr ""
+msgstr "Essence Sylvaine"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #: After_the_Storm/macros/abilities.cfg:60
+#, fuzzy
 msgid ""
 "Sylvan Essence:\n"
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
@@ -5169,14 +5926,22 @@ msgid ""
 "its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
 "only on vegetated terrains."
 msgstr ""
+"Essence Sylvaine :\n"
+"Cette unité peut guérir et soigner les unités alliées des cases adjacentes à "
+"chaque tour, selon un maximum de base de 8 points de vie. Sur les terrains "
+"végétaux, l'unité se cache des ennemis. Elle peut aussi se régénérer (mais "
+"pas se guérir du poison) de 3 PV par tour, mais seulement sur les terrains "
+"végétaux."
 
 #. [illuminates]: id=obscure
 #: After_the_Storm/macros/abilities.cfg:97
+#, fuzzy
 msgid "obscures"
-msgstr ""
+msgstr "Obscures"
 
 #. [illuminates]: id=obscure
 #: After_the_Storm/macros/abilities.cfg:101
+#, fuzzy
 msgid ""
 "Obscures:\n"
 "This unit darkens the surrounding area, making chaotic units fight better, "
@@ -5185,6 +5950,12 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
+"Obscures :\n"
+"Cette unité assombrit la zone qui l'entoure, rendant les unités chaotiques "
+"plus efficaces, et les unités loyales moins dangereuses.\n"
+"\n"
+"Toutes les unités adjacentes à celle-ci combattront comme si c'était l'aube "
+"quand il fait jour, et comme si il faisait nuit à l'aube."
 
 #. [advancement]: id=amla_ability_ambush
 #: After_the_Storm/macros/amla.cfg:36
@@ -5217,13 +5988,15 @@ msgstr ""
 #: After_the_Storm/units/elves-wood/Trapper.cfg:47
 #: After_the_Storm/units/elves-wood/Hunter.cfg:47
 #: After_the_Storm/units/elves-wood/Prowler.cfg:51
+#, fuzzy
 msgid "bolas"
-msgstr ""
+msgstr "bolas"
 
 #. [print]
 #: After_the_Storm/macros/boss-utils.cfg:8
+#, fuzzy
 msgid "Enemy boss sighted!"
-msgstr ""
+msgstr "Chef ennemi en vue !"
 
 #. [then]
 #: After_the_Storm/macros/boss-utils.cfg:53
@@ -5232,58 +6005,69 @@ msgstr ""
 
 #. [else]
 #: After_the_Storm/macros/boss-utils.cfg:56
+#, fuzzy
 msgid "female^absorbed damage"
-msgstr ""
+msgstr "blindée"
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:34
+#, fuzzy
 msgid "I... fall to the darkness..."
-msgstr ""
+msgstr "Je... tombe dans les ténèbres..."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/macros/character-deaths.cfg:38
+#, fuzzy
 msgid "Elynia... NO!"
-msgstr ""
+msgstr "Elynia... Non !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/macros/character-deaths.cfg:44
+#, fuzzy
 msgid "Our mission has failed."
-msgstr ""
+msgstr "Notre mission a échoué."
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:55
+#, fuzzy
 msgid "I... am finished... I’ll finally join Anlindë..."
-msgstr ""
+msgstr "Je... suis fini... Je vais finalement rejoindre Anlindë..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/macros/character-deaths.cfg:59
+#, fuzzy
 msgid "No! You must resist!"
-msgstr ""
+msgstr "Non ! Vous devez résister !"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/macros/character-deaths.cfg:65
+#, fuzzy
 msgid "This... this is a curse!"
-msgstr ""
+msgstr "C'est... c'est une malédiction !"
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:76
+#, fuzzy
 msgid "Alas, I can finally depart in peace..."
-msgstr ""
+msgstr "Enfin, je peux partir dans la paix..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/macros/character-deaths.cfg:80
+#, fuzzy
 msgid "NO! Malin, we need you for this!"
-msgstr ""
+msgstr "NON ! Malin, nous avons besoin de vous pour cela !"
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:84
+#, fuzzy
 msgid "It’s too late already..."
-msgstr ""
+msgstr "C'est déjà trop tard..."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/macros/character-deaths.cfg:90
+#, fuzzy
 msgid "Now we cannot continue without him. Our mission has failed!"
-msgstr ""
+msgstr "Nous ne pouvons continuer sans lui. Notre mission a échoué !"
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:101
@@ -5318,25 +6102,31 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:139
+#, fuzzy
 msgid "I wish... I could be with you... now... Galas..."
-msgstr ""
+msgstr "J'aimerais... j'aimerais être avec vous... maintenant... Galas..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/macros/character-deaths.cfg:149
+#, fuzzy
 msgid "No, Elynia! Not you now!"
-msgstr ""
+msgstr "Non, Elynia ! Pas vous !"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/macros/character-deaths.cfg:163
+#, fuzzy
 msgid ""
 "Now it’s up to me to put an end to this madness... I hope I can manage to do "
 "it alone..."
 msgstr ""
+"C'est maintenant à moi de mettre un terme à cette folie... j'espère pouvoir "
+"le faire tout seul..."
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:176
+#, fuzzy
 msgid "I go to join my only true friend... now..."
-msgstr ""
+msgstr "Je vais rejoindre mon seul véritable ami... maitenant..."
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:193
@@ -5351,23 +6141,27 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/character-deaths.cfg:228
+#, fuzzy
 msgid "I... fall to the darkness."
-msgstr ""
+msgstr "Je... tombe dans les ténèbres."
 
 #: After_the_Storm/macros/character-defines.cfg:8
+#, fuzzy
 msgid "Galas"
-msgstr ""
+msgstr "Galas"
 
 #: After_the_Storm/macros/character-defines.cfg:27
+#, fuzzy
 msgid "Mal Keshar"
-msgstr ""
+msgstr "Mal Keshar"
 
 #: After_the_Storm/macros/character-defines.cfg:43
 #: After_the_Storm/macros/character-defines.cfg:57
 #: After_the_Storm/macros/character-defines.cfg:121
 #: After_the_Storm/macros/character-defines.cfg:134
+#, fuzzy
 msgid "Elynia"
-msgstr ""
+msgstr "Elynia"
 
 #: After_the_Storm/macros/character-defines.cfg:70
 #: After_the_Storm/macros/character-defines.cfg:76
@@ -5380,16 +6174,18 @@ msgstr ""
 
 #: After_the_Storm/macros/character-defines.cfg:104
 #: After_the_Storm/macros/character-defines.cfg:148
+#, fuzzy
 msgid "Zynavu-Malal"
-msgstr ""
+msgstr "Zynavu-Malal"
 
 #: After_the_Storm/macros/character-defines.cfg:190
 msgid "Nar-hamoth"
 msgstr ""
 
 #: After_the_Storm/macros/character-defines.cfg:202
+#, fuzzy
 msgid "Mal Hekuba"
-msgstr ""
+msgstr "Mal Keshar"
 
 #. [then]
 #. [else]
@@ -5423,8 +6219,9 @@ msgstr ""
 
 #. [then]
 #: After_the_Storm/macros/items.cfg:128
+#, fuzzy
 msgid "female^healed"
-msgstr ""
+msgstr "blindée"
 
 #. [else]
 #: After_the_Storm/macros/items.cfg:131
@@ -5433,20 +6230,24 @@ msgstr ""
 
 #. [objectives]
 #: After_the_Storm/macros/objective-utils.cfg:6
+#, fuzzy
 msgid "New objectives:"
-msgstr ""
+msgstr "Nouveaux objectifs :"
 
 #: After_the_Storm/macros/objective-utils.cfg:47
+#, fuzzy
 msgid "Scenario notes:"
-msgstr ""
+msgstr "Notes du scénario :"
 
 #. [part]
 #: After_the_Storm/macros/scenario-utils.cfg:255
+#, fuzzy
 msgid "Work in progress!"
-msgstr ""
+msgstr "Travaux en cours !"
 
 #. [part]
 #: After_the_Storm/macros/scenario-utils.cfg:261
+#, fuzzy
 msgid ""
 "This campaign is a work in progress, and you have just completed the last "
 "playable scenario. The next scenario is not available in this version, but "
@@ -5458,164 +6259,214 @@ msgid ""
 "\n"
 "    ― <i>The author</i>"
 msgstr ""
+"Cette campagne est en cours de construction, et vous venez de finir le "
+"dernier scénario jouable. Le prochain scénario n'est pas disponible dans "
+"cette version, mais vous pourrez le jouer dans une prochaine version si vous "
+"gardez l'autosauvegarde de \"début-de-scénario\". Pour le moment, ceci est "
+"la fin de la campagne.\n"
+"\n"
+"Toute remarque est bienvenue sur le sujet <i>After the Storm</i> dans le "
+"forum <i>Scenario and Campaign Development</i> sur <u>forums.wesnoth.org</"
+"u>.\n"
+"\n"
+"    -- <i>L'auteur</i>"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/macros/scenario-utils.cfg:327
+#, fuzzy
 msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
-msgstr ""
+msgstr "Vous trouvez $temp_gold_retrieval_amount pièces d'or."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/macros/scenario-utils.cfg:346
+#, fuzzy
 msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
-msgstr ""
+msgstr "Vous recevez $temp_gold_retrieval_amount pièces d'or !"
 
 #. [time]: id=dawn1
 #: After_the_Storm/macros/schedules-surface.cfg:10
+#, fuzzy
 msgid "First Dawn"
-msgstr ""
+msgstr "Première Aube"
 
 #. [time]: id=morning1
 #: After_the_Storm/macros/schedules-surface.cfg:21
+#, fuzzy
 msgid "First Morning"
-msgstr ""
+msgstr "Premier Matin"
 
 #. [time]: id=midday1
 #: After_the_Storm/macros/schedules-surface.cfg:30
+#, fuzzy
 msgid "First Mid-Day"
-msgstr ""
+msgstr "Premier Midi"
 
 #. [time]: id=afternoon1
 #: After_the_Storm/macros/schedules-surface.cfg:39
+#, fuzzy
 msgid "First Afternoon"
-msgstr ""
+msgstr "Premier Après-Midi"
 
 #. [time]: id=dusk1
 #: After_the_Storm/macros/schedules-surface.cfg:48
+#, fuzzy
 msgid "First Dusk"
-msgstr ""
+msgstr "Premier Crépuscule"
 
 #. [time]: id=short_dark
 #: After_the_Storm/macros/schedules-surface.cfg:59
+#, fuzzy
 msgid "The Short Dark"
-msgstr ""
+msgstr "Les Courtes Ténèbres"
 
 #. [time]: id=dawn2
 #: After_the_Storm/macros/schedules-surface.cfg:71
+#, fuzzy
 msgid "Second Dawn"
-msgstr ""
+msgstr "Seconde Aube"
 
 #. [time]: id=morning2
 #: After_the_Storm/macros/schedules-surface.cfg:82
+#, fuzzy
 msgid "Second Morning"
-msgstr ""
+msgstr "Second Matin"
 
 #. [time]: id=midday2
 #: After_the_Storm/macros/schedules-surface.cfg:91
+#, fuzzy
 msgid "Second Mid-Day"
-msgstr ""
+msgstr "Second Midi"
 
 #. [time]: id=afternoon2
 #: After_the_Storm/macros/schedules-surface.cfg:100
+#, fuzzy
 msgid "Second Afternoon"
-msgstr ""
+msgstr "Seconde Après-Midi"
 
 #. [time]: id=dusk2
 #: After_the_Storm/macros/schedules-surface.cfg:109
+#, fuzzy
 msgid "Second Dusk"
-msgstr ""
+msgstr "Second Crépuscule"
 
 #. [time]: id=long_dark1
 #: After_the_Storm/macros/schedules-surface.cfg:120
+#, fuzzy
 msgid "The Long Dark - First Watch"
-msgstr ""
+msgstr "Les Longues Ténèbres - Premier Quart"
 
 #. [time]: id=long_dark2
 #: After_the_Storm/macros/schedules-surface.cfg:132
+#, fuzzy
 msgid "The Long Dark - Second Watch"
-msgstr ""
+msgstr "Les Longues Ténèbres - Second Quart"
 
 #. [time]: id=long_dark3
 #: After_the_Storm/macros/schedules-surface.cfg:144
+#, fuzzy
 msgid "The Long Dark - Third Watch"
-msgstr ""
+msgstr "Les Longues Ténèbres - Troisième Quart"
 
 #. [time]: id=long_dark4
 #: After_the_Storm/macros/schedules-surface.cfg:156
+#, fuzzy
 msgid "The Long Dark - Fourth Watch"
-msgstr ""
+msgstr "Les Longues Ténèbres - Quatrième Quart"
 
 #. [time]: id=indoors_hive
 #: After_the_Storm/macros/schedules.cfg:30
+#, fuzzy
 msgid "Shaxthal Hive"
-msgstr ""
+msgstr "Ruche Shaxthal"
 
 #. [time]: id=neutral_tod
 #: After_the_Storm/macros/schedules.cfg:42
+#, fuzzy
 msgid "Neutral time of day"
-msgstr ""
+msgstr "Temps neutre de la journée"
 
 #: After_the_Storm/macros/special-notes.cfg:5
+#, fuzzy
 msgid ""
 " This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
+"Cette unité assombrit la zone qui l'entoure, rendant les unités chaotiques "
+"plus efficaces, et les unités loyales moins dangereuses"
 
 #: After_the_Storm/macros/special-notes.cfg:11
+#, fuzzy
 msgid ""
 " This unit’s powers are increased by the Sylvan Essence. "
 "<ref>dst='ability_sylvan essence' text='full description'</ref>"
 msgstr ""
+"Les pouvoirs de cette unité sont améliorés par l'Essence Sylvaine (voir "
+"cette capacité <ref>dst='ability_sylvan essence' text='full description'</"
+"ref> pour plus de détails)."
 
 #: After_the_Storm/macros/special-notes.cfg:14
+#, fuzzy
 msgid ""
 " This unit will regenerate 5 HP per turn in forest or mushroom grove "
 "terrains."
 msgstr ""
+"Cette unité se régénèrera de 5 PV par tour dans la forêt ou dans les bosquet "
+"de champignons."
 
 #. [trait]: id=armored
 #: After_the_Storm/macros/traits.cfg:7
+#, fuzzy
 msgid "armored"
-msgstr ""
+msgstr "blindé"
 
 #. [trait]: id=armored
 #: After_the_Storm/macros/traits.cfg:8
+#, fuzzy
 msgid "female^armored"
-msgstr ""
+msgstr "blindée"
 
 #. [trait]: id=armored
 #: After_the_Storm/macros/traits.cfg:9
+#, fuzzy
 msgid "+15% bonus for all resistances (except arcane), -1 movement points"
 msgstr ""
+"+15% de bonus pour toutes les résistances (sauf sacré), -1 point de mouvement"
 
 #. [trait]: id=biomechanical
 #: After_the_Storm/macros/traits.cfg:33
+#, fuzzy
 msgid "biomechanical"
-msgstr ""
+msgstr "biomécanique"
 
 #. [trait]: id=biomechanical
 #: After_the_Storm/macros/traits.cfg:34
+#, fuzzy
 msgid "female^biomechanical"
-msgstr ""
+msgstr "biomécanique"
 
 #. [trait]: id=biomechanical
 #: After_the_Storm/macros/traits.cfg:36
+#, fuzzy
 msgid "Immune to drain, poison and plague"
-msgstr ""
+msgstr "Immunisé(e) contre le drain, le poison et la peste"
 
 #. [trait]: id=deteriorated
 #: After_the_Storm/macros/traits.cfg:47
+#, fuzzy
 msgid "deteriorated"
-msgstr ""
+msgstr "Déterioré"
 
 #. [trait]: id=deteriorated
 #: After_the_Storm/macros/traits.cfg:48
+#, fuzzy
 msgid "female^deteriorated"
-msgstr ""
+msgstr "Déteriorée"
 
 #. [trait]: id=deteriorated
 #: After_the_Storm/macros/traits.cfg:49
+#, fuzzy
 msgid "This undead unit has become weaker with the pass of time."
-msgstr ""
+msgstr "Cette unité s'est affaibli au cours du temps."
 
 #. [terrain_type]: id=dark-hive-floor
 #. [terrain_type]: id=dark-hive-surface
@@ -5623,45 +6474,53 @@ msgstr ""
 #. [terrain_type]: id=overlay-pit
 #: After_the_Storm/terrain.cfg:28 After_the_Storm/terrain.cfg:37
 #: After_the_Storm/terrain.cfg:46 After_the_Storm/terrain-virtual.cfg:15
+#, fuzzy
 msgid "Dark Hive"
-msgstr ""
+msgstr "Ruche Ténébreuse"
 
 #. [terrain_type]: id=overlay-campfire
 #: After_the_Storm/terrain-virtual.cfg:24
+#, fuzzy
 msgid "Campfire"
-msgstr ""
+msgstr "Feu de camp"
 
 #. [terrain_type]: id=overlay-gate-se
 #. [terrain_type]: id=overlay-gate-sw
 #: After_the_Storm/terrain-virtual.cfg:34
 #: After_the_Storm/terrain-virtual.cfg:43
+#, fuzzy
 msgid "Gate"
-msgstr ""
+msgstr "Porte"
 
 #. [terrain_type]: id=wasteland
 #: After_the_Storm/terrain.cfg:6
+#, fuzzy
 msgid "Wasteland"
-msgstr ""
+msgstr "Terrain vague"
 
 #. [terrain_type]: id=blood_lake
 #: After_the_Storm/terrain.cfg:58
+#, fuzzy
 msgid "Blood"
-msgstr ""
+msgstr "Sang"
 
 #. [race]: id=verlissh
 #: After_the_Storm/units/alien-verlissh.cfg:5
+#, fuzzy
 msgid "race^Verlissh"
-msgstr ""
+msgstr "race^Fées"
 
 #. [race]: id=verlissh
 #: After_the_Storm/units/alien-verlissh.cfg:6
+#, fuzzy
 msgid "race+female^Verlissh"
-msgstr ""
+msgstr "race+male^Fée"
 
 #. [race]: id=verlissh
 #: After_the_Storm/units/alien-verlissh.cfg:7
+#, fuzzy
 msgid "race^Verlisshi"
-msgstr ""
+msgstr "race^Fées"
 
 #. [race]: id=verlissh
 #: After_the_Storm/units/alien-verlissh.cfg:10
@@ -5798,13 +6657,15 @@ msgstr ""
 
 #. [race]: id=demon
 #: After_the_Storm/units/demons.cfg:21
+#, fuzzy
 msgid "race+female^Demoness"
-msgstr ""
+msgstr "race+male^Fée"
 
 #. [race]: id=demon
 #: After_the_Storm/units/demons.cfg:22
+#, fuzzy
 msgid "race^Demons"
-msgstr ""
+msgstr "race^Fée"
 
 #. [race]: id=demon
 #: After_the_Storm/units/demons.cfg:23
@@ -5839,8 +6700,9 @@ msgstr ""
 #: After_the_Storm/units/humans/Chaos_Invoker_Lorekeeper.cfg:48
 #: After_the_Storm/units/demons/Warrior.cfg:42
 #: After_the_Storm/units/demons/Grunt.cfg:40
+#, fuzzy
 msgid "infernal chill"
-msgstr ""
+msgstr "frissonnement infernal"
 
 #. [female]
 #: After_the_Storm/units/demons/Grunt.cfg:122
@@ -5873,8 +6735,9 @@ msgstr ""
 
 #. [female]
 #: After_the_Storm/units/demons/Regular.cfg:109
+#, fuzzy
 msgid "female^Demoness"
-msgstr ""
+msgstr "blindée"
 
 #. [unit_type]: id=Demon Warrior, race=demon
 #: After_the_Storm/units/demons/Warrior.cfg:5
@@ -5895,8 +6758,9 @@ msgstr ""
 
 #. [female]
 #: After_the_Storm/units/demons/Warrior.cfg:128
+#, fuzzy
 msgid "female^Demoness Warrior"
-msgstr ""
+msgstr "Déteriorée"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: After_the_Storm/units/demons/Zephyr.cfg:5
@@ -5923,8 +6787,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Archer, race=elf
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:5
+#, fuzzy
 msgid "Quenoth Archer"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Archer, race=elf
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:19
@@ -5955,8 +6820,9 @@ msgstr ""
 #: After_the_Storm/units/elves-quenoth/Champion.cfg:23
 #: After_the_Storm/units/elves-quenoth/Rider.cfg:32
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:23
+#, fuzzy
 msgid "sword"
-msgstr ""
+msgstr "épée"
 
 #. [attack]: type=pierce
 #: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:38
@@ -5975,8 +6841,9 @@ msgstr ""
 #: After_the_Storm/units/elves-quenoth/Champion.cfg:32
 #: After_the_Storm/units/elves-quenoth/Rider.cfg:41
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:32
+#, fuzzy
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. [female]
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:212
@@ -5985,8 +6852,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Avenger, race=elf
 #: After_the_Storm/units/elves-quenoth/Avenger.cfg:5
+#, fuzzy
 msgid "Quenoth Avenger"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Avenger, race=elf
 #: After_the_Storm/units/elves-quenoth/Avenger.cfg:29
@@ -6029,8 +6897,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Druid, race=elf
 #: After_the_Storm/units/elves-quenoth/Druid.cfg:5
+#, fuzzy
 msgid "female^Quenoth Druid"
-msgstr ""
+msgstr "Déteriorée"
 
 #. [unit_type]: id=Quenoth Druid, race=elf
 #: After_the_Storm/units/elves-quenoth/Druid.cfg:22
@@ -6063,8 +6932,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Fighter, race=elf
 #: After_the_Storm/units/elves-quenoth/Fighter.cfg:5
+#, fuzzy
 msgid "Quenoth Fighter"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Fighter, race=elf
 #: After_the_Storm/units/elves-quenoth/Fighter.cfg:18
@@ -6076,8 +6946,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Hero, race=elf
 #: After_the_Storm/units/elves-quenoth/Hero.cfg:5
+#, fuzzy
 msgid "Quenoth Hero"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Hero, race=elf
 #: After_the_Storm/units/elves-quenoth/Hero.cfg:18
@@ -6090,8 +6961,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
 #: After_the_Storm/units/elves-quenoth/Horseman.cfg:5
+#, fuzzy
 msgid "Quenoth Horseman"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
 #: After_the_Storm/units/elves-quenoth/Horseman.cfg:32
@@ -6103,8 +6975,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
 #: After_the_Storm/units/elves-quenoth/Marksman.cfg:5
+#, fuzzy
 msgid "Quenoth Marksman"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
 #: After_the_Storm/units/elves-quenoth/Marksman.cfg:18
@@ -6130,8 +7003,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Marshal, race=elf
 #: After_the_Storm/units/elves-quenoth/Marshal.cfg:5
+#, fuzzy
 msgid "Quenoth Marshal"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Marshal, race=elf
 #: After_the_Storm/units/elves-quenoth/Marshal.cfg:29
@@ -6144,8 +7018,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Outrider, race=elf
 #: After_the_Storm/units/elves-quenoth/Outrider.cfg:5
+#, fuzzy
 msgid "Quenoth Outrider"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Outrider, race=elf
 #: After_the_Storm/units/elves-quenoth/Outrider.cfg:29
@@ -6158,8 +7033,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Ranger, race=elf
 #: After_the_Storm/units/elves-quenoth/Ranger.cfg:5
+#, fuzzy
 msgid "Quenoth Ranger"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Ranger, race=elf
 #: After_the_Storm/units/elves-quenoth/Ranger.cfg:29
@@ -6177,8 +7053,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Rider, race=elf
 #: After_the_Storm/units/elves-quenoth/Rider.cfg:5
+#, fuzzy
 msgid "Quenoth Rider"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Rider, race=elf
 #: After_the_Storm/units/elves-quenoth/Rider.cfg:28
@@ -6189,8 +7066,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Scout, race=elf
 #: After_the_Storm/units/elves-quenoth/Scout.cfg:5
+#, fuzzy
 msgid "Quenoth Scout"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Scout, race=elf
 #: After_the_Storm/units/elves-quenoth/Scout.cfg:27
@@ -6219,8 +7097,9 @@ msgstr ""
 
 #. [unit_type]: id=Quenoth Sharpshooter, race=elf
 #: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:5
+#, fuzzy
 msgid "Quenoth Sharpshooter"
-msgstr ""
+msgstr "Île de Quenoth"
 
 #. [unit_type]: id=Quenoth Sharpshooter, race=elf
 #: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:19
@@ -6286,11 +7165,13 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Civilian, race=elf
 #: After_the_Storm/units/elves-wood/Civilian.cfg:5
+#, fuzzy
 msgid "Elvish Civilian"
-msgstr ""
+msgstr "Civil Elfe"
 
 #. [unit_type]: id=Elvish Civilian, race=elf
 #: After_the_Storm/units/elves-wood/Civilian.cfg:20
+#, fuzzy
 msgid ""
 "Since elves are not warlike by nature, most of their population is composed "
 "by civilians, who learn, at very early age, basic usage of swords and bows, "
@@ -6298,38 +7179,54 @@ msgid ""
 "forming a fairly skilled militia. However, if you are hurling civilians at "
 "your foes, you're clearly out of superior forces."
 msgstr ""
+"Les elfes n'étant pas portés à la guerre par nature, la plus grande partie "
+"de leur population est composée de civils, qui apprennent, dès leur plus "
+"jeune âge, le maniement de l'arc et de l'épée, afin de pouvoir se défendre, "
+"eux-mêmes et leurs maisons, en cas de besoin, formant ainsi une milice assez "
+"adroite. Cependant, si vous envoyez des civils contre vos ennemis, c'est "
+"clairement que vous manquez de forces plus puissantes."
 
 #. [female]
 #: After_the_Storm/units/elves-wood/Civilian.cfg:138
+#, fuzzy
 msgid "female^Elvish Civilian"
-msgstr ""
+msgstr "female^Civile Elfe"
 
 #. [unit_type]: id=Elvish Hunter, race=elf
 #: After_the_Storm/units/elves-wood/Hunter.cfg:5
+#, fuzzy
 msgid "Elvish Hunter"
-msgstr ""
+msgstr "Chasseur Elfe"
 
 #. [unit_type]: id=Elvish Hunter, race=elf
 #: After_the_Storm/units/elves-wood/Hunter.cfg:31
+#, fuzzy
 msgid ""
 "The elvish militia is mainly composed of civilians who have dropped their "
 "bows in favour of entangling unwary oponents using their bolas, and then "
 "finish them off with their swords. They are trained to scour the woods, "
 "hills and mountains for prey and enemies."
 msgstr ""
+"La milice elfique est composée de civils qui ont abandonné leurs arcs en "
+"faveur du bola, pour entraver plus facilement leurs adversaires et les "
+"achever à l'épée. Ils sont entrainés à parcourir les bois, collines et "
+"montagnes, pour chercher leurs proies, ou leurs ennemis..."
 
 #. [female]
 #: After_the_Storm/units/elves-wood/Hunter.cfg:150
+#, fuzzy
 msgid "female^Elvish Hunter"
-msgstr ""
+msgstr "female^Chasseresse Elfe"
 
 #. [unit_type]: id=Elvish Prowler, race=elf
 #: After_the_Storm/units/elves-wood/Prowler.cfg:5
+#, fuzzy
 msgid "Elvish Prowler"
-msgstr ""
+msgstr "Maraudeur Elfe"
 
 #. [unit_type]: id=Elvish Prowler, race=elf
 #: After_the_Storm/units/elves-wood/Prowler.cfg:37
+#, fuzzy
 msgid ""
 "The best hunters learn to take advantage of their surroundings to attack "
 "unwary enemies by surprise. Camouflage is the most frightening ability of "
@@ -6340,35 +7237,54 @@ msgid ""
 "This is one of the various reasons that the wood elves are respected and "
 "feared by most races."
 msgstr ""
+"Les meilleurs chasseurs apprennent à tirer avantage de leur environnement "
+"pour prendre leurs ennemis par surprise. Le camouflage est une des capacités "
+"les plus effrayantes de ces maîtres des stratégies d'évitement, car un "
+"ennemi inconscient peut être abattu sans peine. Ont dit que des armées "
+"entières ont été décimées par les Maraudeurs, en quelques minutes, voire "
+"secondes.\n"
+"\n"
+"C'est une des nombreuses raisons pour lesquelles les elfes des bois sont "
+"respectés et craints par la plupart des races."
 
 #. [female]
 #: After_the_Storm/units/elves-wood/Prowler.cfg:128
+#, fuzzy
 msgid "female^Elvish Prowler"
-msgstr ""
+msgstr "female^Maraudeuse Elfe"
 
 #. [unit_type]: id=Elvish Trapper, race=elf
 #: After_the_Storm/units/elves-wood/Trapper.cfg:5
+#, fuzzy
 msgid "Elvish Trapper"
-msgstr ""
+msgstr "Trappeur Elfe"
 
 #. [unit_type]: id=Elvish Trapper, race=elf
 #: After_the_Storm/units/elves-wood/Trapper.cfg:33
+#, fuzzy
 msgid ""
 "Elvish Trappers have increased their expertise on patrolling and defending "
 "their bases, having learned the value of confusing their enemies and "
 "backstabbing them. These skirmishers have become more skilled with the short "
 "sword, having less need of using their bolas to beat their oponents."
 msgstr ""
+"Les Trappeurs elfes ont travailler à accroître leur expertise sur les "
+"patrouilles et la défense de leur base, ayant appris combien il est efficace "
+"de semer la confusion chez leurs ennemis et de les atteindre par derrière. "
+"Ces tirailleurs sont devenus plus agiles avec leurs épées, ayant donc moins "
+"besoin de leurs bolas pour vaincre leurs adversaires."
 
 #. [female]
 #: After_the_Storm/units/elves-wood/Trapper.cfg:124
+#, fuzzy
 msgid "female^Elvish Trapper"
-msgstr ""
+msgstr "female^Trappeuse Elfe"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
+#, fuzzy
 msgid "Elvish Wayfarer"
-msgstr ""
+msgstr "Voyageur Elfe"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:34
@@ -6381,21 +7297,25 @@ msgstr ""
 
 #. [race]: id=fairy
 #: After_the_Storm/units/fairies.cfg:5
+#, fuzzy
 msgid "race^Faerie"
-msgstr ""
+msgstr "race^Fées"
 
 #. [race]: id=fairy
 #: After_the_Storm/units/fairies.cfg:6
+#, fuzzy
 msgid "race+male^Faerie"
-msgstr ""
+msgstr "race+male^Fée"
 
 #. [race]: id=fairy
 #: After_the_Storm/units/fairies.cfg:7
+#, fuzzy
 msgid "race^Faeries"
-msgstr ""
+msgstr "race^Fées"
 
 #. [race]: id=fairy
 #: After_the_Storm/units/fairies.cfg:8
+#, fuzzy
 msgid ""
 "Great, dark forests and caves are excellent places for mysterious creatures "
 "to live and hide in. Rarely seen, the mischievous fairies are some of the "
@@ -6405,14 +7325,23 @@ msgid ""
 "are characteristics that any creature foreign to their forests should fear "
 "and respect."
 msgstr ""
+"Les grandes forêts noires et les grottes sont d'excellents habitats pour des "
+"créatures mystérieuses. Rarement aperçus, les fées espiègles sont parmi les "
+"êtres les plus beaux de ces endroits. Leur attitude protective à l'égard de "
+"la nature font d'elles les amies des elfes qui partagent souvent leur "
+"territoire, mais leur personnalité fantasque et leur contrôle sur l'élément "
+"du feu sont des atouts que toute créature étrangère à leurs forêts devrait "
+"craindre et respecter."
 
 #. [unit_type]: id=Faerie Dryad, race=fairy
 #: After_the_Storm/units/fairies/Dryad.cfg:5
+#, fuzzy
 msgid "Dryad"
-msgstr ""
+msgstr "Dryade"
 
 #. [unit_type]: id=Faerie Dryad, race=fairy
 #: After_the_Storm/units/fairies/Dryad.cfg:35
+#, fuzzy
 msgid ""
 "The beautiful nymphs that secretly live in forests have been named Dryads, "
 "because of their afinity with vegetation. These faerie beings are beautiful "
@@ -6420,14 +7349,21 @@ msgid ""
 "they see themselves being consumed with their mystic fire. This is yet "
 "another reason to avoid entering elvish territory without permission."
 msgstr ""
+"Les nymphes merveilleuses habitant en secret dans la forêt ont été nommées "
+"Dryades, à cause de leur affinité avec la végétation. Ces êtres féeriques "
+"sont assez beaux pour tromper leurs ennemis, qui les prennent pour des dames "
+"innocentes, jusqu'à ce qu'ils se voient avalé par leur feu mystique. Cela "
+"constitue une raison de plus pour éviter d'entrer sur le territoire elfique "
+"sans permission."
 
 #. [attack]: type=fire
 #: After_the_Storm/units/fairies/Fire.cfg:31
 #: After_the_Storm/units/fairies/Spirit.cfg:44
 #: After_the_Storm/units/fairies/Dryad.cfg:41
 #: After_the_Storm/units/fairies/Sprite.cfg:30
+#, fuzzy
 msgid "fire aura"
-msgstr ""
+msgstr "Aura de feu"
 
 #. [attack]: type=fire
 #: After_the_Storm/units/fairies/Sylvan_Warden.cfg:64
@@ -6435,16 +7371,19 @@ msgstr ""
 #: After_the_Storm/units/fairies/Spirit.cfg:56
 #: After_the_Storm/units/fairies/Dryad.cfg:50
 #: After_the_Storm/units/fairies/Sprite.cfg:39
+#, fuzzy
 msgid "mystic fire"
-msgstr ""
+msgstr "Feu mystique"
 
 #. [unit_type]: id=Fire Faerie, race=fairy
 #: After_the_Storm/units/fairies/Fire.cfg:5
+#, fuzzy
 msgid "Fire Faerie"
-msgstr ""
+msgstr "Fée du Feu"
 
 #. [unit_type]: id=Fire Faerie, race=fairy
 #: After_the_Storm/units/fairies/Fire.cfg:25
+#, fuzzy
 msgid ""
 "Faeries are rarely seen in a battlefield, as they are usually pacific "
 "creatures when not disturbed. And they are rarely disturbed, as most races "
@@ -6460,14 +7399,20 @@ msgid ""
 "hands. It is said that their very bodies start to burn, eventually leading "
 "them to become non-corporeal spirits of nature, made of pure fire."
 msgstr ""
+"L'on trouve rarement des fées sur les champs de bataille, étant "
+"habituellement des créatures pacifiques - du moins tant que l'on ne les "
+"dérange pas. Et elles ne sont pas souvent dérangées, la plupart des races "
+"sachant à quelles conséquences s'exposent ceux qui les défient."
 
 #. [unit_type]: id=Faerie Spirit, race=fairy
 #: After_the_Storm/units/fairies/Spirit.cfg:5
+#, fuzzy
 msgid "Forest Spirit"
-msgstr ""
+msgstr "Esprit Sylvain"
 
 #. [unit_type]: id=Faerie Spirit, race=fairy
 #: After_the_Storm/units/fairies/Spirit.cfg:38
+#, fuzzy
 msgid ""
 "Faeries may eventually become one with the fire element, turning into "
 "spirits of flame and might, which they will use to relentlessly protect the "
@@ -6475,14 +7420,22 @@ msgid ""
 "seeing one of these spirits is more rare than stumbling upon a Wose, even "
 "for elves."
 msgstr ""
+"Les Fées, à la fin de leur longue vie, finissent par ne faire plus qu'unes "
+"avec l'élément du feu, devenant alors des esprits de flammes et de "
+"puissance. C'est de ce feu et de cette puissance dont elles se servent pour "
+"protéger les forêts qu'elles habitent et les peuples auxquels elles ont "
+"prêté allégence. Voir un de ces esprits demeure cependant plus rare que de "
+"rencontrer un Wose, même pour les elfes."
 
 #. [unit_type]: id=Faerie Sprite, race=fairy
 #: After_the_Storm/units/fairies/Sprite.cfg:5
+#, fuzzy
 msgid "Sprite"
-msgstr ""
+msgstr "Farfadet"
 
 #. [unit_type]: id=Faerie Sprite, race=fairy
 #: After_the_Storm/units/fairies/Sprite.cfg:24
+#, fuzzy
 msgid ""
 "Mischievous in nature, these fiery fairies are pranksters at heart, with a "
 "sense of humor that is often called nymph-like. While their command of the "
@@ -6490,28 +7443,43 @@ msgid ""
 "cousins to the imp. However, their protective attitude of nature and "
 "whimsical personality make them fast friends to the elves."
 msgstr ""
+"Taquines par nature, ces fées sont des farceuses par nature, dotées d'un "
+"sens de l'humour souvent rapproché de celui des nymphes. Si leur maîtrise de "
+"l'élément du feu demeure un mystère, une rumeur court selon laquelle ces "
+"fées sous les cousines des lutins. Cependant, leur attidude protectrice "
+"envers la nature et leur personnalité fantasque font d'elles des amies des "
+"elfes."
 
 #. [unit_type]: id=Sylvan Warden, race=fairy
 #: After_the_Storm/units/fairies/Sylvan_Warden.cfg:5
+#, fuzzy
 msgid "female^Sylvan Warden"
-msgstr ""
+msgstr "Gardienne Sylvaine"
 
 #. [unit_type]: id=Sylvan Warden, race=fairy
 #: After_the_Storm/units/fairies/Sylvan_Warden.cfg:23
+#, fuzzy
 msgid ""
 "Although she is probably best known for the power of the Union which she "
 "formerly wielded, her mastery of faerie magic is great enough to compensate "
 "the loss. She is a guardian of the forests, and will do anything to stop "
 "those who dare disturb peace on them."
 msgstr ""
+"Bien qu'elle soit probablement plus connue pour son pouvoir d'Union qu'elle "
+"maniait auparavant, sa maîtrise de la magie féerique est suffisamment grande "
+"pour compenser cette perte. Elle est la gardienne des forêts, et fera tout "
+"ce qui est en son pouvoir pour arrêter ceux qui osent déranger la paix "
+"qu'elle maintient."
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: After_the_Storm/units/humans/Chaos_Bowman.cfg:5
+#, fuzzy
 msgid "Chaos Bowman"
-msgstr ""
+msgstr "Archer du Chaos"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: After_the_Storm/units/humans/Chaos_Bowman.cfg:25
+#, fuzzy
 msgid ""
 "The backbones of most armies are soldiers capable of using ranged weapons of "
 "sorts. The bow is the cheapest, yet effective, weapon that a military can "
@@ -6525,19 +7493,34 @@ msgid ""
 "suns, over the sands; their lack of protection against the freezing cold of "
 "night is also an advantage for Chaos Bowmen."
 msgstr ""
+"La colonne vertébrale de la plupart des armées sont des soldats capables de "
+"manier des armes à distance. L'arc est de toutes la moins cher, et reste "
+"cependant efficace ; la plupart des commandants peuvent en équiper leurs "
+"armées dès le début des campagnes. Les archers ont d'ordinaires une épée "
+"courte pour se défendre si nécessaire, mais ils ont l'ordre de ne pas "
+"engager l'ennemi au corps à corps.\n"
+"\n"
+"Les archers au services du Chaos sont entraînés pour se mouvoir et attaquer "
+"au faveurs de l'obscurité nocturne. Cela déroute la plupart des adversaires, "
+"puisqu'ils sont eux-mêmes souvent habitués à combattre sous la lumières des "
+"deux soleils. Leur manque de protection contre le froid glacial de la nuit "
+"est également un avantage pour les archers du Chaos."
 
 #. [attack]: type=blade
 #: After_the_Storm/units/humans/Chaos_Bowman.cfg:29
+#, fuzzy
 msgid "short sword"
-msgstr ""
+msgstr "épée courte"
 
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: After_the_Storm/units/humans/Chaos_Cataphract.cfg:5
+#, fuzzy
 msgid "Cataphract"
-msgstr ""
+msgstr "Cataphracte"
 
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: After_the_Storm/units/humans/Chaos_Cataphract.cfg:20
+#, fuzzy
 msgid ""
 "At the zenith of their career, mounted soldiers of Chaos go through unknown "
 "rituals and are ascended to the top of the hierarchy. They seem to have "
@@ -6545,20 +7528,28 @@ msgid ""
 "just respectable soldiers on their own, a few groups of Cataphracts at night "
 "are certainly enough to take over a large town."
 msgstr ""
+"Au zénith de leur carrière, les soldats montés du Chaos traversent des "
+"rituels inconnus pour se hisser tout en haut de la hiérarchie militaire. Ils "
+"semblent être devenus, comme leurs montures, des machines à tuer assoifées "
+"de sang. Même s'ils ne sont qu'une poignée, quelques groupes de Cataphractes "
+"sont bien assez pour capturer une grande ville, à la faveur de la nuit."
 
 #. [attack]: type=pierce
 #: After_the_Storm/units/humans/Chaos_Cavalier.cfg:43
 #: After_the_Storm/units/humans/Chaos_Cataphract.cfg:42
+#, fuzzy
 msgid "crossbow"
-msgstr ""
+msgstr "arbalète"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: After_the_Storm/units/humans/Chaos_Cavalier.cfg:5
+#, fuzzy
 msgid "Chaos Cavalier"
-msgstr ""
+msgstr "Cavalier du Chaos"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: After_the_Storm/units/humans/Chaos_Cavalier.cfg:21
+#, fuzzy
 msgid ""
 "With time, Chaos Raiders are ascended to higher ranks of the military, given "
 "better weapons, armor and mount. The mount plays an essential role in the "
@@ -6572,14 +7563,28 @@ msgid ""
 "that they are simply possessed by some demonic force, as are many other "
 "creatures under the control of these men."
 msgstr ""
+"Avec le temps, les Pilleurs du Chaos montent en rang au sein de l'armée, en "
+"acquérant du même coups de meilleures armes, armures, et montures. Celles-ci "
+"jouent un rôle primordial dans l'efficacité de ces unités. Les chevaux sont, "
+"par nature, susceptibles d'être pris de frayeur sur le champ de bataille. "
+"Quand cela arrive, leur cavalier est habituellement blessé ou tué par une "
+"ruée de l'animal.\n"
+"\n"
+"Les montures des Cavaliers du Chaos n'agissent jamais de cette manière au "
+"coeur de la bataille. Leur comportement suggère un entraînement qu'elles "
+"auraient subi pour faire face aux horreurs qu'elles voient. Elles pourraient "
+"aussi être simplement possédées par une force démoniaque, comme tant "
+"d'autres créatures sous le contrôles de ces hommes."
 
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: After_the_Storm/units/humans/Chaos_Crossbowman.cfg:5
+#, fuzzy
 msgid "Crossbowman"
-msgstr ""
+msgstr "Arbalétrier"
 
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: After_the_Storm/units/humans/Chaos_Crossbowman.cfg:27
+#, fuzzy
 msgid ""
 "Unlike their comrades, the Chaos Longbowmen, who only seek greater power "
 "with their bows, these archers decide to seek power in a more balanced "
@@ -6590,11 +7595,20 @@ msgid ""
 "ranged combat, and are especially dangerous at night, due to the fact that "
 "they were trained to fight in the freezing night."
 msgstr ""
+"Contrairement à leurs camarades les Grands Archers du Chaos, qui ne "
+"cherchent quant à eux que plus de puissance dans leurs arcs, ces archers "
+"cherchent une puissance plus équilibrée. Ils sont donc adeptes de leurs "
+"haches tout autant que de leurs arbalètes.\n"
+"\n"
+"L'entraînement qu'ils suivent les rendent capable de combattre aussi bien au "
+"corps à corps qu'à distance, et ils sont particulièrement dangereux dans "
+"l'obscurité, ayant été habitués à combattre dans le froid de la nuit."
 
 #. [unit_type]: id=Chaos Advanced Crossbowman, race=human
 #: After_the_Storm/units/humans/Chaos_Crossbowman_Advanced.cfg:5
+#, fuzzy
 msgid "Advanced Crossbowman"
-msgstr ""
+msgstr "Arbalétrier Chevronné"
 
 #. [unit_type]: id=Giant Mushroom, race=monster
 #. [unit_type]: id=Chaos Advanced Crossbowman, race=human
@@ -6604,30 +7618,39 @@ msgstr ""
 #: After_the_Storm/units/humans/Chaos_Crossbowman_Advanced.cfg:27
 #: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:25
 #: After_the_Storm/units/humans/Chaos_Longbowman.cfg:24
+#, fuzzy
 msgid "FIXME"
-msgstr ""
+msgstr "FIXME"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: After_the_Storm/units/humans/Chaos_Dark_Knight.cfg:5
+#, fuzzy
 msgid "Knight of Chaos"
-msgstr ""
+msgstr "Chevalier du Chaos"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: After_the_Storm/units/humans/Chaos_Dark_Knight.cfg:25
+#, fuzzy
 msgid ""
 "Tougher than the average Chaos follower, the Dark Knight attempts to confuse "
 "it's opponent by wielding a different weapon in each hand. He lets his style "
 "on combat alter depending on the situation, which makes him a tough warrior "
 "to fight."
 msgstr ""
+"Plus résistant que le suivant du Chaos \"moyen\", le Chevalier Sombre tente "
+"d'embrouiller ses adversaires en maniant une arme différente dans chaque "
+"main. Son style de combat dépend de chaque situation, ce qui fait de lui un "
+"guerrier difficile à affronter."
 
 #. [unit_type]: id=Doom Guard, race=human
 #: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:5
+#, fuzzy
 msgid "Doom Guard"
-msgstr ""
+msgstr "Garde Maudit"
 
 #. [unit_type]: id=Doom Guard, race=human
 #: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:21
+#, fuzzy
 msgid ""
 "Demons know well that the only thing which can stop a tidal wave is a "
 "powerful wall. Doom Guards are such wall, wall of living flesh and steel. "
@@ -6635,20 +7658,29 @@ msgid ""
 "Guards are not the ones to fight, they are the ones to stand against every "
 "possible enemy, until they are wounded enough to die instantly."
 msgstr ""
+"Les démons savent bien que seul un mur puissant peut arrêter un tsunami. Les "
+"Gardes Maudits forment un tel mur, mur fait de chair et d'acier. Vidés de "
+"toute soif de sang, leur agressivité est changée en loyauté fanatique. Les "
+"Gardes Maudits ne sont pas ceux qui combattent, ils sont ceux qui font face "
+"à tout ennemi possible, jusqu'à ce qu'ils soient blessés si gravement qu'ils "
+"en meurent immédiatement."
 
 #. [attack]: type=impact
 #: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:35
 #: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:36
+#, fuzzy
 msgid "shield"
-msgstr ""
+msgstr "bouclier"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: After_the_Storm/units/humans/Chaos_Headhunter.cfg:5
+#, fuzzy
 msgid "Headhunter"
-msgstr ""
+msgstr "Chasseur de tête"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: After_the_Storm/units/humans/Chaos_Headhunter.cfg:27
+#, fuzzy
 msgid ""
 "The Chaos Hordes rely heavily in their lores' charisma to attrack more "
 "practicioners and recruit new adepts. Some of those adepts do not have the "
@@ -6661,28 +7693,48 @@ msgid ""
 "being rather weak and vulnerable, kill their oponents even if that would "
 "mean their own death."
 msgstr ""
+"Les Hordes du Chaos se reposent fortement sur le charisme de leurs sorciers "
+"pour attirer et recruter plus d'adeptes. Certains de ces adeptes sont trop "
+"peu doués dans les arts magiques pour rejoindre l'ordre des Invocateurs. Ils "
+"sont donc envoyés comme messagers de malédiction, et reçoivent un bâton et "
+"quelques javelots pour remplir leur office. Leur âme leur est enlevée, par "
+"des arts les plus sombres, connus seulement des maîtres démoniques. Ils ont "
+"pour ordre de répandre la peur et le désespoir parmi leurs victimes, "
+"réduisant ainsi leurs défenses, en attendant que les démons soient relâchés "
+"et finissent le travail. Leur fanatisme les pousse même à négliger toute "
+"forme de défense, et, étant tout de même vulnérables, à tuer leurs "
+"adversaires, même si cela nécessite leur propre mort."
 
 #. [unit_type]: id=Hell Guardian, race=human
 #: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:5
+#, fuzzy
 msgid "Hell Guardian"
-msgstr ""
+msgstr "Gardien de l'Enfer"
 
 #. [unit_type]: id=Hell Guardian, race=human
 #: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:22
+#, fuzzy
 msgid ""
 "Only the toughest of armorers are worthy of the most effective armors and "
 "weapons, forged by the best demonic blacksmiths, and blessed by unlawful "
 "magic. It is said that they could stand against an avalanche with ease, if "
 "they were commanded to do so."
 msgstr ""
+"Seuls les guerriers les plus résistants sont dignes de porter les armes et "
+"les armures les plus efficaces. Celles-ci, forgées par les meilleurs "
+"forgerons démoniaques, sont impregnées de magie impie. On dit que ces "
+"guerriers redoutables pourraient aisément résister face à des avalanches, si "
+"on leur commandait de le faire."
 
 #. [unit_type]: id=Chaos Invader, race=human
 #: After_the_Storm/units/humans/Chaos_Invader.cfg:5
+#, fuzzy
 msgid "Chaos Invader"
-msgstr ""
+msgstr "Envahisseur du Chaos"
 
 #. [unit_type]: id=Chaos Invader, race=human
 #: After_the_Storm/units/humans/Chaos_Invader.cfg:28
+#, fuzzy
 msgid ""
 "Chaos warriors share the common belief that any government and any god is "
 "corrupt by default, even before being recruited. This is exactly what their "
@@ -6690,14 +7742,23 @@ msgid ""
 "this thought they fulfill the bidding of the lords of Chaos, who do not "
 "sugar coat their reign and let their men face the harsh truth."
 msgstr ""
+"Les guerries du Chaos partagent la croyance que tout gouvernement et tout "
+"dieu est corrompu jusqu'à preuve du contraire, même avant d'être recrutés. "
+"C'est d'ailleurs exactement ce que leurs maîtres recherchent, afin de "
+"pouvoir facilement les convaincre de rejoindre leur cause. En restant dans "
+"cette pensée, ils obéissent aux Seigneurs du Chaos, qui ne camouflent pas "
+"leur reigne sous de belles apparences, mais laissent leurs hommes face à la "
+"dure réalité."
 
 #. [unit_type]: id=Chaos Invoker, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker.cfg:5
+#, fuzzy
 msgid "Chaos Invoker"
-msgstr ""
+msgstr "Invocateur du Chaos"
 
 #. [unit_type]: id=Chaos Invoker, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker.cfg:26
+#, fuzzy
 msgid ""
 "These dark cultists whose mastery of chaos magic is impressive, are called "
 "'Chaos Invokers' by their oponents. Often spotted amongst the first line of "
@@ -6706,6 +7767,12 @@ msgid ""
 "to advance in their ranks and become more powerful, willing to rid "
 "themselves of their mortal souls in the process."
 msgstr ""
+"Ces fidèles des Ténèbres, dont la maîtrise de la magie du Chaos est "
+"impressionnante, sont appelés 'Invocateurs du Chaos' par leurs adversaires. "
+"Souvent situés en première ligne des formations d'attaque, et protégés par "
+"de petits groupes de guerriers, ces adeptes dirigent l'avant-garde des "
+"hordes du chaos, cherchant la meilleure opportunité pour devenir plus "
+"puissants, prêts à se défaire de leurs âmes mortelles pour monter en grade."
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:54
@@ -6713,30 +7780,40 @@ msgstr ""
 #: After_the_Storm/units/humans/Chaos_Invoker.cfg:47
 #: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:47
 #: After_the_Storm/units/humans/Chaos_Invoker_Lorekeeper.cfg:60
+#, fuzzy
 msgid "ethereal blast"
-msgstr ""
+msgstr "rafale éthérée"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker_Lorekeeper.cfg:5
+#, fuzzy
 msgid "Chaos Lorekeeper"
-msgstr ""
+msgstr "Incarnation du Chaos"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker_Lorekeeper.cfg:27
+#, fuzzy
 msgid ""
 "The mastery of demons lies in the changing into demon oneself. Chaos "
 "Lorekeepers are demonic minds entrapped in human body. What is left of human "
 "in these creatures are only bodies and memories of invokers and magi, who "
 "finally achieved the true power of their lords."
 msgstr ""
+"L'art de maîtriser les démons atteint son apogée quand l'adepte se "
+"transforme lui-même en démon. Les Légendes du Chaos sont des esprits "
+"démoniaques enfermés dans un corps humain. Ce qui reste alors d'humanité dan "
+"ces créatures ne sont que les corps et les souvenirs de ces Invocateurs et "
+"Magis, qui ont enfin atteint le vrai pouvoir de leurs seigneurs."
 
 #. [unit_type]: id=Chaos Magus, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:5
+#, fuzzy
 msgid "Chaos Magus"
-msgstr ""
+msgstr "Mage du Chaos"
 
 #. [unit_type]: id=Chaos Magus, race=human
 #: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:26
+#, fuzzy
 msgid ""
 "It is they, who rally with the larger groups of chaos warriors, supporting "
 "them with magic. As demonic essence touches chaotic mages, they gain the "
@@ -6747,24 +7824,37 @@ msgid ""
 "effects on them, as they turn into demons; their resistance to arcane "
 "attacks is gradually reduced, to equal that of the true demons."
 msgstr ""
+"Ce sont eux qui, intégrant de grands groupes de guerriers du Chaos, les "
+"soutiennent au moyen de leur magie. Lorsque l'essence démoniaques touche ces "
+"mages chaotiques, ceux-ci acquièrent une finesse d'esprit et une vision plus "
+"semblable à celle des démons qu'à celle des humains. Enfermé dans cette "
+"état, entre homme et démon, ils ne désirent pas revenir en arrière, mais "
+"aspirent à se défaire de leurs attaches mortelles, même de leurs âmes "
+"vulnérables. Cependant, ce processus a des effets secondaires importants sur "
+"eux, puisqu'ils se transforment en démons; leur résistance aux attaques "
+"d'arcanes est réduite graduellement, jusqu'à égaler celle des vrais démons."
 
 #. [unit_type]: id=Chaos Longbowman, race=human
 #: After_the_Storm/units/humans/Chaos_Longbowman.cfg:5
+#, fuzzy
 msgid "Chaos Longbowman"
-msgstr ""
+msgstr "Grand Archer du Chaos"
 
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human
 #: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:5
+#, fuzzy
 msgid "Heavy Longbowman"
-msgstr ""
+msgstr "Grand Archer Lourd"
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: After_the_Storm/units/humans/Chaos_Marauder.cfg:5
+#, fuzzy
 msgid "Marauder"
-msgstr ""
+msgstr "Maraudeur"
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: After_the_Storm/units/humans/Chaos_Marauder.cfg:26
+#, fuzzy
 msgid ""
 "It is said that experience makes real warriors. Unfortunately, that is true "
 "even for the Chaos vanguard forces and their messengers, which usually are "
@@ -6777,27 +7867,46 @@ msgid ""
 "the oponents of Chaos, which is why they are titled the 'Marauders' by "
 "survivors to their deadly assaults."
 msgstr ""
+"On dit que l'expérience est la mesure des vrai guerriers. Malheureusement, "
+"c'est également vrai pour les forces de l'avant-garde du Chaos, et pour ses "
+"messagers, qui sont rarement des guerriers à l'origine.  Ceux-ci ne manient "
+"même pas de vraies armes - à l'exception d'un gourdin et de quelques "
+"javelots - à ce moment de leur entraînement ; beaucoup d'entre eux meurent "
+"ou deviennent morts-vivants ou démons. Mais les rares survivants deviennent "
+"suffisamment habiles au combat pour manier une hache. Ils sont encore loin "
+"de maîtriser complètement l'utilisation de telles armes, mais sont malgré "
+"tout bien à même d'apporter la mort et la destruction aux adversaires du "
+"Chaos. C'est d'ailleurs pourquoi ils sont appelés \"Maraudeurs\" par ceux "
+"qui réchappent à leurs assauts meurtriers."
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: After_the_Storm/units/humans/Chaos_Raider.cfg:5
+#, fuzzy
 msgid "Chaos Raider"
-msgstr ""
+msgstr "Pillard du Chaos"
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: After_the_Storm/units/humans/Chaos_Raider.cfg:20
+#, fuzzy
 msgid ""
 "These are the most basic mounted soldiers of Chaos. Albeit they do not have "
 "great experience, their versatility is of importance; they can serve as "
 "scouts, messengers, or even deathly warriors at the vanguard of large hordes."
 msgstr ""
+"Ce sont les soldats montés du Chaos les plus courants. Bien qu'ils n'aient "
+"pas une grande expérience des combats, leur polyvalence est importante ; ils "
+"peuvent être utilisés comme des éclaireurs, des messagers, ou même comme des "
+"guerriers à l'avant-guarde de grandes hordes."
 
 #. [unit_type]: id=Chaos Razerman, race=human
 #: After_the_Storm/units/humans/Chaos_Razerman.cfg:5
+#, fuzzy
 msgid "Chaos Razerman"
-msgstr ""
+msgstr "Raseur du Chaos"
 
 #. [unit_type]: id=Chaos Razerman, race=human
 #: After_the_Storm/units/humans/Chaos_Razerman.cfg:30
+#, fuzzy
 msgid ""
 "Knights of the orders of Chaos seem to take great delight into tearing apart "
 "their victims, a demon-like delight. This suggests that they no longer have "
@@ -6805,14 +7914,21 @@ msgid ""
 "delight and blood lust is the symbol of the philosophy of Chaos, their "
 "representative feature."
 msgstr ""
+"Les Chevaliers des ordres du Chaos semblent prendre un grand plaisir à "
+"découper leurs victimes - un plaisir proche de celui des démons. Cela laisse "
+"à penser qu'ils n'ont plus d'âme, ou bien qu'ils ont déjà été transformés en "
+"démons. Ce plaisir et cette soif de sang sont, de toute manière, des "
+"symboles de la philosophie du Chaos, et même leur principale caractéristique."
 
 #. [unit_type]: id=Chaos Soulhunter, race=human
 #: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:5
+#, fuzzy
 msgid "Soulhunter"
-msgstr ""
+msgstr "Chasseur d'âme"
 
 #. [unit_type]: id=Chaos Soulhunter, race=human
 #: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:29
+#, fuzzy
 msgid ""
 "The most dreadful part of the training of the messengers of doom is being "
 "rid of their souls by their masters. However, the resultant warrior is a mix "
@@ -6827,16 +7943,32 @@ msgid ""
 "its place in that empty shell called 'body'. Rumor that gave them the title "
 "of 'Soulhunters'."
 msgstr ""
+"La partie la plus redoutable - et redoutée - de l'entraînement des messagers "
+"de la Dévastation est le rite au cours duquel les maîtres s'emparent de "
+"l'âme de leurs serviteurs. Le guerrier sortant de ce rite est cependant "
+"endurant, agile, précis et compétent sur le champ de bataille. Ces soldats "
+"n'ont pas besoin d'armure, puisqu'ils n'ont aucune peur de la mort, et ils "
+"préfèrent ne porter que quelques vêtements, et faire usage de peu d'armes. "
+"Bien qu'ils puissent facilement se faire tuer par un adversaire expérimenté "
+"et chanceux, les dommages importants qu'ils peuvent causer avant de mourir "
+"est assez important pour compenser leur perte.\n"
+"\n"
+"Ayant été privés de leurs âmes, la rumeur dit qu'ils tuent et détruisent à "
+"la recherche de leur âme perdue, ou pour trouver une âme qui la remplacent "
+"dans cette coque vide appelée 'corps'. C'est ce qui leur vaut le titre de "
+"'Mangeurs d'âme'."
 
 #. [attack]: type=blade
 #: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:42
+#, fuzzy
 msgid "battle axe"
-msgstr ""
+msgstr "hache de bataille"
 
 #. [attack]: type=pierce
 #: After_the_Storm/units/humans/Chaos_Soulhunter.cfg:51
+#, fuzzy
 msgid "javelin"
-msgstr ""
+msgstr "javelot"
 
 #. [unit_type]: id=Door, race=mechanical
 #: After_the_Storm/units/mechanical/Door.cfg:5
@@ -6899,8 +8031,9 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Hound, race=monster
 #: After_the_Storm/units/monsters/Hound_Chaos.cfg:5
+#, fuzzy
 msgid "Hound of Chaos"
-msgstr ""
+msgstr "Chevalier du Chaos"
 
 #. [unit_type]: id=Chaos Hound, race=monster
 #: After_the_Storm/units/monsters/Hound_Chaos.cfg:19
@@ -6977,21 +8110,25 @@ msgstr ""
 
 #. [race]: id=shaxthal
 #: After_the_Storm/units/shaxthal.cfg:51
+#, fuzzy
 msgid "race^Shaxthal"
-msgstr ""
+msgstr "race^Shaxthal"
 
 #. [race]: id=shaxthal
 #: After_the_Storm/units/shaxthal.cfg:52
+#, fuzzy
 msgid "race+female^Shaxthal"
-msgstr ""
+msgstr "race+female^Shaxthale"
 
 #. [race]: id=shaxthal
 #: After_the_Storm/units/shaxthal.cfg:53
+#, fuzzy
 msgid "race^Shaxthals"
-msgstr ""
+msgstr "race^Shaxthals"
 
 #. [race]: id=shaxthal
 #: After_the_Storm/units/shaxthal.cfg:64
+#, fuzzy
 msgid ""
 "Long before the arrival of humans, the ancient Argazar civilization "
 "dominated Irdya. However, they lost a war with the world of Rythé, and found "
@@ -7043,6 +8180,31 @@ msgid ""
 "the dark hives of the Heart, and adapted to the time-renewed ecology of the "
 "surface world. They then began to prey on the speaking peoples of Irdya."
 msgstr ""
+"Bien avant l'arrivée des humains, l'ancienne civilisation des Argazars "
+"dominait Irdya. Ils perdirent la guerre qu'ils menaient contre la planète "
+"Rythé, et furent alors menés au bord de l'extinction. Mais en rassemblant "
+"leurs vastes connaissances de biologie, de génétique, de technologie et même "
+"de magie, ils réussirent à créer l'arme ultime : les biomécaniques, connus "
+"dans la langue Argazare sous le nom de 'Shaxthals'. Ces légionnaires "
+"invicibles combinaient les plus redoutables attributs de toutes les "
+"créatures connues de leurs concepteurs. Ils servaient de protecteurs aux "
+"Argazars, mais ils ne purent rien faire face aux armes stratégiques "
+"Rythéniennes. Rythé dévasta le pays d'Irdya, détruisant les villes, et "
+"enterrant les oeuvres des Argazars. \n"
+"\n"
+"Un rejeton de la race des Argazars établit un refuge une base souterraine où "
+"la production des Shaxthals était concentrée. Les Rythéniens, pensant leur "
+"race éteinte, cessèrent d'attaquer la planète. Personne ne sais ce qui se "
+"passa à la surface pendant les siècles et les millénaires qui suivirent, "
+"alors que l'écologie bouleversée d'Irdya retrouvait son équilibre. Mais ce "
+"que l'on sait, en revanche, c'est que les Argazars perdirent tout contrôle "
+"sur leur création - ou plutôt, que leurs créatures cessèrent de les "
+"reconnaître comme leurs maîtres. Il demeure cependant incertain si cela fut "
+"dû à une mutation des Shaxthal ou au reste du peuple Argazar lui-même.\n"
+"\n"
+"Sans le commandement des Argazars, les instincts des Shaxthals prirent le "
+"dessus. Leur direction étaient constituées d'un étrange mélange de celle de "
+"leurs ancêtres et de la programmation d"
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: After_the_Storm/units/shaxthal/Drone.cfg:5
@@ -7199,8 +8361,9 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Hive Queen, race=shaxthal
 #: After_the_Storm/units/shaxthal/Queen.cfg:5
+#, fuzzy
 msgid "Hive Queen"
-msgstr ""
+msgstr "Reine de la Ruche"
 
 #. [unit_type]: id=Shaxthal Hive Queen, race=shaxthal
 #: After_the_Storm/units/shaxthal/Queen.cfg:19
@@ -7292,13 +8455,15 @@ msgstr ""
 
 #. [unit_type]: id=Shaxthal Warlord, race=shaxthal, description= 
 #: After_the_Storm/units/shaxthal/Warlord.cfg:5
+#, fuzzy
 msgid "Shaxthal Warlord"
-msgstr ""
+msgstr "Ruche Shaxthal"
 
 #. [unit_type]: id=Shaxthal Warlord Elyssa, race=shaxthal
 #: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:5
+#, fuzzy
 msgid "female^Shaxthal Warlord"
-msgstr ""
+msgstr "race+female^Shaxthale"
 
 #. [unit_type]: id=Shaxthal Warlord Elyssa, race=shaxthal
 #: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:37
@@ -7344,3 +8509,119 @@ msgid ""
 "environments, the Shaxthal nests, is extremely dangerous for any intruders "
 "that may stumble across with these sneaky prowlers."
 msgstr ""
+
+#, fuzzy
+#~ msgid "IRC Bots"
+#~ msgstr "Robots IRC"
+
+#, fuzzy
+#~ msgid "Hard Hat Area"
+#~ msgstr "Hard Hat Area"
+
+#, fuzzy
+#~ msgid ""
+#~ "<b>Note:</b>\n"
+#~ "\n"
+#~ "This campaign is still under construction, and you have reached the place-"
+#~ "holder last scenario. A new release may contain the finished scenario, "
+#~ "and you may usually resume play by loading from its start-of-scenario "
+#~ "(NOT turn 1!) autosave.\n"
+#~ "\n"
+#~ "All feedback and suggestions on the campaign in its current state may be "
+#~ "posted in the www.wesnoth.org forum thread <i>After the Storm</i> "
+#~ "(Scenario and Campaign dev. forum).\n"
+#~ "\n"
+#~ "-- <i>The author</i>"
+#~ msgstr ""
+#~ "<b>Notes :</b>\n"
+#~ "\n"
+#~ "Cette campagne est toujours en construction, et vous avez atteint le "
+#~ "dernier scénario pour le moment. Une prochaine version contiendra ce "
+#~ "scénario achevé, et vous pourrez normalement reprendre le jeu en "
+#~ "chargeant sa dernière autosauvegarde de \"début de scénario\" (PAS le "
+#~ "tour 1 !).\n"
+#~ "\n"
+#~ "Toute remarque ou suggestion sur cette campagne dans son état actuel peut "
+#~ "être postée sur le sujet  <i>After the Storm</i> (Scenario and Campaign "
+#~ "dev. forum) du forum de www.wesnoth.org\n"
+#~ "\n"
+#~ "-- <i>L'auteur</i>"
+
+#, fuzzy
+#~ msgid "Indoors"
+#~ msgstr "Intérieur"
+
+#, fuzzy
+#~ msgid ""
+#~ "Desolation and fear consumes our souls. Overcoming them is probably the "
+#~ "greatest challenge for us, sentient beings."
+#~ msgstr ""
+#~ "La désolation et la peur consument nos âmes. Les vaincre est probablement "
+#~ "le plus grand défi pour nous, êtres animés de sentiments."
+
+#, fuzzy
+#~ msgid "Hive formula-AI test scenario"
+#~ msgstr "Formule de Ruche - Scénario de test de l'AI"
+
+#, fuzzy
+#~ msgid "Player"
+#~ msgstr "Joueur"
+
+#, fuzzy
+#~ msgid "Turns run out"
+#~ msgstr "Fin du nombre de tours"
+
+#, fuzzy
+#~ msgid "Yeah, and I'd like to kill a few of them just for fun."
+#~ msgstr "Oui, et j'aimerais en tuer quelques-uns, en guise d'amusement."
+
+#, fuzzy
+#~ msgid ""
+#~ "Very well. We don't know exactly when or where they'll arrive from, so "
+#~ "stay alert."
+#~ msgstr ""
+#~ "Très bien. Nous ne savons pas exactement quand et où ils arriveront ; "
+#~ "restez-donc en alerte."
+
+#, fuzzy
+#~ msgid "170 gold! It seems it was a trading ship!"
+#~ msgstr "170 pièces d'or ! Ce devait être un navire marchand !"
+
+#, fuzzy
+#~ msgid "Bah, only 25 pieces of gold. Better than nothing, I guess."
+#~ msgstr ""
+#~ "Bah, seulement 25 pièces d'or. C'est toujours mieux que rien, je suppose."
+
+#, fuzzy
+#~ msgid "2 pieces of gold? Damn, this must be a joke!"
+#~ msgstr "2 pièces d'or ? Diantre, cela doit être une farce !"
+
+#, fuzzy
+#~ msgid "Well, well, 50 pieces of gold can still be put to good use."
+#~ msgstr "Bien, bien, il y a toujours de quoi utiliser 50 pièces d'or."
+
+#, fuzzy
+#~ msgid "You retrieve $shipwreck_generator[$info_e].gold pieces of gold."
+#~ msgstr "Vous trouvez $shipwreck_generator[$info_e].gold pièces d'or."
+
+#, fuzzy
+#~ msgid ""
+#~ "This scenario has not been made. There's nothing to see here. Go away."
+#~ msgstr ""
+#~ "Ce scénario n'a pas encore était fait. Il n'y a rien à voir ici. Partez."
+
+#, fuzzy
+#~ msgid "Proceed underground into the enemy hive"
+#~ msgstr "Avancez dans les souterrains dans la ruche ennemie"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can recruit or recall up to $player_castle_hexes units on the first "
+#~ "turn only."
+#~ msgstr ""
+#~ "Vous pouvez rappeler jusqu'à $player_castle_hexes unités au premier tour "
+#~ "seulement."
+
+#, fuzzy
+#~ msgid "Hive"
+#~ msgstr "Ruche"
