@@ -2,6 +2,198 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.7.2:
+--------------
+* Scenarios:
+  * E1S9.3 - The Triad, part 3:
+    * Fix problem causing Mal Keshar to be recalled in the next scenario with
+      no movements for the first turn.
+  * E1S11.1 - Return to Wesmere, part 1:
+    * Minor difficulty tweaks by vultraz.
+  * E1S11.2 - Return to Wesmere, part 2:
+    * Reduced chance of the player being unwittingly attacked by drones from
+      offscreen at the start.
+    * Minor difficulty tweaks.
+  * E1S12 - The Queen:
+    * Do not let petrified units level-up.
+    * Fixed typo ("where" -> "were").
+    * Minor difficulty tweaks.
+    * Minor cutscene sequence changes.
+  * E2S10 - The Betrayal:
+    * Minor cutscene sequence changes.
+  * E2S11 - A Final Confrontation:
+    * Minor cutscene sequence changes.
+
+* Units:
+  * Force a shroud/fog refresh whenever a door is destroyed.
+
+
+Version 0.7.1:
+--------------
+* Graphics:
+  * New or updated unit graphics: Elvish Acolyte, Elvish Ascetic, Elvish
+    Mystic, Elvish Avatar, Elvish Wayfarer, Shaxthal Stormblade.
+
+* Scenarios:
+  * E1S1 - The Skirmish:
+    * Increased overall difficulty, and reduced turn limit.
+  * E1S3 - Civil War:
+    * Fixed the unintended visible floating crown in the bottom right corner
+      of the game map.
+    * Made this scenario easier.
+  * E1S5 - Bay of Tirigaz:
+    * Made the defeat condition involving the ally leader actually work.
+    * Removed unintended forced recall.
+  * E1S7 - The Search for the Past:
+    * Added villages, minor difficulty changes.
+  * E1S8 - Fear:
+    * Increased overall difficulty, and increased turn limit.
+  * E1S9.1 - The Triad, part 1:
+    * Minor dialogue changes.
+  * E1S9.2 - The Triad, part 2:
+    * Minor Shaxthal encounter changes.
+  * E2S8 - And then there was Chaos:
+    * Applied minor prose suggestions from Muspilli.
+  * E2S11 - A Final Confrontation:
+    * Remove "turns run out" condition from the Objectives display whenever
+      appropriate
+
+* Units:
+  * Balancing:
+    * Increased Shaxthal Stormblade's resistances:
+      * Fire: -10% -> 10%
+      * Arcane: -50% -> -10%
+    * Increased Shaxthal Stormblade's movement from 5 to 6.
+    * Increased Shaxthal Stormblade's HP from 49 to 67.
+    * Added a ranged attack for the Shaxthal Stormblade.
+    * Increased Shaxthal Infiltrator's resistances:
+      * Blade: 0% -> 20%
+      * Pierce: 0% -> 30%
+      * Impact: -10% -> 0%
+      * Cold: 0% -> 10%
+  * Fixed a missing image error with one of Galas' AMLA options.
+  * Optimized or fixed unit animations: Fire Sprite unit tree, Control Spire,
+    Flow System, Matrix Core, Shaxthal Runner Drone line, Shaxthal Drone tree.
+  * Removed compatibility with pre-Wesnoth 1.9.10 AMLA XP requirements.
+
+
+Version 0.7.0:
+--------------
+* Graphics:
+  * New or updated unit graphics: Dusk Faerie, Shaxthal Worm, Shaxthal
+    Rayblade, Shaxthal Assault Drone, Shaxthal Protector Drone, Shaxthal War
+    Drone, Shaxthal Runner Drone.
+  * New or updated terrain graphics: Dark Hive Floor (transitions).
+
+* Scenarios:
+  * E1S5 - Bay of Tirigaz:
+    * Rewrote shipwreck generator code so the message strings can actually
+      be translated.
+  * E1S8 - Fear:
+    * Updated to use a Wesnoth 1.9.10 terrain.
+  * E2S1 - By the Moonlight:
+    * Updated to use a Wesnoth 1.9.10 terrain.
+  * E2S2 - The Heart Forest:
+    * Updated to use a Wesnoth 1.9.10 terrain.
+  * E2S4 - Shifting Allegiances:
+    * Fixed a local variable leak.
+  * E2S6 - The Voyage Home:
+    * Updated to use a Wesnoth 1.9.10 terrain.
+  * E2S7 - Proximus:
+    * Added a hint regarding the enemy leader's chance-to-hit override to
+      objectives.
+    * Fixed animation glitches.
+  * E2S8 - And then there was Chaos:
+    * New scenario.
+  * E2S9 - New Hive:
+    * New scenario.
+  * E2S10 - The Betrayal:
+    * New scenario.
+  * E2S11 - A Final Confrontation:
+    * New scenario.
+  * E2S12 - Fate:
+    * New cutscene scenario.
+  * Completed episode II.
+
+* Units:
+  * New unit: Shaxthal Worm (replaces the Shaxthal Wyrm).
+  * Balancing:
+    * Reduced Nightshade Fire's ranged arcane attack strength from 12-3 to 10-3.
+    * Reduced Nightshade Fire's ranged cold attack strength from 13-2 to 11-2.
+    * Reduced Night Nymph's ranged arcane attack strength from 9-3 to 8-3.
+    * Increased Errant Soul's ranged attack strength from 2-1 to 2-2.
+    * Reduced Chaos Headhunter's ranged attack strength from 6-3 to 5-3.
+    * Reduced Chaos Marauder's axe attack strength from 10-2 to 8-2.
+    * Reduced Chaos Marauder's ranged attack strength from 7-3 to 6-3.
+    * Reduced Chaos Soulhunter's axe attack strength from 13-2 to 12-2.
+    * Reduced Chaos Soulhunter's ranged attack strength from 10-3 to 9-3.
+  * Revised Shaxthal unit descriptions.
+  * Shaxthal Runner Drones can no longer advance to Assault Drones.
+  * Added a custom teleport animation for Nightshade Fire.
+  * Added unit type descriptions for Night Nymph and Nightshade Fire.
+  * Removed conflicting markup from the Sylvan Warden unit type description.
+
+
+Version 0.6.1:
+--------------
+* Increased minimum Wesnoth version requirement from 1.9.7 to 1.9.10.
+
+* Graphics:
+  * New or updated unit graphics: Sylvan Warden (chained).
+
+* Scenarios:
+  * Various prose grammar fixes.
+  * E1S3 - Civil War in the North:
+    * Removed deprecated flower terrain.
+  * E1S5 - Bay of Tirigaz:
+    * Removed deprecated flower terrain.
+  * E1S6.2 - Elves of a Different Land:
+    * Fixed a dialog line wrapped in double parentheses.
+  * E1S9.1 - The Triad (part 1):
+    * Don't set Elynia's initial status to slowed.
+    * Fixed animation glitches.
+  * E1S9.3 - The Triad (part 3):
+    * Fixed animation glitches.
+  * E2S2 - The Heart Forest:
+    * Increased turn limit.
+    * Reduced initial gold amounts for enemy sides.
+    * Set initial gold amount for the player.
+  * E2S3.2 - Revelations:
+    * Corrected unit facings.
+  * E2S4 - Shifting Allegiances:
+    * New scenario.
+  * E2S5 - The Eastern Front:
+    * New scenario.
+  * E2S5 C - The Eastern Front cutscene:
+    * New scenario.
+  * E2S6 - The Voyage Home:
+    * New scenario.
+  * E2S7 - Proximus:
+    * New scenario.
+
+* Units:
+  * Increased Dryad's HP from 43 to 46.
+  * Increased Forest Spirit's HP from 37 to 40.
+  * Simplified Sylvan Warden's animations WML, making her less of a resource
+    hog.
+  * Removed Kri'tan.
+
+
+Version 0.6.0:
+--------------
+* Increased minimum Wesnoth version requirement from 1.9.5 to 1.9.7.
+
+* Scenarios:
+  * Reworked character recall logic.
+  * Episode 2 (Fate):
+    * Scenarios 1 and 2 completed.
+    * Scenario 3 completed, consisting of two cutscenes.
+
+* Units:
+  * Reduced Sprite's required XP to advance from 70 to 40.
+  * Reduced Fire Faerie's required XP to advance from 100 to 70.
+
+
 Version 0.5.4:
 --------------
 * The campaign passes wmllint validation now.
@@ -177,5 +369,6 @@ Version 0.3.1:
 Version 0.3.0:
 --------------
 * Way too many changes to list.
+
 
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
