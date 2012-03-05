@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:16+0100\n"
+"POT-Creation-Date: 2012-03-05 17:19+0100\n"
 "PO-Revision-Date: 2012-02-21 23:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -182,11 +182,10 @@ msgid "difficulty_menu^Skeleton"
 msgstr ""
 
 #. [campaign]: id=After_the_Storm_I
-#. [endlevel]
 #. [campaign]: id=After_the_Storm_II
-#: After_the_Storm/episode1/menu.cfg:22
+#. [endlevel]
+#: After_the_Storm/episode1/menu.cfg:22 After_the_Storm/episode2/menu.cfg:22
 #: After_the_Storm/macros/scenario-utils.cfg:240
-#: After_the_Storm/episode2/menu.cfg:22
 msgid "To be continued..."
 msgstr ""
 
@@ -197,18 +196,18 @@ msgstr ""
 
 #. [side]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:42
-#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:57
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:35
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:28
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:33
-#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:26
-#: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:26
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:40
-#: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:45
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:34
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:44
+#: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:26
+#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:57
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:26
+#: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:45
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:26
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:28
+#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:26
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:44
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:33
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:35
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:34
 msgid "team_name^Galas"
 msgstr ""
 
@@ -222,26 +221,21 @@ msgstr ""
 msgid "Morzey"
 msgstr ""
 
-#. [side]: type=Chaos Magus, id=Ilce'than
-#. [side]: type=Shaxthal Assault Drone
-#. [side]: id=Darglen, type=Chaos Lorekeeper
 #. [side]
-#. [side]: type=Shaxthal Stormblade Ivyel
+#. [side]: id=Darglen, type=Chaos Lorekeeper
 #. [side]: type=Chaos Cataphract, id=Mendryr
-#. [side]: type=Chaos Soulhunter, id=Haldaran
 #. [side]: type=Chaos Lorekeeper, id=Grulock
+#. [side]: type=Chaos Magus, id=Ilce'than
 #. [side]: type=Chaos Razerman, id=Zygred
+#. [side]: type=Chaos Soulhunter, id=Haldaran
+#. [side]: type=Shaxthal Assault Drone
+#. [side]: type=Shaxthal Stormblade Ivyel
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:167
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:70
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:88
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:106
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:47
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:65
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:96
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:89
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:118
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:182
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:227
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:59
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:68
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:44
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:59
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:72
@@ -249,18 +243,23 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:98
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:109
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:120
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:47
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:65
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:96
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:47
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:61
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:82
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:40
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:82
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:111
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:89
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:118
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:182
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:227
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:45
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:59
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:75
 #: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:86
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:40
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:82
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:111
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:47
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:61
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:82
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:59
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:68
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:169
 msgid "team_name^Enemies"
 msgstr ""
@@ -274,9 +273,9 @@ msgstr ""
 #. [event]: (id=Allyna) experience 0}
 #. [event]: (id=Luddry) 46 19}, (id=Luddry) facing ne}, (id=Luddry) $location.x $location.y}
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:237
+#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:487
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:140
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:710
-#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:487
 msgid "Defeat the enemy leader"
 msgstr ""
 
@@ -286,52 +285,58 @@ msgstr ""
 #. [event]: id=Elyssa level 6}
 #. [value]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:239
-#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:139
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:162
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:953
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:162
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:726
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:762
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:974
+#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:256
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:318
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:579
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:644
-#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:256
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:180
+#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:139
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:480
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:162
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:726
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:95
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:244
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:480
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:762
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:974
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:162
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:953
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:180
 msgid "Death of Galas"
 msgstr ""
 
-#. [event]
-#. [event]: (id=Elyssa) 18 11}, (id=Mal Keshar) 12 12}, (id=Galas) 16 13}, (id=Mal Keshar) facing ne}, (id=Elynia) 12 11}, (id=Galas) 11 12}
-#. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
-#. [event]: id=Elyssa level 6}
-#. [value]
-#. [event]: (id=Elynia) facing se}, (id=Mal Keshar) facing se}
-#. [then]
-#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
 #. [else]
-#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
-#. [event]: (id=Elynia) facing $direction}
-#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
+#. [event]
 #. [event]: (id=Allyna) experience 0}
-#. [event]: (id=Luddry) 46 19}, (id=Luddry) facing ne}, (id=Luddry) $location.x $location.y}
 #. [event]: (id=Elynia) 20 ()}, (id=Mal Hekuba) (id=Elynia) 0 ()}, (id=Mal Hekuba) facing $direction}, (id=Elynia) facing $direction}, (id=Ivyel) facing $direction}
+#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
+#. [event]: (id=Elynia) facing $direction}
+#. [event]: (id=Elynia) facing se}, (id=Mal Keshar) facing se}
+#. [event]: (id=Elyssa) 18 11}, (id=Mal Keshar) 12 12}, (id=Galas) 16 13}, (id=Mal Keshar) facing ne}, (id=Elynia) 12 11}, (id=Galas) 11 12}
+#. [event]: (id=Luddry) 46 19}, (id=Luddry) facing ne}, (id=Luddry) $location.x $location.y}
+#. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
+#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
+#. [event]: id=Elyssa level 6}
+#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
+#. [then]
+#. [value]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:240
-#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:140
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:163
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:954
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:274
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:163
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:727
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:763
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:975
+#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:257
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:319
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:580
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:645
-#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:257
+#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:140
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:481
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:163
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:727
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:96
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:245
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:763
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:975
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:163
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:954
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:181
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:191
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:321
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:274
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:344
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:424
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:489
@@ -340,26 +345,23 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:845
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:898
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:1499
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:191
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:321
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:181
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:96
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:245
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:481
+#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:163
+#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:489
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:166
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:388
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:539
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:142
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:712
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:144
+#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:218
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:536
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:260
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:790
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:271
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:389
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1050
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1393
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1475
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:142
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:712
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:260
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:790
-#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:163
-#: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:489
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:320
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:531
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:776
@@ -367,34 +369,37 @@ msgstr ""
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1459
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1711
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2114
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:271
-#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:218
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:144
 msgid "Death of Elynia"
 msgstr ""
 
+#. [else]
 #. [event]
+#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
+#. [event]: (id=Elynia) facing se}, (id=Mal Keshar) facing se}
 #. [event]: (id=Elyssa) 18 11}, (id=Mal Keshar) 12 12}, (id=Galas) 16 13}, (id=Mal Keshar) facing ne}, (id=Elynia) 12 11}, (id=Galas) 11 12}
 #. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: id=Elyssa level 6}
-#. [value]
-#. [event]: (id=Elynia) facing se}, (id=Mal Keshar) facing se}
 #. [then]
-#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
-#. [else]
+#. [value]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:241
-#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:141
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:164
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:955
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:275
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:164
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:728
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:764
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:976
+#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:258
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:320
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:581
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:646
-#: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:258
+#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:141
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:482
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:164
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:728
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:97
+#: After_the_Storm/episode1/scenarios/08_Fear.cfg:246
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:764
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:976
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:164
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:955
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:182
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:192
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:322
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:275
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:345
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:425
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:490
@@ -402,12 +407,6 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:704
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:846
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:899
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:192
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:322
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:182
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:97
-#: After_the_Storm/episode1/scenarios/08_Fear.cfg:246
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:482
 msgid "Death of Mal Keshar"
 msgstr ""
 
@@ -492,8 +491,8 @@ msgstr ""
 msgid "Who is that? Hey, the cloaked one!"
 msgstr ""
 
-#. [message]: speaker=Mal Keshar
 #. [message]: speaker=Durvan
+#. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:379
 #: After_the_Storm/episode2/scenarios/03_02_Revelations.cfg:252
 msgid "Eh?"
@@ -701,9 +700,9 @@ msgstr ""
 #. [side]
 #. [side]: id=Mal Ciphan, type=Lich
 #. [side]: id=Nyadien, type=Draug
-#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:77
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:54
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:174
+#: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:77
 msgid "team_name^Undead"
 msgstr ""
 
@@ -718,17 +717,17 @@ msgid "Nyadien"
 msgstr ""
 
 #. [event]
-#. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
+#. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
-#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:137
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:272
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:760
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:254
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:189
+#: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:137
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:242
-#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:534
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:760
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:189
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:272
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:142
+#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:534
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -968,8 +967,8 @@ msgstr ""
 msgid "Lead us, my lord."
 msgstr ""
 
-#. [value]
 #. [event]
+#. [value]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:577
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:641
 msgid ""
@@ -977,8 +976,8 @@ msgid ""
 "reinforcements arrive"
 msgstr ""
 
-#. [value]
 #. [event]
+#. [value]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:585
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:650
 msgid "You won’t be able to recall the human defense in later scenarios."
@@ -1357,9 +1356,9 @@ msgstr ""
 msgid "Tan-Vatar"
 msgstr ""
 
-#. [side]: id=Rishix, type=Saurian Flanker
-#. [side]: id=Ishkaal, type=Saurian Oracle
 #. [side]
+#. [side]: id=Ishkaal, type=Saurian Oracle
+#. [side]: id=Rishix, type=Saurian Flanker
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:162
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:241
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:90
@@ -1599,8 +1598,8 @@ msgid ""
 "Vatar and his commanders."
 msgstr ""
 
-#. [message]: speaker=Galas
 #. [message]: speaker=Durvan
+#. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:751
 #: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:374
 msgid "Very well, then."
@@ -1810,20 +1809,20 @@ msgstr ""
 msgid "Quenoth Isle"
 msgstr ""
 
-#. [side]: id=Gaellis, type=Quenoth Marshal
-#. [side]: id=Maina, type=Quenoth Shyde
 #. [side]
+#. [side]: id=Gaellis, type=Quenoth Marshal
 #. [side]: id=Inara, type=Quenoth Avenger
 #. [side]: id=Lintaen, type=Quenoth Hero
 #. [side]: id=Listra, type=Quenoth Druid
-#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:45
-#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:63
+#. [side]: id=Maina, type=Quenoth Shyde
 #: After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:64
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:50
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:90
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:109
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:129
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:200
+#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:45
+#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:63
 msgid "team_name^Quenoth"
 msgstr ""
 
@@ -1986,14 +1985,14 @@ msgid "Elves of a Different Land"
 msgstr ""
 
 #. [side]: id=Gaellis, type=Quenoth Marshal
-#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:50
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:56
+#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:50
 msgid "Gaellis"
 msgstr ""
 
 #. [side]: id=Maina, type=Quenoth Shyde
-#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:68
 #: After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:96
+#: After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:68
 msgid "Maina"
 msgstr ""
 
@@ -2266,29 +2265,29 @@ msgstr ""
 msgid "Follow the path and explore underground"
 msgstr ""
 
+#. [else]
 #. [event]
 #. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
-#. [else]
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:276
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:165
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:729
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:193
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:323
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:98
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:247
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:193
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:323
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:276
 msgid "Death of Horo"
 msgstr ""
 
+#. [else]
 #. [event]
 #. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
-#. [else]
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:277
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:166
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:730
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:194
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:324
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:99
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:248
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:194
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:324
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:277
 msgid "Death of Kyara"
 msgstr ""
 
@@ -3247,10 +3246,10 @@ msgstr ""
 #. [event]: (id=Elyssa) 18 11}, (id=Mal Keshar) 12 12}, (id=Galas) 16 13}, (id=Mal Keshar) facing ne}, (id=Elynia) 12 11}, (id=Galas) 11 12}
 #. [event]: (id=Mal Keshar) facing n}, type=Orcish Archer, type=Orcish Archer, type=Skeleton, type=Orcish Grunt, type=Revenant, type=Revenant, type=Deathblade, type=Dark Adept, type=Skeleton Archer, type=Orcish Grunt, type=Revenant, id=Elyssa facing sw}, id=Elyssa facing sw}, id=Elyssa facing sw}
 #. [event]: id=Elyssa level 6}
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:168
-#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:959
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:768
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:980
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:168
+#: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:959
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:186
 msgid "You won’t be able to recall any units from this scenario later."
 msgstr ""
@@ -3445,8 +3444,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:199
-#: After_the_Storm/macros/character-defines.cfg:41
 #: After_the_Storm/episode2/scenarios/00_Transience.cfg:157
+#: After_the_Storm/macros/character-defines.cfg:41
 msgid "Elyssa"
 msgstr ""
 
@@ -3645,29 +3644,29 @@ msgid "Tears"
 msgstr ""
 
 #. [side]
-#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:26
+#: After_the_Storm/episode1/scenarios/10_Tears.cfg:28
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:58
-#: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:31
+#: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:26
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:59
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:56
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:193
-#: After_the_Storm/episode1/scenarios/10_Tears.cfg:28
-#: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:26
-#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:38
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:39
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:42
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:43
-#: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:34
+#: After_the_Storm/episode1/scenarios/13_Death_and_Rebirth.cfg:31
+#: After_the_Storm/episode2/scenarios/00_Transience.cfg:32
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:53
+#: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:26
+#: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:34
+#: After_the_Storm/episode2/scenarios/03_02_Revelations.cfg:33
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:42
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:26
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front_cutscene.cfg:26
+#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:26
+#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:38
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:43
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:39
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:39
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:33
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:277
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front_cutscene.cfg:26
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:39
-#: After_the_Storm/episode2/scenarios/03_02_Revelations.cfg:33
-#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:26
 #: After_the_Storm/episode2/scenarios/12_Fate.cfg:25
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:26
-#: After_the_Storm/episode2/scenarios/00_Transience.cfg:32
 msgid "team_name^Elynia"
 msgstr ""
 
@@ -3681,8 +3680,8 @@ msgstr ""
 msgid "Zygred"
 msgstr ""
 
-#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
 #. [else]
+#. [event]: (id=Elynia) canrecruit yes}, (id=Elynia) facing sw}, (id=Mal Keshar) facing ne}, (id=Horo) facing sw}, (id=Kyara) facing nw}
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:188
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:319
 msgid "Move Elynia to the top edge of the map"
@@ -5359,10 +5358,10 @@ msgstr ""
 msgid "Daent"
 msgstr ""
 
-#. [message]: speaker=Lord Durstrang
 #. [message]: speaker=Aethyr
-#: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:258
+#. [message]: speaker=Lord Durstrang
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:318
+#: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:258
 msgid "Halt! Who goes there?"
 msgstr ""
 
@@ -5673,25 +5672,28 @@ msgstr ""
 msgid "Reach the top edge of the map"
 msgstr ""
 
-#. [event]
-#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
-#. [event]: (id=Elynia) facing $direction}
-#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
-#. [event]: (id=Allyna) experience 0}
 #. [else]
+#. [event]
+#. [event]: (id=Allyna) experience 0}
 #. [event]: (id=Elynia) 20 ()}, (id=Mal Hekuba) (id=Elynia) 0 ()}, (id=Mal Hekuba) facing $direction}, (id=Elynia) facing $direction}, (id=Ivyel) facing $direction}
+#. [event]: (id=Elynia) facing $direction}
+#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
+#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:167
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:389
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:540
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:143
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:713
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:146
+#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:220
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:538
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:262
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:792
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:273
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:391
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1052
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1395
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1477
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:143
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:713
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:262
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:792
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:322
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:533
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:778
@@ -5699,9 +5701,6 @@ msgstr ""
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1461
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1713
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2116
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:273
-#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:220
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:146
 msgid "Death of Durvan"
 msgstr ""
 
@@ -5936,9 +5935,9 @@ msgstr ""
 msgid "Unrest in Raelthyn"
 msgstr ""
 
-#. [side]: type=Royal Warrior, id=Dethanel
-#. [side]: type=General, id=Lord Durstrang
 #. [side]
+#. [side]: type=General, id=Lord Durstrang
+#. [side]: type=Royal Warrior, id=Dethanel
 #: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:47
 #: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:67
 #: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:89
@@ -6238,10 +6237,10 @@ msgid ""
 "lost our largest western garrison."
 msgstr ""
 
-#. [message]: speaker=Zynara
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:267
+#. [message]: speaker=Zynara
 #: After_the_Storm/episode2/scenarios/03_02_Revelations.cfg:237
+#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:267
 msgid "I see..."
 msgstr ""
 
@@ -6340,18 +6339,18 @@ msgid "team_name^Demons"
 msgstr ""
 
 #. [side]
-#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:203
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:77
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:95
+#: After_the_Storm/episode2/scenarios/07_Proximus.cfg:203
 msgid "team_name^Shaxthals"
 msgstr ""
 
-#. [event]: (id=Allyna) experience 0}
 #. [event]
+#. [event]: (id=Allyna) experience 0}
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:144
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:714
-#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:221
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:147
+#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:221
 msgid "Death of Zynara"
 msgstr ""
 
@@ -6565,8 +6564,8 @@ msgstr ""
 msgid "I know..."
 msgstr ""
 
-#. [option]: speaker=Elynia
 #. [message]: speaker=Elynia
+#. [option]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:667
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:686
 msgid ""
@@ -6611,20 +6610,23 @@ msgstr ""
 msgid "Death of Elorran"
 msgstr ""
 
-#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
-#. [event]
-#. [event]: (id=Elynia) facing $direction}
-#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
 #. [else]
+#. [event]
 #. [event]: (id=Elynia) 20 ()}, (id=Mal Hekuba) (id=Elynia) 0 ()}, (id=Mal Hekuba) facing $direction}, (id=Elynia) facing $direction}, (id=Ivyel) facing $direction}
+#. [event]: (id=Elynia) facing $direction}
+#. [event]: (id=Zynara) 14  3}, (id=Elynia) facing ne}, (id=Durvan) facing nw}, (id=Elynia) 22 6}, (id=Durvan) 18 6}, (id=Anya)   19 9}
+#. [event]: id=Kardas, (id=Kardas) 36,36 39,40}
+#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:716
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:145
+#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:219
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:537
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:261
+#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:791
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:272
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:390
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1051
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1394
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1476
-#: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:716
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:261
-#: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:791
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:321
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:532
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:777
@@ -6632,9 +6634,6 @@ msgstr ""
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1460
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1712
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2115
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:272
-#: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:219
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:145
 msgid "Death of Anya"
 msgstr ""
 
@@ -6863,14 +6862,14 @@ msgid "The Eastern Front"
 msgstr ""
 
 #. [side]
+#. [side]: type=Elvish Avenger, id=Unidë
 #. [side]: type=Elvish Mystic, id=Telan
 #. [side]: type=Elvish Outrider, id=Ethanin-Adrael
-#. [side]: type=Elvish Avenger, id=Unidë
-#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front_cutscene.cfg:38
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:38
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:63
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:90
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:116
+#: After_the_Storm/episode2/scenarios/05_The_Eastern_Front_cutscene.cfg:38
 msgid "team_name^Elves"
 msgstr ""
 
@@ -7235,8 +7234,8 @@ msgstr ""
 msgid "The Voyage Home"
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Pigork
 #. [side]: type=Orcish Slayer, id=Bratar
+#. [side]: type=Orcish Warlord, id=Pigork
 #: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:38
 #: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:65
 msgid "team_name^Orcs"
@@ -7487,9 +7486,9 @@ msgid "Proximus"
 msgstr ""
 
 #. [side]
+#. [side]: type=Chaos Soulhunter, id=Gerumanen
 #. [side]: type=Chocobone, id=General Lorelath
 #. [side]: type=Elvish Hero, id=Kri'tan
-#. [side]: type=Chaos Soulhunter, id=Gerumanen
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:72
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:93
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:133
@@ -7723,16 +7722,16 @@ msgstr ""
 msgid "And then there was Chaos"
 msgstr ""
 
-#. [side]: type=Faerie Avatar, id=Lady of Light
 #. [side]: type=Chaos Lorekeeper, id=Kaerus-Aganan
+#. [side]: type=Faerie Avatar, id=Lady of Light
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:55
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:90
 msgid "team_name^Telchior’s Hold"
 msgstr ""
 
 #. [side]: type=Faerie Avatar, id=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:72
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:73
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:72
 msgid "Lady of Light"
 msgstr ""
 
@@ -7756,8 +7755,8 @@ msgstr ""
 msgid "Kaerus-Aganan"
 msgstr ""
 
-#. [side]: type=Gutwrencher Imp, id=Galael
 #. [side]: type=Ancient Lich, id=Mal Ryagath
+#. [side]: type=Gutwrencher Imp, id=Galael
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:116
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:143
 msgid "team_name^Base Defenses"
@@ -7798,8 +7797,8 @@ msgstr ""
 msgid "Elynia must defeat the false Lady of Light by herself"
 msgstr ""
 
-#. [event]
 #. [else]
+#. [event]
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:257
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:788
 msgid "Defeat the rest of the enemy leaders"
@@ -8045,12 +8044,16 @@ msgstr ""
 msgid "New Hive"
 msgstr ""
 
-#. [side]: type=Faerie Avatar, id=Lady of Light
-#. [side]: type=Hell Guardian, id=Stalygvan
-#. [side]: type=Gutwrencher Imp, id=Dorghazaquiel
-#. [side]: type=Demon Warrior, id=Elathea
-#. [side]: type=Chaos Razerman, id=Alareanthalcan
 #. [side]
+#. [side]: type=Chaos Razerman, id=Alareanthalcan
+#. [side]: type=Demon Warrior, id=Elathea
+#. [side]: type=Faerie Avatar, id=Lady of Light
+#. [side]: type=Gutwrencher Imp, id=Dorghazaquiel
+#. [side]: type=Hell Guardian, id=Stalygvan
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:57
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:78
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:98
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:115
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:54
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:91
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:119
@@ -8062,10 +8065,6 @@ msgstr ""
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:301
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:233
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:258
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:57
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:78
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:98
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:115
 msgid "team_name^Dark Hive"
 msgstr ""
 
@@ -8293,8 +8292,8 @@ msgid "Destroying you is NOT a pointless cause!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/macros/character-defines.cfg:79
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:899
+#: After_the_Storm/macros/character-defines.cfg:79
 msgid "Mal Hekuba"
 msgstr ""
 
@@ -8452,8 +8451,8 @@ msgstr ""
 msgid "Let’s find that foul fiend and destroy him once and for all."
 msgstr ""
 
-#. [event]: (id=Elynia) facing $direction}
 #. [event]
+#. [event]: (id=Elynia) facing $direction}
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1048
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1473
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:318
@@ -8614,8 +8613,8 @@ msgid "Move Elynia to the central chamber"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/macros/items.cfg:221
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:553
+#: After_the_Storm/macros/items.cfg:221
 msgid "Access granted."
 msgstr ""
 
@@ -9533,10 +9532,10 @@ msgstr ""
 
 #. [attack]: type=impact
 #. [effect]: type=impact
-#: After_the_Storm/units/elves-wood/Prowler.cfg:51
-#: After_the_Storm/units/elves-wood/Hunter.cfg:47
-#: After_the_Storm/units/elves-wood/Trapper.cfg:47
 #: After_the_Storm/macros/amla.cfg:113
+#: After_the_Storm/units/elves-wood/Hunter.cfg:47
+#: After_the_Storm/units/elves-wood/Prowler.cfg:51
+#: After_the_Storm/units/elves-wood/Trapper.cfg:47
 msgid "bolas"
 msgstr ""
 
@@ -9701,8 +9700,8 @@ msgstr ""
 msgid "Nar-hamoth"
 msgstr ""
 
-#. [then]
 #. [else]
+#. [then]
 #: After_the_Storm/macros/items.cfg:104 After_the_Storm/macros/items.cfg:112
 msgid "Do you want to be healed?"
 msgstr ""
@@ -9714,14 +9713,14 @@ msgid ""
 "and removing poison from it, if applicable."
 msgstr ""
 
-#. [then]
 #. [else]
+#. [then]
 #: After_the_Storm/macros/items.cfg:108 After_the_Storm/macros/items.cfg:114
 msgid "Note: the glyph can do this only once, and when done it will fade out."
 msgstr ""
 
-#. [object]: id=healing_glyph_at_{_X}_{_Y}
 #. [message]: speaker=narrator
+#. [object]: id=healing_glyph_at_{_X}_{_Y}
 #: After_the_Storm/macros/items.cfg:120 After_the_Storm/macros/items.cfg:128
 msgid "Crystal Glyph of Health"
 msgstr ""
@@ -9948,10 +9947,10 @@ msgstr ""
 msgid "This undead unit has become weaker with the pass of time."
 msgstr ""
 
-#. [terrain_type]: id=overlay-pit
 #. [terrain_type]: id=dark-hive-floor
-#. [terrain_type]: id=dark-hive-surface
 #. [terrain_type]: id=dark-hive-lair
+#. [terrain_type]: id=dark-hive-surface
+#. [terrain_type]: id=overlay-pit
 #: After_the_Storm/terrain-virtual.cfg:15 After_the_Storm/terrain.cfg:29
 #: After_the_Storm/terrain.cfg:38 After_the_Storm/terrain.cfg:47
 msgid "Dark Hive"
@@ -10051,9 +10050,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: After_the_Storm/units/alien-verlissh/Psy_Crawler.cfg:34
-#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:29
 #: After_the_Storm/units/alien-verlissh/Matrix_Core.cfg:28
+#: After_the_Storm/units/alien-verlissh/Matrix_Flow_System.cfg:29
+#: After_the_Storm/units/alien-verlissh/Psy_Crawler.cfg:34
 msgid "energy ray"
 msgstr ""
 
@@ -10341,45 +10340,45 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:34
-#: After_the_Storm/units/humans/Chaos_Raider.cfg:40
-#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:28
-#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:34
-#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:29
-#: After_the_Storm/units/elves-quenoth/Horseman.cfg:38
-#: After_the_Storm/units/elves-quenoth/Rider.cfg:32
-#: After_the_Storm/units/elves-quenoth/Fighter.cfg:22
-#: After_the_Storm/units/elves-quenoth/Outrider.cfg:33
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:23
 #: After_the_Storm/units/elves-quenoth/Avenger.cfg:33
-#: After_the_Storm/units/elves-quenoth/Marksman.cfg:22
 #: After_the_Storm/units/elves-quenoth/Captain.cfg:34
-#: After_the_Storm/units/elves-quenoth/Marshal.cfg:33
 #: After_the_Storm/units/elves-quenoth/Champion.cfg:23
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:22
 #: After_the_Storm/units/elves-quenoth/Hero.cfg:22
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:38
+#: After_the_Storm/units/elves-quenoth/Marksman.cfg:22
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:33
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:33
+#: After_the_Storm/units/elves-quenoth/Ranger.cfg:33
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:32
 #: After_the_Storm/units/elves-quenoth/Scout.cfg:31
 #: After_the_Storm/units/elves-quenoth/Sharpshooter.cfg:23
-#: After_the_Storm/units/elves-quenoth/Ranger.cfg:33
+#: After_the_Storm/units/humans/Chaos_Cataphract.cfg:34
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:34
+#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:28
+#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:29
+#: After_the_Storm/units/humans/Chaos_Raider.cfg:40
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: After_the_Storm/units/elves-wood/Wayfarer.cfg:48
-#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:37
-#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:38
-#: After_the_Storm/units/humans/Chaos_Bowman.cfg:38
-#: After_the_Storm/units/elves-quenoth/Horseman.cfg:47
-#: After_the_Storm/units/elves-quenoth/Rider.cfg:41
-#: After_the_Storm/units/elves-quenoth/Fighter.cfg:31
-#: After_the_Storm/units/elves-quenoth/Outrider.cfg:42
 #: After_the_Storm/units/elves-quenoth/Archer.cfg:32
 #: After_the_Storm/units/elves-quenoth/Avenger.cfg:45
 #: After_the_Storm/units/elves-quenoth/Captain.cfg:43
-#: After_the_Storm/units/elves-quenoth/Marshal.cfg:42
 #: After_the_Storm/units/elves-quenoth/Champion.cfg:32
+#: After_the_Storm/units/elves-quenoth/Fighter.cfg:31
 #: After_the_Storm/units/elves-quenoth/Hero.cfg:31
-#: After_the_Storm/units/elves-quenoth/Scout.cfg:40
+#: After_the_Storm/units/elves-quenoth/Horseman.cfg:47
+#: After_the_Storm/units/elves-quenoth/Marshal.cfg:42
+#: After_the_Storm/units/elves-quenoth/Outrider.cfg:42
 #: After_the_Storm/units/elves-quenoth/Ranger.cfg:45
+#: After_the_Storm/units/elves-quenoth/Rider.cfg:41
+#: After_the_Storm/units/elves-quenoth/Scout.cfg:40
+#: After_the_Storm/units/elves-wood/Wayfarer.cfg:48
+#: After_the_Storm/units/humans/Chaos_Bowman.cfg:38
+#: After_the_Storm/units/humans/Chaos_Longbowman.cfg:37
+#: After_the_Storm/units/humans/Chaos_Longbowman_Heavy.cfg:38
 msgid "bow"
 msgstr ""
 
@@ -10453,15 +10452,15 @@ msgid "staff"
 msgstr ""
 
 #. [attack]: type=impact
-#: After_the_Storm/units/elves-quenoth/Shyde.cfg:39
 #: After_the_Storm/units/elves-quenoth/Druid.cfg:36
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:39
 #: After_the_Storm/units/elves-quenoth/Star.cfg:55
 msgid "ensnare"
 msgstr ""
 
 #. [attack]: type=pierce
-#: After_the_Storm/units/elves-quenoth/Shyde.cfg:51
 #: After_the_Storm/units/elves-quenoth/Druid.cfg:48
+#: After_the_Storm/units/elves-quenoth/Shyde.cfg:51
 #: After_the_Storm/units/elves-quenoth/Star.cfg:67
 msgid "thorns"
 msgstr ""
@@ -10938,8 +10937,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: After_the_Storm/units/faeries/Dark_Nightshade_Fire.cfg:57
 #: After_the_Storm/units/faeries/Dark_Night_Nymph.cfg:55
+#: After_the_Storm/units/faeries/Dark_Nightshade_Fire.cfg:57
 msgid "forest chill"
 msgstr ""
 
@@ -10995,19 +10994,19 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: After_the_Storm/units/faeries/Fire_Faerie_Spirit.cfg:44
-#: After_the_Storm/units/faeries/Fire_Faerie.cfg:31
-#: After_the_Storm/units/faeries/Fire_Sprite.cfg:30
 #: After_the_Storm/units/faeries/Fire_Dryad.cfg:41
+#: After_the_Storm/units/faeries/Fire_Faerie.cfg:31
+#: After_the_Storm/units/faeries/Fire_Faerie_Spirit.cfg:44
+#: After_the_Storm/units/faeries/Fire_Sprite.cfg:30
 msgid "fire aura"
 msgstr ""
 
 #. [attack]: type=fire
-#: After_the_Storm/units/faeries/Fire_Faerie_Spirit.cfg:56
-#: After_the_Storm/units/faeries/Fire_Faerie.cfg:40
-#: After_the_Storm/units/faeries/Sylvan_Warden.cfg:64
-#: After_the_Storm/units/faeries/Fire_Sprite.cfg:39
 #: After_the_Storm/units/faeries/Fire_Dryad.cfg:50
+#: After_the_Storm/units/faeries/Fire_Faerie.cfg:40
+#: After_the_Storm/units/faeries/Fire_Faerie_Spirit.cfg:56
+#: After_the_Storm/units/faeries/Fire_Sprite.cfg:39
+#: After_the_Storm/units/faeries/Sylvan_Warden.cfg:64
 msgid "mystic fire"
 msgstr ""
 
@@ -11192,8 +11191,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:43
 #: After_the_Storm/units/humans/Chaos_Cataphract.cfg:43
+#: After_the_Storm/units/humans/Chaos_Cavalier.cfg:43
 msgid "crossbow"
 msgstr ""
 
@@ -11271,8 +11270,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:36
 #: After_the_Storm/units/humans/Chaos_Doom_Guard.cfg:35
+#: After_the_Storm/units/humans/Chaos_Hell_Guardian.cfg:36
 msgid "shield"
 msgstr ""
 
@@ -11342,11 +11341,11 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: After_the_Storm/units/shaxthal/Warlord.cfg:46
-#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:52
+#: After_the_Storm/units/humans/Chaos_Invoker.cfg:47
 #: After_the_Storm/units/humans/Chaos_Invoker_Lorekeeper.cfg:60
 #: After_the_Storm/units/humans/Chaos_Invoker_Magus.cfg:47
-#: After_the_Storm/units/humans/Chaos_Invoker.cfg:47
+#: After_the_Storm/units/shaxthal/Warlord.cfg:46
+#: After_the_Storm/units/shaxthal/Warlord_Elyssa.cfg:52
 msgid "ethereal blast"
 msgstr ""
 
@@ -11715,9 +11714,9 @@ msgid "claws"
 msgstr ""
 
 #. [attack]: type=pierce
-#: After_the_Storm/units/shaxthal/Thunderbird.cfg:31
-#: After_the_Storm/units/shaxthal/Razorbird.cfg:31
 #: After_the_Storm/units/monsters/Falcon.cfg:41
+#: After_the_Storm/units/shaxthal/Razorbird.cfg:31
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:31
 msgid "beak"
 msgstr ""
 
@@ -11932,13 +11931,13 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: After_the_Storm/units/shaxthal/Stormblade_Ivyel.cfg:43
-#: After_the_Storm/units/shaxthal/Drone_Enforcer.cfg:56
-#: After_the_Storm/units/shaxthal/Drone_Sentry.cfg:55
-#: After_the_Storm/units/shaxthal/Drone_Assault.cfg:48
-#: After_the_Storm/units/shaxthal/Drone_Runner.cfg:44
 #: After_the_Storm/units/shaxthal/Drone.cfg:56
+#: After_the_Storm/units/shaxthal/Drone_Assault.cfg:48
+#: After_the_Storm/units/shaxthal/Drone_Enforcer.cfg:56
 #: After_the_Storm/units/shaxthal/Drone_Protector.cfg:45
+#: After_the_Storm/units/shaxthal/Drone_Runner.cfg:44
+#: After_the_Storm/units/shaxthal/Drone_Sentry.cfg:55
+#: After_the_Storm/units/shaxthal/Stormblade_Ivyel.cfg:43
 msgid "energy shock"
 msgstr ""
 
@@ -12040,8 +12039,8 @@ msgid "war-blades"
 msgstr ""
 
 #. [attack]: type=impact
-#: After_the_Storm/units/shaxthal/Queen.cfg:46
 #: After_the_Storm/units/shaxthal/Drone_War.cfg:51
+#: After_the_Storm/units/shaxthal/Queen.cfg:46
 msgid "energy burst"
 msgstr ""
 
@@ -12091,8 +12090,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: After_the_Storm/units/shaxthal/Stormblade_Ivyel.cfg:32
 #: After_the_Storm/units/shaxthal/Rayblade.cfg:27
+#: After_the_Storm/units/shaxthal/Stormblade_Ivyel.cfg:32
 msgid "weapon^rayblade"
 msgstr ""
 
@@ -12113,8 +12112,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: After_the_Storm/units/shaxthal/Thunderbird.cfg:43
 #: After_the_Storm/units/shaxthal/Razorbird.cfg:40
+#: After_the_Storm/units/shaxthal/Thunderbird.cfg:43
 msgid "blade shower"
 msgstr ""
 
