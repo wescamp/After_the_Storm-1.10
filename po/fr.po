@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-13 02:32-0400\n"
-"PO-Revision-Date: 2012-02-11 09:07+0200\n"
+"PO-Revision-Date: 2012-02-22 14:25+0100\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -75,18 +75,21 @@ msgstr "Et toute personne que j'ai oublié de mentionner"
 
 #. [color_range]: id=cyan
 #: After_the_Storm/base-rc.cfg:12
+#, fuzzy
 msgid "team_color^Cyan"
-msgstr ""
+msgstr "Cyan"
 
 #. [color_range]: id=yellow
 #: After_the_Storm/base-rc.cfg:18
+#, fuzzy
 msgid "team_color^Yellow"
-msgstr ""
+msgstr "Jaune"
 
 #. [color_range]: id=pink
 #: After_the_Storm/base-rc.cfg:24
+#, fuzzy
 msgid "team_color^Pink"
-msgstr ""
+msgstr "Rose"
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
 #: After_the_Storm/editor-loader.cfg:12
@@ -420,9 +423,8 @@ msgstr "Mort de Mal Keshar"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:242
-#, fuzzy
 msgid "Death of Morzey"
-msgstr "Mort de Horo"
+msgstr "Mort de Morzey"
 
 #. [message]: role=guard_1
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:293
@@ -682,8 +684,9 @@ msgstr "Enfer, ils arrivent plus tôt que prévu. Aux armes ! "
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:508
+#, fuzzy
 msgid "We failed to protect the town..."
-msgstr ""
+msgstr "Nous n'avons pas réussi à protéger la ville..."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:522
@@ -2742,8 +2745,8 @@ msgid ""
 "sending one of their sun-loving youths would be any help to us?"
 msgstr ""
 "Hé, l'obscurité. Ces elfes ne sont pas très intelligents, après tout. Qui "
-"pourrait penser que l'envoi d'un de leurs jeunes aime le soleil serait une "
-"aide pour nous ?"
+"pourrait penser que l'envoi d'un de leurs jeunes qui aime le soleil serait "
+"une aide pour nous ?"
 
 #. [message]: speaker=Kyara
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:287
@@ -4403,8 +4406,9 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:330
+#, fuzzy
 msgid "—I knew it. We are trapped."
-msgstr ""
+msgstr " — Je le savais. Nous sommes pris au piège."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_3.cfg:335
@@ -6777,8 +6781,9 @@ msgid "Durvan"
 msgstr ""
 
 #: After_the_Storm/episode2/characters.cfg:46
+#, fuzzy
 msgid "Anya"
-msgstr ""
+msgstr "Anya"
 
 #: After_the_Storm/episode2/characters.cfg:61
 msgid "Allyna"
@@ -6919,8 +6924,9 @@ msgstr "Aethercyn"
 
 #. [side]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:83
+#, fuzzy
 msgid "Devon"
-msgstr ""
+msgstr "Devon"
 
 #. [side]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:118
@@ -6930,44 +6936,55 @@ msgstr "Galas"
 
 #. [event]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:161
+#, fuzzy
 msgid "Find a friendly unit"
-msgstr ""
+msgstr "Trouver une unité amie"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:175
+#, fuzzy
 msgid ""
 "There seem to be some hostile animals ahead. I’d better move carefully and "
 "quickly..."
 msgstr ""
+"Il semble y avoir certains animaux hostiles devant. Je ferais mieux de "
+"passer rapidement et avec précaution..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:183
+#, fuzzy
 msgid "I think I can see a village to the northeast..."
-msgstr ""
+msgstr "Je pense que je peux voir un village au nord-est..."
 
 #. [unit]: type=Huntsman, id=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:259
+#, fuzzy
 msgid "Luddry"
-msgstr ""
+msgstr "Luddry"
 
 #. [unit]: type=Lich, id=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:293
+#, fuzzy
 msgid "Daent"
-msgstr ""
+msgstr "Daent"
 
 #. [message]: speaker=Aethyr
 #. [message]: speaker=Lord Durstrang
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:318
 #: After_the_Storm/episode2/scenarios/03_01_Unrest_in_Raelthyn.cfg:258
+#, fuzzy
 msgid "Halt! Who goes there?"
-msgstr ""
+msgstr "Halte ! Qui va là ?"
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:323
+#, fuzzy
 msgid ""
 "Don’t pay any attention to it — it’s just another of those annoying forest "
 "creatures."
 msgstr ""
+"Ne faites pas attention à elle — c'est juste une autre de ces ennuyeuses "
+"créatures de la forêt."
 
 #. [message]: speaker=Aethyr
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:328
@@ -6977,20 +6994,26 @@ msgstr "Mais nous... nous n'avons pas fini —"
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:333
+#, fuzzy
 msgid ""
 "It’s just a trick! They lure you into the dark to do whatever they please "
 "with your dead—"
 msgstr ""
+"C'est juste une ruse ! Ils vous attirent dans l'obscurité pour faire tout ce "
+"qu'ils peuvent pour vous tuer —"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:338
+#, fuzzy
 msgid "... I need some help. Could any of you please—"
-msgstr ""
+msgstr "... J'ai besoin d'aide. Pourriez-vous s'il vous plaît —"
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:343
+#, fuzzy
 msgid "Begone, before we slice your beautiful throat open!"
 msgstr ""
+"Retire-toi, avant que nous te tranchions la gorge par une belle estafilade !"
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:350
@@ -7000,13 +7023,15 @@ msgstr "Qu'est-ce qui se passe ?"
 
 #. [message]: speaker=Aethyr
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:355
+#, fuzzy
 msgid "Chief, this lass here, she—"
-msgstr ""
+msgstr "Chef, cette fille-là, elle —"
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:360
+#, fuzzy
 msgid "You look oddly familiar. What’s your name?"
-msgstr ""
+msgstr "Vous me semblez curieusement familier. Quel est votre nom ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:365
@@ -7016,54 +7041,76 @@ msgstr "Elynia, ne-"
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:370
+#, fuzzy
 msgid ""
 "The Lady of Light, as I recall. You weren’t of much help to us in the "
 "country."
 msgstr ""
+"La Dame de Lumière, je me souviens. Vous n'étiez pas d'une grande aide pour "
+"notre pays."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:375
+#, fuzzy
 msgid "... Excuse me? I don’t know you."
-msgstr ""
+msgstr "... Excusez-moi ? Je ne vous connais pas."
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:380
+#, fuzzy
 msgid ""
 "Of course you don’t know me, because you and your friends were too busy "
 "battling enemies to notice my hometown was burning down, with my family "
 "trapped in there, helpless, amidst the fire, and I couldn’t do anything to "
 "save them! What’s your purpose here, and why should we help you?"
 msgstr ""
+"Bien sûr, vous ne me connaissez pas, parce que vous et vos amis étiez trop "
+"occupés à combattre les ennemis pour remarquer que ma ville natale a été "
+"incendiée, avec ma famille pris au piège dedans, impuissant, au milieu du "
+"feu, et je ne pouvais rien faire pour les sauver ! Quel est votre but ici, "
+"et pourquoi devrions-nous vous aider ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:387
+#, fuzzy
 msgid ""
 "I would like to know where I am, and if it’d be possible, I’d also like some "
 "help to get to the Grand Council. This is a matter of the utmost "
 "importance..."
 msgstr ""
+"Je voudrais savoir où je suis, et si c’est possible, je voudrais aussi "
+"obtenir un peu d'aide du Grand Conseil. Il s'agit d'une question de la plus "
+"haute importance..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:396
+#, fuzzy
 msgid "Are you even listening to me?"
-msgstr ""
+msgstr "Vous êtes sûr de m'écouter ?"
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:401
+#, fuzzy
 msgid ""
 "I don’t feel particularly inclined to help you — at least not right now. If "
 "you really need to get to the elders, you are on your own. We don’t have any "
 "time for this, and we need to defend <i>our</i> town with <i>our</i> own "
 "resources right now."
 msgstr ""
+"Je ne me sens pas particulièrement enclin à vous aider — du moins pas en ce "
+"moment. Si vous avez vraiment besoin de parler aux anciens, débrouillez-"
+"vous. Nous n'avons pas de temps pour cela, et nous devons défendre notre "
+"ville avec nos propres ressources en ce moment."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:418
+#, fuzzy
 msgid "It feels like I’ve been in a similar situation before..."
-msgstr ""
+msgstr "Il se sent comme je l'ai été dans une situation similaire avant..."
 
 #. [message]: speaker=Aethyr
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:427
+#, fuzzy
 msgid ""
 "Can you help us? I know our leader appears to be particularly resentful of "
 "you for reasons I don’t even begin to understand, but it’s said that the "
@@ -7071,20 +7118,31 @@ msgid ""
 "us, for banishing him from the village. The rumors of the power he has "
 "amassed in the meanwhile are worrying."
 msgstr ""
+"Pouvez-vous nous aider ? Je sais que notre chef semble être particulièrement "
+"irrité par vous pour des raisons que je n'ai même pas commencer à "
+"comprendre, mais il est dit que le diable Daent est de retour de la terre "
+"des morts pour se venger sur nous, pour l'avoir banni du village. Les "
+"rumeurs de la puissance qu'il a amassé pendant ce temps sont inquiétantes."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:432
+#, fuzzy
 msgid ""
 "I think I may be able to offer some help if you are willing to give me some "
 "in exchange."
 msgstr ""
+"Je pense que je peux être en mesure d'offrir de l'aide si vous êtes prêt à "
+"me donner quelque chose en échange."
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:437
+#, fuzzy
 msgid ""
 "We can’t make any promises, faerie. Our leader isn’t that kind of person — "
 "you’ll need to figure out how to solve your problems on your own."
 msgstr ""
+"Nous ne pouvons pas faire de promesses, fée. Notre chef n'est pas ce genre "
+"de personne — vous devez comprendre comment résoudre vos propres problèmes."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:442
@@ -7116,40 +7174,52 @@ msgstr ""
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:552
+#, fuzzy
 msgid "<i>Thanks</i> for your absolutely <i>useless</i> help, faerie."
-msgstr ""
+msgstr "<i>Merci</i> pour votre absolument <i>inutile</i> aide, fée."
 
 #. [message]: speaker=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:568
+#, fuzzy
 msgid "Arise! Arise once again, fallen warriors of times long past! Arise!"
 msgstr ""
+"Levez-vous ! Levez-vous une fois de plus, guerriers tombés au combat des "
+"époques lointaines ! Levez-vous !"
 
 #. [message]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:574
+#, fuzzy
 msgid "I don’t like the sound of that... not at all..."
-msgstr ""
+msgstr "Je n'aime pas le bruit de cette... pas du tout..."
 
 #. [message]: speaker=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:599
+#, fuzzy
 msgid "Ah, you have been sent by my brother to destroy me, isn’t that right?"
 msgstr ""
+"Ah, vous avez été envoyé par mon frère pour me détruire, n'est-ce pas ?"
 
 #. [message]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:605
+#, fuzzy
 msgid "Your brother?"
-msgstr ""
+msgstr "Votre frère ?"
 
 #. [message]: speaker=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:610
+#, fuzzy
 msgid ""
 "Well, less chatter and more action, I say. You all shall join us in undeath, "
 "willingly or otherwise!"
 msgstr ""
+"Eh bien, moins de bavardage et plus d'action, je dis. Vous devez tous "
+"devenir des morts-vivants, volontairement ou non !"
 
 #. [message]: speaker=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:625
+#, fuzzy
 msgid "Ahhh, you think you can destroy me, don’t you? Well—"
-msgstr ""
+msgstr "Ahhh, vous pensez pouvoir me détruire, n'est-ce pas ? Bien —"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:630
@@ -7159,80 +7229,109 @@ msgstr "Chevalier du Chaos"
 
 #. [message]: speaker=Daent
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:656
+#, fuzzy
 msgid ""
 "Ahhh, you think you can destroy me, don’t you? Well, a few have already "
 "tried to vanquish me before to no avail... What makes you think it will be "
 "different this time? MWAHAHAHAHA!"
 msgstr ""
+"Ahhh, vous pensez que vous pouvez me détruire, n'est-ce pas ? Eh bien, "
+"quelques-uns ont déjà essayé de me vaincre avant en vain... Qu'est-ce qui "
+"vous fait penser que ce sera différent cette fois ? MWAHAHAHAHA !"
 
 #. [message]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:674
+#, fuzzy
 msgid "He’s gone!"
-msgstr ""
+msgstr "Il est parti !"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:695
+#, fuzzy
 msgid "That wasn’t too hard."
-msgstr ""
+msgstr "Ce n'était pas trop dur."
 
 #. [message]
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:707
+#, fuzzy
 msgid "Our village is saved!"
-msgstr ""
+msgstr "Notre village est sauvé !"
 
 #. [message]: speaker=Devon
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:712
+#, fuzzy
 msgid "Heh. I admit I had my doubts at first about whether this would work."
 msgstr ""
+"Hé. J'avoue j'ai eu des doutes, dans un premier temps quant à savoir si cela "
+"fonctionnerait."
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:717
+#, fuzzy
 msgid ""
 "Well done, everybody. As for you, faerie... What is it that you needed from "
 "us again?"
 msgstr ""
+"Bravo, tout le monde. Quant à vous, fée... Est-ce que vous avez besoin de "
+"nous à nouveau ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:722
+#, fuzzy
 msgid "I also have a name, as I told you before."
-msgstr ""
+msgstr "J'ai aussi un nom, comme je vous l'ai dit avant."
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:727
+#, fuzzy
 msgid "I suggest that you get to the point before I change my mind."
-msgstr ""
+msgstr "Je suggère que vous soyez au point avant que je change d'avis."
 
 #. [message]: speaker=Aethyr
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:732
+#, fuzzy
 msgid "But sir, her help in defeating the undead was..."
-msgstr ""
+msgstr "Mais, monsieur, son aide à vaincre les morts-vivants était..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:737
+#, fuzzy
 msgid ""
 "I need to know exactly where I am, and I must also meet with the Grand "
 "Council of the Northern Peoples as soon as I may, for which I could need "
 "some help depending on our location."
 msgstr ""
+"J'ai besoin de savoir exactement où je suis, et je dois aussi rencontrer le "
+"Grand Conseil des peuples du Nord dès que je peux me le permettre, pour "
+"laquelle je pourrais avoir besoin d'aide en fonction de notre situation."
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:742
+#, fuzzy
 msgid ""
 "I see. Well, we also need to arrange a meeting with the Council for our own "
 "purposes. Sending some of our most capable hunters with you along with our "
 "messengers might not be a bad idea after all, as you seem to excel in the "
 "arts of healing and the northern forests are not particularly safe nowadays."
 msgstr ""
+"Je vois. Eh bien, nous avons aussi besoin d'organiser une réunion avec le "
+"Conseil pour nos propres fins. Nous enverrons certains de nos chasseurs les "
+"plus capables avec vous, avec nos messagers ce ne serait pas une mauvaise "
+"idée après tout, comme vous semblez exceller dans les arts de la guérison et "
+"les forêts du nord ne sont pas particulièrement sûres de nos jours."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:747
+#, fuzzy
 msgid "I’d be very grateful if you provided me with such help, then. But—"
 msgstr ""
+"Je serais très reconnaissant vous m'avez fourni une telle aide, alors. mais —"
 
 #. [message]: speaker=Luddry
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:752
+#, fuzzy
 msgid "And welcome to the Heart Forest."
-msgstr ""
+msgstr "Et bienvenue au coeur de la forêt."
 
 #. [scenario]: id=02_The_Heart_Forest
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:5
@@ -10845,14 +10944,19 @@ msgstr ""
 
 #. [part]
 #: After_the_Storm/episode2/storytxt.cfg:23
+#, fuzzy
 msgid ""
 "“When I finally opened my eyes again, I wasn’t in the labyrinthine tunnels "
 "of the hive beneath Wesmere anymore. Instead, I was lying on the ground, in "
 "the middle of a dense forest, just as night was falling."
 msgstr ""
+"Quand j'ai finalement ouvert les yeux à nouveau, je n'étais plus dans les "
+"dédales des tunnels de la ruche sous Wesmere. Au lieu de cela, j'étais "
+"couché sur le sol, au milieu d'une forêt dense, juste quand la nuit tombait."
 
 #. [part]
 #: After_the_Storm/episode2/storytxt.cfg:26
+#, fuzzy
 msgid ""
 "It took me a while to realize what happened, still affected by the "
 "overwhelming pull of the energy released by our vanquished foe, and the loss "
@@ -10863,6 +10967,15 @@ msgid ""
 "to the surface. That obviously didn’t work as I wanted, and I ended up too "
 "far away from those cursed lands of eternal night, but how far?"
 msgstr ""
+"Il m'a fallu un moment pour réaliser ce qui s'est passé, toujours affecté "
+"par l'attraction écrasante de l'énergie libérée par notre ennemi vaincu, et "
+"la perte de mon seul ami restant, Malin Keshar.\n"
+"\n"
+"Dans ma tentative désespérée de m'échapper de la forteresse qui s'écrouler "
+"en sous-sol et à la perte de ma force de vie, j'avais utilisé le sort pour "
+"me téléporter à la surface. De toute évidence, cela n'a pas fonctionné comme "
+"je le voulais, et j'ai fini trop loin de ces terres maudites de la nuit "
+"éternelle, mais jusqu'à quel point ?"
 
 #. [part]
 #: After_the_Storm/episode2/storytxt.cfg:37
@@ -14016,20 +14129,25 @@ msgstr "Démon"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: After_the_Storm/units/monsters/Falcon.cfg:6
+#, fuzzy
 msgid "Falcon"
-msgstr ""
+msgstr "Faucon"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: After_the_Storm/units/monsters/Falcon.cfg:24
+#, fuzzy
 msgid ""
 "Majestic birds of prey, falcons are the some of the fastest flying creatures "
 "in the world."
 msgstr ""
+"Oiseaux de proie majestueux, les faucons sont quelques-unes des plus rapides "
+"créatures volantes dans le monde."
 
 #. [attack]: type=blade
 #: After_the_Storm/units/monsters/Falcon.cfg:32
+#, fuzzy
 msgid "claws"
-msgstr ""
+msgstr "griffes"
 
 #. [attack]: type=pierce
 #: After_the_Storm/units/monsters/Falcon.cfg:41
@@ -14789,11 +14907,27 @@ msgstr ""
 #~ "&#8226; Vous ne serez pas capable de rappeler ou de recruter des unités "
 #~ "ultérieurement jusqu'à la fin de la mission"
 
+#, fuzzy
+#~ msgid "???"
+#~ msgstr "???"
+
 #~ msgid "Zynavu-Malal"
 #~ msgstr "Zynavu-Malal"
 
 #~ msgid "Scenario notes:"
 #~ msgstr "Notes du scénario :"
+
+#, fuzzy
+#~ msgid "No description available yet."
+#~ msgstr "Aucune description n'est disponible pour le moment."
+
+#, fuzzy
+#~ msgid "chill wave"
+#~ msgstr "Onde de frisson"
+
+#, fuzzy
+#~ msgid "shadow wave"
+#~ msgstr "Onde obscure"
 
 #, fuzzy
 #~ msgid ""
