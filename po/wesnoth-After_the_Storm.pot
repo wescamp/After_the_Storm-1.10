@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-03-05 17:19+0100\n"
+"POT-Creation-Date: 2012-03-13 02:32-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7387,22 +7387,22 @@ msgid "I would prefer to distance myself from civilization again, after this is 
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/common.lua:553
+#: ./After_the_Storm/lua/common.lua:704
 msgid "An inconsistency has been detected, and the scenario might not continue working as originally intended."
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/common.lua:554
+#: ./After_the_Storm/lua/common.lua:705
 msgid "Please report this to the campaign maintainer!"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/common.lua:555
+#: ./After_the_Storm/lua/common.lua:706
 msgid "Message:"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/common.lua:557
+#: ./After_the_Storm/lua/common.lua:708
 msgid "Error"
 msgstr ""
 
