@@ -2,6 +2,87 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.7.4:
+--------------
+* Graphics:
+  * New or updated unit graphics: Shaxthal Warlord Nar-Hamoth
+
+* Music:
+  * All current music tracks have been moved to a separate add-on,
+    imaginatively titled "AtS Music". This add-on is now an optional dependency
+    for those who can't afford downloading it or don't play with music enabled.
+    When absent, the AtS campaign menu entries for each episode will include a
+    notice stating so.
+
+* Scenarios:
+  * E2S5 - The Eastern Front:
+    * Added a time-over dialog sequence.
+    * Added an additional dialog sequence focusing on a specific
+      player character.
+  * E2S6 - The Voyage Home:
+    * Added a time-over dialog sequence.
+  * E2S7 - Proximus:
+    * Added a time-over dialog sequence.
+  * E2S8 - And then there was Chaos:
+    * Fixed elves not getting the Loyal trait.
+  * E2S9 - New Hive:
+    * Fixed Shaxthal Worms changing colors when moving.
+    * Reduced starting gold.
+  * E2S10 - The Betrayal:
+    * Fixed multiple "invalid WML array index" warnings at the start.
+    * Reduced starting gold.
+  * E2S11 - A Final Confrontation:
+    * Made the glyph guardians a little more competent.
+  * Healing glyphs no longer render affected units unable to attack on the
+    same turn.
+
+* Units:
+  * Balancing:
+    * Increased arcane damage resistance for most Shaxthal units from -50% to
+      -20%.
+    * Decreased Demon Zephyr's movement cost on deep water terrains from 2 to 1.
+    * Decreased Demon Zephyr's movement cost on unwalkable terrains from 3 to 1.
+  * Reimplemented NPC bird behavior code in Lua.
+  * Renamed "Shaxthal Warlord" unit type to "Shaxthal Warlord Narhamoth";
+    this breaks old saved games of E1S9.1 (The Triad, part 1) during turns.
+
+
+Version 0.7.3:
+--------------
+* Graphics:
+  * New or updated unit graphics: Dusk Faerie, Night Nymph, Nightshade Fire.
+
+* Scenarios:
+  * E1S7 - The Search for the Past:
+    * Update objectives accordingly to remind the player to move Elynia to the
+      sealed glyph when she doesn't find it first.
+  * E1S9.1 - The Triad, part 1:
+    * Minor graphic improvements.
+  * E1S12 - The Queen:
+    * Fixed multiple "cannot show message" warnings.
+  * E2S2 - The Heart Forest:
+    * Tweaked the initial spawn locations of Allyna and her pursuers in an
+      attempt to make the ambush event a little less frustrating.
+  * E2S4 - Shifting Allegiances:
+    * Various map and code changes to increase difficulty.
+  * E2S12 - Fate:
+    * Minor graphic improvements.
+
+* Units:
+  * New or updated descriptions: Chaos Lorekeeper.
+  * Improved unit animations: Dusk Faerie, Night Nymph, Nightshade Fire, Faerie
+    Avatar, Shaxthal Queen.
+  * Optimized or fixed unit animations: Goliath, Sylvan Warden, Sprite, Fire
+    Faerie, Dryad, Forest Spirit, Shaxthal Warlord.
+  * Balancing:
+    * Increased Forest Spirit's resistance to fire damage from 0% to 20%.
+      * Note that this is actually a bugfix; the original fire resistance
+        specified was 20%, but there was spurious left-over code switching
+        it to 0%.
+    * Increased Forest Spirit's resistance to arcane damage from -20% to -10%.
+    * Decreased Forest Spirit's resistance to cold damage from 70% to 0%.
+
+
 Version 0.7.2:
 --------------
 * Scenarios:

@@ -1,3 +1,8 @@
+---
+-- Lua WML actions that are intended specifically for use in the After the Storm
+-- campaign.
+---
+
 local helper = wesnoth.require "lua/helper.lua"
 
 ----------
@@ -51,11 +56,13 @@ function wesnoth.wml_actions.deactivate_and_serialize_sides(cfg)
 	local variable = cfg.variable or "sides"
 	local array_index = 0
 
-	wesnoth.set_variable(variable)
+	wesnoth.set_variable(variable, {})
 
 	for t, side_number in helper.get_sides(cfg) do
 		-- wesnoth.message("WML", string.format("store side %u", side_number))
 		local side_store = string.format("%s[%u]", variable, array_index)
+
+		wesnoth.set_variable(side_store, {})
 
 		wesnoth.wml_actions.store_side {
 			variable = side_store, side = side_number
@@ -111,12 +118,3 @@ function wesnoth.wml_actions.store_unit_can_move_on_current_terrain(cfg)
 		(wesnoth.unit_movement_cost(u, wesnoth.get_terrain(u.x, u.y)) < u.max_moves))
 end
 
------------
--- E2S12 --
------------
-
-function wesnoth.wml_actions.hidden_unit(cfg)
-	local u = wesnoth.create_unit(cfg)
-	u.hidden = true
-	wesnoth.put_unit(u)
-end
