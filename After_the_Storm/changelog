@@ -2,6 +2,32 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.8.0:
+--------------
+* Scenarios:
+  * Mal Hekuba now wears purple TC as he did in IftU.
+  * E3S0 - Opening (Within):
+    * New scenario.
+  * E3S1 - Beyond her Smile (A Light in the Darkness):
+    * New scenario.
+  * E3S2 - Return to Raelthyn (Reckoning):
+    * New scenario.
+  * E3S3 - Amidst the Ruins of Glamdrol (A Path to Follow):
+    * New scenario.
+
+* Units:
+  * Balancing:
+    * Increased Chaos Hound's recruit cost from 18 to 20.
+    * Increased Shaxthal Razorbird's recruit cost from 18 to 19.
+    * Decreased Shaxthal Runner Drone's ranged attack strength from 8-3 to 7-3.
+  * Fixed invisible Chaos Longbowman and Heavy Longbowman units due to missing
+    graphics.
+  * Fixed Elvish Trapper and Elvish Prowler disappearing during animations.
+  * Fixed NPC bird code deleting the previous on-map unit when moving a
+    bird to an occupied hex (i.e. worms in E2S9).
+  * Removed Kri'tan.
+
+
 Version 0.7.4:
 --------------
 * Graphics:
