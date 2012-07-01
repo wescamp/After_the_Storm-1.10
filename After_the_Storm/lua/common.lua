@@ -397,7 +397,7 @@ end
 -- Counts the amount of matching units.
 --
 -- [count_units]
---     ... SLF ...
+--     ... SUF ...
 --     variable=unit_count
 -- [/count_units]
 ---
@@ -411,4 +411,32 @@ function wesnoth.wml_actions.count_units(cfg)
 	else
 		wesnoth.set_variable(varname, #units)
 	end
+end
+
+---
+-- Retrieves the given unit's portrait file path, or the
+-- fallback image with TC applied on it if there's no portrait
+-- defined.
+--
+-- [store_unit_portrait]
+--     ... SUF ...
+--     variable=unit_portrait
+-- [/store_unit_portrait]
+---
+function wesnoth.wml_actions.store_unit_portrait(cfg)
+	local u = wesnoth.get_units(cfg)[1] or helper.wml_error("[store_unit_portrait]: Could not match any units")
+	local varname = cfg.variable or "unit_portrait"
+
+	local img = u.__cfg.profile
+
+	if (not img) or img ~= "unit_image" then
+		local mods = u.image_mods
+		if mods then
+			img = string.format("%s~%s~TC(%d,%s)", u.__cfg.image, mods, u.side, u.__cfg.flag_rgb)
+		else
+			img = string.format("%s~TC(%d,%s)", u.__cfg.image, u.side, u.__cfg.flag_rgb)
+		end
+	end
+
+	wesnoth.set_variable(varname, img)
 end
