@@ -2,8 +2,30 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.8.2:
+--------------
+* Scenario:
+  * E3S4.1 - Outpost of Hell:
+    * Limit Demon Shapeshifter spawns according to the difficulty level.
+    * Recall all loyal side 2 units for free at the start.
+    * Reveal Demon Shapeshifters with their remaining moves and attacks set to
+      zero during their controlling side's turn.
+  * E3S5 - Pass of Sorrows:
+    * Improved handling of non-Elynia units stepping on the monolith location
+      both before and after its "activation".
+
+* Units:
+  * Balancing:
+    * Decreased Demon Shapeshifter's HP from 47 to 44.
+    * Decreased Demon Shapeshifter's melee attack from 8-3 to 7-3.
+    * Decreased Demon Shapeshifter's ranged attack from 9-2 to 8-2.
+
+
 Version 0.8.1:
 --------------
+* Graphics:
+  * New or updated unit graphics: most Aragwaith units (wayfarer).
+
 * Scenarios:
   * E2S3.1 - Unrest in Raelthyn:
     * Updated to use Aragwaith units.
@@ -16,9 +38,6 @@ Version 0.8.1:
     * New scenario.
   * E3S5 - Pass of Sorrows (Gathering Storm):
     * New scenario.
-
-* Graphics:
-  * New or updated unit graphics: most Aragwaith units (wayfarer).
 
 * Sound effects:
   * Added hit and death sounds for Doors.
