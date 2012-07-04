@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-01 16:05-0400\n"
+"POT-Creation-Date: 2012-07-03 21:47-0400\n"
 "PO-Revision-Date: 2011-02-21 15:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -423,10 +423,10 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1133
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:582
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:476
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:556
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:558
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:270
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:559
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:819
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:568
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:830
 msgid "Death of Elynia"
 msgstr ""
 
@@ -532,7 +532,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #. [option]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:352
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2153
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2172
 msgid "Yes."
 msgstr ""
 
@@ -796,9 +796,9 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:576
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:474
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:488
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:554
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:571
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:557
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:556
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:573
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:566
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -2344,7 +2344,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:323
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:276
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:491
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:574
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:576
 msgid "Death of Horo"
 msgstr ""
 
@@ -2362,7 +2362,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:324
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:277
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:492
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:575
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:577
 msgid "Death of Kyara"
 msgstr ""
 
@@ -5810,7 +5810,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1135
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:584
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:478
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:558
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:560
 msgid "Death of Durvan"
 msgstr ""
 
@@ -7032,10 +7032,10 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1134
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:583
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:477
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:557
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:559
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:271
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:560
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:820
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:569
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:831
 msgid "Death of Anya"
 msgstr ""
 
@@ -10379,10 +10379,10 @@ msgstr ""
 #. [scenario]: id=02_01_Return_to_Raelthyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:585
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:479
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:559
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:561
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:272
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:561
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:821
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:570
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:832
 msgid "Death of Irylean"
 msgstr ""
 
@@ -11058,7 +11058,7 @@ msgstr ""
 #. [event]
 #. [event]: (id=Elynia) facing ne}
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:490
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:573
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:575
 msgid "Death of General Bardyl"
 msgstr ""
 
@@ -11332,43 +11332,43 @@ msgid "Meryl Ben"
 msgstr ""
 
 #. [objective]: condition=win
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:508
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:515
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:510
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:517
 msgid ""
 "Deploy barrels with explosives to destroy the six structures supporting the "
 "central keep in Aran-Balgur"
 msgstr ""
 
 #. [objective]: condition=win
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:508
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:510
 msgid "($beams_remaining structures remaining)"
 msgstr ""
 
 #. [objective]: condition=win
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:515
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:517
 msgid "(One structure remaining)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:525
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:527
 msgid "Running out of barrels with explosives"
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:553
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:570
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:555
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:572
 msgid "Secure the portal located within the central keep"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:602
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:604
 msgid ""
 "Aran-Balgur is really impressive. How could it fall to Uria’s forces so "
 "easily?"
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:607
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:609
 msgid ""
 "Some people say the lord of the stronghold was brutally killed by the Chaos "
 "thugs in the battlefield some time after their Emperor fell. The man left in "
@@ -11379,7 +11379,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:612
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:614
 msgid ""
 "Whatever happened in reality, they killed everyone. See the stains on the "
 "exterior walls? Everyone says it’s the blood of the former occupants. Rumor "
@@ -11387,22 +11387,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:617
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:619
 msgid "I guess... that explains why he’s such an unpleasant person."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:636
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:638
 msgid "I hope everyone is ready for the battle ahead of us."
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:641
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:643
 msgid "We are, my lady. What are your orders?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:646
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:648
 msgid ""
 "Just assist our allies with the siege and deal with whatever creatures guard "
 "the keep and the rumored portal. We ought to make this quick, for that "
@@ -11411,63 +11411,63 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:651
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:653
 msgid "You haven’t changed your mind..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:656
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:658
 msgid "Indeed, I have not."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:682
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:684
 msgid "I don’t like that sound..."
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:699
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:701
 msgid "It is time. At last... I’ll have my revenge..."
 msgstr ""
 
 #. [message]: speaker=Horo
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:704
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:706
 msgid "And what about us?"
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:709
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:711
 msgid ""
 "You two shall be allowed to leave once the battle is over — that is, "
 "assuming you survive."
 msgstr ""
 
 #. [message]: speaker=Kyara
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:714
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:716
 msgid "What if we lose?"
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:719
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:721
 msgid ""
 "You can rest assured our enemies will swiftly end your pitiful lives should "
 "it come to that."
 msgstr ""
 
 #. [message]: speaker=Kyara
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:724
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:726
 msgid "That’s truly motivating..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:733
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:735
 msgid ""
 "Durvan, what are you going to do after this is over? You said earlier you "
 "had some doubts about Elynia’s plan, and you..."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:738
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:740
 msgid ""
 "Yes, I won’t be going with you. Her plan seems just too risky... What the "
 "hell is she thinking? Didn’t you say Elorran himself knew his kind can’t be "
@@ -11477,12 +11477,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:743
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:745
 msgid "But..."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:748
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:750
 msgid ""
 "You two and the necromancer woman have all those magic abilities and powers "
 "I will never have. I’m tired of risking my life fighting along you against "
@@ -11492,41 +11492,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:753
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:755
 msgid "Heh, yes... But you were really brave in the valley..."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:758
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:760
 msgid "I was really <i>stupid</i>, and I wasn’t aware of that guy’s fate yet!"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:767
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:769
 msgid ""
 "I still think I will miss you... even if you rarely start a conversation! "
 "And I’m sure Elynia will miss you as well."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:772
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:774
 msgid "Sure..."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:780
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:782
 msgid "I wish you all the luck of the world to you two."
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [set_menu_item]: id=wmi_siege_charge_help
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1016
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1138
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1018
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1140
 msgid "Help: Using Charges"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1017
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1019
 msgid ""
 "In this scenario, most units under your control can carry barrels with "
 "explosives, which can be used to destroy structures and other units.\n"
@@ -11545,33 +11545,33 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1049
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1051
 msgid ""
 "Deploying these explosives so close to your encampment would be an "
 "incredibly ill-advised idea!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1072
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1074
 msgid ""
 "That is not an appropriate location for deploying these explosives. Try "
 "elsewhere."
 msgstr ""
 
 #. [set_menu_item]: id=wmi_siege_charge_deploy
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1152
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1154
 msgid "Deploy Charge"
 msgstr ""
 
 #. [set_menu_item]: id=wmi_siege_charge_drop
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1177
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1179
 msgid "Drop Charge"
 msgstr ""
 
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
 #. is Elynia.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1296
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1298
 msgid ""
 "elynia^You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11588,7 +11588,7 @@ msgstr ""
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
 #. is Anya.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1304
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1306
 msgid ""
 "anya^You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11603,7 +11603,7 @@ msgstr ""
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
 #. is Kyara.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1312
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1314
 msgid ""
 "kyara^You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11620,7 +11620,7 @@ msgstr ""
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
 #. is Durvan.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1320
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1322
 msgid ""
 "durvan^You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11634,7 +11634,7 @@ msgstr ""
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
 #. is the General Bardyl.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1328
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1330
 msgid ""
 "bardyl^You contemplate one of the barrels of explosives your superiors sent "
 "from Fort Rylgur before the Far North fell to those infernal bastards. You "
@@ -11645,7 +11645,7 @@ msgstr ""
 #. [then]
 #. This message is used when the unit attempting to pick up a barrel
 #. is one of the other female heroines.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1336
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1338
 msgid ""
 "female^You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11657,7 +11657,7 @@ msgstr ""
 #. [else]
 #. This message is used when the unit attempting to pick up a barrel
 #. is one of the other male heroes.
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1343
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1345
 msgid ""
 "You silently consider the possibility of rushing into the battlefield "
 "carrying this heavy barrel of explosives all by yourself. You wonder whether "
@@ -11667,65 +11667,65 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1391
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1393
 msgid ""
 "The unit you have chosen for this task is not able to lift the weight! You "
 "must try with another unit."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1406
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1408
 msgid "Should this unit carry the barrel with explosives?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1408
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1410
 msgid "Yes, pick up the barrel."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1418
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1420
 msgid ""
 "To drop or deploy the charge, right-click on the unit and choose the desired "
 "option from the context menu."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1425
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1427
 msgid "No, let someone else do it."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1458
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1460
 msgid "You cannot carry more than one barrel at once!"
 msgstr ""
 
 #. [message]
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1504
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1506
 msgid "Fire in the hole!"
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1622
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1624
 msgid ""
 "Blast it, we have wasted our explosives on the battlefield instead of saving "
 "them for the main keep! We can’t continue like this — retreat!"
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1791
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1793
 msgid ""
 "Destroy that enormous monster before it gets a chance to rain its fire upon "
 "our troops!"
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2024
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2043
 msgid "But... how?"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2029
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2048
 msgid ""
 "Shapeshifters. They are somewhat different to other demons in that the more "
 "mature individuals of their kind tend to be harder to kill without arcane "
@@ -11734,52 +11734,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2034
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2053
 msgid "How do you know that?"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2039
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2058
 msgid "Well, Elorran did tell me a lot of things about them..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2048
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2067
 msgid "(<i>to herself, aside</i>) ... mainly because I am one of them."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2065
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2084
 msgid "Finally, that thing was a real nuisance."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2078
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2097
 msgid "Are you leaving now, Elynia?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2083
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2102
 msgid "Well..."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2085
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2104
 msgid "Yes, I think it is the right time."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2089
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2108
 msgid "All right, then."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2096
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2115
 msgid "No. Our allies still need our help."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2100
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2119
 msgid ""
 "As much as I dislike General Bardyl and his people, we wouldn’t have "
 "achieved this victory without them. I think it’s best to assist them until "
@@ -11788,29 +11788,29 @@ msgid ""
 msgstr ""
 
 #. [set_menu_item]: id=wmi_leave_battle
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2105
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2124
 msgid "Leave Battle"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2139
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2158
 msgid ""
 "If you change your mind later, you can choose the <b>Leave Battle</b> option "
 "in the context menu by right-clicking on any unit or vacant hex."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2150
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2169
 msgid "Do you really wish to leave the battle?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2159
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2178
 msgid "No."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2239
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2258
 msgid "Let us find that portal."
 msgstr ""
 
@@ -11985,7 +11985,7 @@ msgid "Explore around"
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:284
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:286
 msgid ""
 "There’s absolutely <i>nothing</i> hinting at this place having served as a "
 "Chaos base of any sort in recent times. It’s completely deserted and ruined. "
@@ -11993,7 +11993,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:289
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:291
 msgid ""
 "No. I recognize that mountain range to the south. We... we never saw what "
 "lay north of it. We are a little farther from Kalari than I expected, but "
@@ -12002,22 +12002,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:297
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:299
 msgid "The solitude of this place is unsettling."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:318
-msgid "Ugh. The fog is getting thicker.."
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:320
+msgid "Ugh. The fog is getting thicker..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:378
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:380
 msgid "Elynia... you should see this."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:396
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:398
 msgid ""
 "These ruins appear to be centuries old — probably older than the Chaos "
 "Empire itself. I imagine they have remained untouched by our enemies because "
@@ -12026,59 +12026,59 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:401
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:403
 msgid "There’s a large monolith over there."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:434
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:440
 msgid "Elynia should be the one to investigate this monolith."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:447
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:456
 msgid ""
 "I don’t understand this inscription — some glyphs vaguely resemble the "
 "ancient ceremonial Elvish script, but I don’t recognize the rest."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:454
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:463
 msgid "The wind blows."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:459
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:468
 msgid "Wait..."
 msgstr ""
 
 #. [message]: speaker=ruins ghost 4
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:529
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:538
 msgid "... Mal-Zagarn..."
 msgstr ""
 
 #. [message]: speaker=ruins ghost 3
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:534
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:543
 msgid "... come..."
 msgstr ""
 
 #. [message]: speaker=ruins ghost 2
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:539
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:548
 msgid "... she..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:548
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:557
 msgid "Wh— What’s going on?"
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:553
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:562
 msgid "This pass is inhabited by restless spirits of the past! My lady!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:609
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:620
 msgid ""
 "There seem to be more undead creatures crawling out of that cavern. We "
 "should go and wipe them out of the way if we want to find a way out of this "
@@ -12086,29 +12086,29 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Algessel
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:621
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:632
 msgid "Thank... you..."
 msgstr ""
 
 #. [message]: speaker=Vissalen
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:651
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:662
 msgid "Free..."
 msgstr ""
 
 #. [message]: speaker=Vissalen
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:660
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:671
 msgid "... at last..."
 msgstr ""
 
 #. [message]: speaker=Elynia
 #. [part]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:665
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:676
 #: After_the_Storm/episode3/storytxt.cfg:83
 msgid "Who are you?"
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:693
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:704
 msgid ""
 "Long ago, our ancestors came from the Great Southern Desert seeking fertile "
 "lands to settle. They gave up much to get to this valley; their lives, their "
@@ -12126,7 +12126,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:701
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:712
 msgid ""
 "One day, a man shrouded in darkness came. His eyes were bright like Naia’s "
 "never-ending shine; his mouth, concealed by twisted metal and flesh. "
@@ -12142,7 +12142,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:707
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:718
 msgid ""
 "Years later, the man returned, but not with a handful of trusted followers. "
 "Instead, he brought with him unspeakable horrors from the Abyss to rain acid "
@@ -12161,7 +12161,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:713
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:724
 msgid ""
 "The enraged Goddess of Life cursed us to linger around in this form, "
 "dwelling beneath the caves beneath the earth; the light of the suns, once "
@@ -12179,99 +12179,99 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:719
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:730
 msgid ""
 "We may still be able to find Her on the other side of the veil, and bask in "
 "the glory of her song..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:743
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:754
 msgid "Argan..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:752
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:763
 msgid "Elynia..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:757
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:768
 msgid "I— I am fine. Don’t worry about it."
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:817
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:828
 msgid "Proceed to the southern cavern exit with Elynia"
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:843
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:854
 msgid ""
 "We don’t know what lies outside. Are you sure you want to proceed, my lady?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:848
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:859
 msgid "Allow me to ponder this for a moment..."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:850
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:861
 msgid "Yes, I think it’s time to go."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:856
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:867
 msgid ""
 "No, let us see whether there might be something else of value in these caves "
 "first."
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:860
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:871
 msgid "Very well."
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:958
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:969
 msgid "A lone troll?"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:965
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:976
 msgid "He bears an unusual sigil on his armor for a troll..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:976
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:987
 msgid "Hail there, whoever you are. Are you our enemy?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:986
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:997
 msgid ""
 "The old battle-hardened troll stared at the sky for a minute before "
 "answering, while Anya and Irylean eyed each other nervously."
 msgstr ""
 
 #. [message]: speaker=Cron
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:991
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1002
 msgid "Cron works for no-one but the storm lady."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:996
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1007
 msgid "(<i>whispering</i>) Elynia, would that be..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1001
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1012
 msgid "(<i>whispering</i>) Yes, I think so."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1006
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1017
 msgid ""
 "Cron, if you allow me to ask, where is this person? We... may or may not "
 "have arranged a meeting with her, here. This is a quite urgent matter, "
@@ -12279,12 +12279,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cron
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1011
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1022
 msgid "(<i>pointing at the sky</i>) There."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1045
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1056
 msgid ""
 "The demoness descended from the sky in an impressive whirl of dust and "
 "leaves. Anya and Irylean stared in awe at her, and immediately knew they "
@@ -12298,19 +12298,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1052
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1063
 msgid ""
 "(<i>whispering</i>) All right... I <i>think</i> these two look rather "
 "frightening..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1057
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1068
 msgid "Ergea, Demon Lord of the Storms, I suppose?"
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1062
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1073
 msgid ""
 "That is correct, Elynia, the Lady of Light. I have been eagerly awaiting "
 "this moment for weeks. What took you and your party so long? I heard you "
@@ -12320,14 +12320,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1067
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1078
 msgid ""
 "And your plans are intended to help us, or is this just part of a convoluted "
 "scheme to catch me off-guard near your headquarters?"
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1072
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1083
 msgid ""
 "My priority is putting a halt to Uria’s own scheme, preferably while keeping "
 "collateral damage to a minimum. There just are not a lot of people these "
@@ -12338,43 +12338,43 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1077
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1088
 msgid "Elorran...?"
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1082
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1093
 msgid ""
 "I tried to warn him that Zhangor sent his new pets after him, but he never "
 "allowed my minions near his own. I assume he never told you that—"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1087
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1098
 msgid "Repeat that name."
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1092
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1103
 msgid ""
 "Zhangor? He recently became the Fist of Uria. I thought Elorran and you of "
 "all people on Irdya would know."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1101
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1112
 msgid "Elynia? You don’t look good..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1108
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1119
 msgid ""
 "Wh— why is he here? Why is he... on Irdya... again? I— I did everything "
 "within my power to... to..."
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1113
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1124
 msgid ""
 "Destroying a shapeshifter of his level is nigh impossible; and frankly, you "
 "never truly understood how to use the Power of the Union effectively. Argan "
@@ -12384,19 +12384,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1118
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1129
 msgid "Will you help me?"
 msgstr ""
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1123
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1134
 msgid ""
 "I can help you, if you are willing to help us — but first I need to talk "
 "with you alone."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1132
+#: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:1143
 msgid "... Very well."
 msgstr ""
 
@@ -13546,7 +13546,7 @@ msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
 msgstr ""
 
 #. [transient_message]
-#: After_the_Storm/macros/scenario-utils.cfg:424
+#: After_the_Storm/macros/scenario-utils.cfg:471
 msgid "You cannot recruit or recall units at this time!"
 msgstr ""
 
