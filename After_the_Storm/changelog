@@ -2,9 +2,35 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.8.3:
+--------------
+* General:
+  * Preliminary (untested) Wesnoth 1.11.0 support. There might be serious
+    campaign-specific bugs, so players on this version should report their
+    experience regardless of failure or success. This same version of the
+    campaign will continue to support Wesnoth 1.10 until Wesnoth 1.12 RC 1 is
+    released at an indeterminate point in the future.
+
+* Scenarios:
+  * Replaced a bunch of instances of "in the battlefield" with "on the
+    battlefield".
+  * E1S9.1 - The Triad, part 1:
+    * Minor cosmetic changes that totally have no plot significance whatsoever.
+  * E3S4.1 - Outpost of Hell:
+    * Make sure to remove the demolition ability overlay from units when the
+      siege charges are disabled by the boss event.
+    * Prevent log spam about retrieving non-existent WML variables immediately
+      before and after the boss event.
+  * E3S6 - Divergence:
+    * New scenario, disabled in production until the rest is completed.
+
+* Units:
+  * Allow the Demon Shapeshifter to get the default AMLA.
+
+
 Version 0.8.2:
 --------------
-* Scenario:
+* Scenarios:
   * E3S4.1 - Outpost of Hell:
     * Limit Demon Shapeshifter spawns according to the difficulty level.
     * Recall all loyal side 2 units for free at the start.

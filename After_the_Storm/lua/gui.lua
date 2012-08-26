@@ -14,36 +14,58 @@ local T = helper.set_wml_tag_metatable {}
 --     caption=(tstring)
 --     message=(tstring)
 --     transparent=(boolean)
+--     image=(image path)
 -- [/transient_message]
 ---
 function wesnoth.wml_actions.transient_message(cfg)
+	-- HACK: Don't set a border size for the image cell when
+	--       there's no image to display; this way it doesn't
+	--       result in some empty space to the left of the text.
+	local image_margin = 0
+	if cfg.image ~= nil then
+		image_margin = 5
+	end
+
 	local dd = {
 		maximum_width = 800,
 		maximum_height = 600,
 		click_dismiss = true,
 		T.helptip { id="tooltip_large" }, -- mandatory field
 		T.tooltip { id="tooltip_large" }, -- mandatory field
+
 		T.grid {
 			T.row {
 				T.column {
-					border = "all", border_size = 5,
-					vertical_alignment = "top",
-					horizontal_alignment = "left",
-					T.label {
-						id = "caption",
-						definition = "title"
-					}
-				}
-			},
-			T.row {
+					border = "all", border_size = image_margin,
+					horizontal_alignment = "center",
+					vertical_alignment = "center",
+					T.image { id = "image" }
+				},
 				T.column {
-					border = "all", border_size = 5,
-					vertical_alignment = "top",
-					horizontal_alignment = "left",
-					T.label {
-						id = "message",
-						definition = "wml_message",
-						wrap = true
+					T.grid {
+						T.row {
+							T.column {
+								border = "all", border_size = 5,
+								vertical_alignment = "top",
+								horizontal_alignment = "left",
+								T.label {
+									id = "caption",
+									definition = "title"
+								}
+							}
+						},
+						T.row {
+							T.column {
+								border = "all", border_size = 5,
+								vertical_alignment = "top",
+								horizontal_alignment = "left",
+								T.label {
+									id = "message",
+									definition = "wml_message",
+									wrap = true
+								}
+							}
+						}
 					}
 				}
 			}
@@ -62,6 +84,64 @@ function wesnoth.wml_actions.transient_message(cfg)
 
 	local function preshow()
 		wesnoth.set_dialog_value(caption, "caption")
+		wesnoth.set_dialog_value(message, "message")
+
+		if cfg.image then
+			wesnoth.set_dialog_value(cfg.image, "image")
+		end
+	end
+
+	wesnoth.show_dialog(dd, preshow, nil)
+end
+
+---
+-- Displays a simple transient message at the top, without any
+-- captions or images.
+--
+-- [top_message]
+--     message=(tstring)
+-- [/top_message]
+---
+function wesnoth.wml_actions.top_message(cfg)
+	local dd = {
+		definition = "message",
+
+		vertical_placement = "top",
+		horizontal_placement = "center",
+
+		-- TODO: we can't use manual placement yet because then the width and height
+		--       become static and the game fails if the text doesn't fit later.
+		--
+		-- automatic_placement = false,
+		-- x = "(screen_width / 2)",
+		-- the menu bar height (26 px) plus the standard margin size
+		-- y = "(26 + 5)",
+		-- width = 200,
+		-- height = 100,
+
+		maximum_width = 800,
+		maximum_height = 600,
+
+		click_dismiss = true,
+
+		T.helptip { id="tooltip_large" },
+		T.tooltip { id="tooltip_large" },
+
+		T.grid {
+			T.row {
+				T.column {
+					border = "all", border_size = 20,
+					horizontal_alignment = "center",
+					vertical_alignment = "center",
+					T.label { id = "message", definition = "default" }
+				}
+			}
+		}
+	}
+
+	local message = cfg.message or ""
+
+	local function preshow()
 		wesnoth.set_dialog_value(message, "message")
 	end
 
