@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-26 03:39+0200\n"
+"POT-Creation-Date: 2012-09-04 20:56-0400\n"
 "PO-Revision-Date: 2012-05-12 07:38+0200\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: french\n"
@@ -15640,7 +15640,7 @@ msgid ""
 msgstr ""
 
 #. [lua]: preshow
-#: After_the_Storm/lua/gui.lua:1062
+#: After_the_Storm/lua/gui.lua:687
 msgid ""
 "An inconsistency has been detected, and the scenario might not continue "
 "working as originally intended."
@@ -15649,22 +15649,22 @@ msgstr ""
 "fonctionner comme prévu initialement."
 
 #. [lua]: preshow
-#: After_the_Storm/lua/gui.lua:1063
+#: After_the_Storm/lua/gui.lua:688
 msgid "Please report this to the campaign maintainer!"
 msgstr "S'il vous plaît, signalez-le au responsable de campagne !"
 
 #. [lua]: preshow
-#: After_the_Storm/lua/gui.lua:1066
+#: After_the_Storm/lua/gui.lua:691
 msgid "Message:"
 msgstr "Message :"
 
 #. [lua]: preshow
-#: After_the_Storm/lua/gui.lua:1070
+#: After_the_Storm/lua/gui.lua:695
 msgid "Error"
 msgstr "Erreur"
 
 #. [lua]: preshow
-#: After_the_Storm/lua/gui.lua:1203
+#: After_the_Storm/lua/gui.lua:828
 msgid "Continue."
 msgstr ""
 
