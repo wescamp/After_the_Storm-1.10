@@ -2,6 +2,33 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.8.4:
+--------------
+* General:
+  * Dropped remaining compatibility code for Wesnoth 1.9.9 and earlier.
+
+* Graphics:
+  * New or updated items: crystal glyphs.
+  * New or updated unit graphics: Sprite, Fire Faerie, Forest Spirit, Dryad,
+    Elvish Acolyte, Elvish Ascetic, Elvish Mystic, Elvish Avatar,
+    Civilian/Messenger, Dusk Faerie, Night Nymph, Nightshade Fire.
+
+* Scenarios:
+  * E2S4 - Shifting Allegiances:
+    * Gave Tara a unique baseframe.
+
+* Units:
+  * Balancing:
+    * Farmland no longer applies for the effects of the Sylvan Spark and Sylvan
+      Essence abilities.
+    * Reduced Shaxthal elusivefoot defense on Deep Water from 20% to 10%
+      (Shaxthal Rayblade, Shaxthal Stormblade, Elyssa).
+  * Fixed Chaos Longbowman and Heavy Longbowman melee attack animations.
+  * Give Forest Spirits the 'spirit' trait instead of 'undead'. Note that as a
+    side-effect, existing instances of this unit will get both traits when
+    loading from saved games.
+
+
 Version 0.8.3:
 --------------
 * General:

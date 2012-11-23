@@ -4,6 +4,21 @@
 
 local helper = wesnoth.require "lua/helper.lua"
 
+-- helper.round() is not implemented in version 1.10.x.
+if wesnoth.compare_versions(wesnoth.game_config.version, '<', '1.11.0') then
+	function helper.round(number)
+		-- code converted from util.hpp, round_portable function
+		-- round half away from zero method
+		if number >= 0 then
+			number = math.floor( number + 0.5 )
+		else
+			number = math.ceil ( number - 0.5 )
+		end
+
+		return number
+	end
+end
+
 function safe_random(arg)
 	wesnoth.fire("set_variable", {
 		name = "temp_ats_lua_random",
@@ -31,6 +46,37 @@ local function end_var_scope(name, var)
 	else
 		wesnoth.set_variable(name, var)
 	end
+end
+
+---
+-- Assigns a given variable (presumed to be a direction value)
+-- the opposite of its current contents. If the variable doesn't
+-- seem to be a direction value, SE is used, setting it to NW.
+--
+-- [invert_direction]
+--     variable="direction"
+-- [/invert_direction]
+---
+function wesnoth.wml_actions.invert_direction(cfg)
+	local variable = cfg.variable or "direction"
+
+	local dir = wesnoth.get_variable(variable)
+
+	if dir == "s" then
+		dir = "n"
+	elseif dir == "sw" then
+		dir = "ne"
+	elseif dir == "nw" then
+		dir = "se"
+	elseif dir == "n" then
+		dir = "n"
+	elseif dir == "ne" then
+		dir = "sw"
+	else -- if dir == "se" then
+		dir = "nw"
+	end
+
+	wesnoth.set_variable(variable, dir)
 end
 
 ---
@@ -449,4 +495,88 @@ function wesnoth.wml_actions.store_unit_portrait(cfg)
 	end
 
 	wesnoth.set_variable(varname, img)
+end
+
+---
+-- Sets the given variable to a boolean value depending
+-- on whether the given conditional statements pass or not.
+--
+-- [set_conditional_variable]
+--     name= (required string: variable name)
+--     [condition]
+--         ...
+--     [/condition]
+-- [/set_conditional_variable]
+---
+function wesnoth.wml_actions.set_conditional_variable(cfg)
+	local varname = cfg.name
+	local condition = helper.get_child(cfg, "condition")
+
+	if varname == nil then
+		helper.wml_error("[set_conditional_variable]: Required 'name' attribute missing")
+	end
+
+	if condition == nil then
+		helper.wml_error("[set_conditional_variable]: Required '[condition]' tag missing")
+	end
+
+	wesnoth.set_variable(varname, wesnoth.eval_conditional(condition))
+end
+
+---
+-- Fades out the currently playing music and replaces
+-- it with silence afterwards.
+--
+-- NOTE: A possible timing issue in the sound code causes
+-- Wesnoth to emit some short (< 100 ms) noise at the end
+-- of the sequence when replacing the music playlist. This
+-- also normally occurs when quitting a scenario that uses
+-- silence.ogg to return to the titlescreen. It's advised
+-- to have some ambient noise playing at the same time
+-- [fade_out_music] is used. Furthermore, it's not possible
+-- to determine at this time whether music is enabled in
+-- the first place, so the fade out delay will always occur
+-- regardless of the user's preferences.
+--
+-- [fade_out_music]
+--     duration= (optional int, defaults to 1000 ms)
+-- [/fade_out_music]
+---
+function wesnoth.wml_actions.fade_out_music(cfg)
+	local duration = cfg.duration
+
+	if duration == nil then
+		duration = 1000
+	end
+
+	local function set_music_volume(percentage)
+		wesnoth.fire("volume", { music = percentage })
+	end
+
+	local delay_granularity = 10
+
+	duration = math.max(delay_granularity, duration)
+	local rem = duration % delay_granularity
+
+	if rem ~= 0 then
+		duration = duration - rem
+	end
+
+	local steps = duration / delay_granularity
+	--wesnoth.message(string.format("%d steps", steps))
+
+	for k = 1, steps do
+		local v = helper.round(100 - (100*k / steps))
+		--wesnoth.message(string.format("step %d, volume %d", k, v))
+		set_music_volume(v)
+		wesnoth.delay(delay_granularity)
+	end
+
+	wesnoth.set_music({
+		name = "silence.ogg",
+		immediate = true,
+		append = false
+	})
+
+	set_music_volume(100)
 end
