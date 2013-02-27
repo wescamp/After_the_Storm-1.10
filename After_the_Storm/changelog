@@ -2,6 +2,67 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.8.90.1:
+-----------------
+* General:
+  * All episodes have 13 scenarios each. Reasoning:
+    * E1: the line-up goes from E1S1 through E1S13
+    * E2: the line-up goes from E2S0 through E2S12
+    * E3: the line-up goes from E3S0 through E3S12 and E3S13 will be a bonus
+      feature in future versions
+
+* Scenarios:
+  * E3S4.1 - Outpost of Hell:
+    * Fix "[object]duration=level is deprecated" warning on 1.11.x.
+  * E3S6 - Divergence:
+    * Fix "[object]duration=level is deprecated" warning on 1.11.x.
+  * E3S10 - Blood:
+    * Avoid hitting BUG_ON path when the Blood Core handler runs after stage 2.
+    * Replaced comments causing wmlxgettext errors.
+
+* Units:
+  * Fix "[object]duration=level is deprecated" warnings on 1.11.x affecting
+    scenarios where units with the stun weapon special (e.g. Valdemon Basher)
+    are present.
+
+
+Version 0.8.90 a.k.a. "0.9.0 minus one":
+----------------------------------------
+* General:
+  * Dropped remaining compatibility code for Wesnoth 1.9.14 and earlier.
+
+* Scenarios:
+  * E1S11.2 - Return to Wesmere, part 2:
+    * Removed compatibility code for Wesnoth 1.9.5 through 1.9.8.
+  * E3S6 - Divergence:
+    * Enabled new scenario.
+  * E3S7A - Dark Fire:
+    * New scenario.
+  * E3S7B - Dark Sea:
+    * New scenario.
+  * E3S8A - Interim:
+    * New scenario.
+  * E3S8B - Destiny, part 1:
+    * New scenario.
+  * E3S8C - Breakdown:
+    * New scenario.
+  * E3S8D - Destiny, part 2:
+    * New scenario.
+  * E3S9 - Dark Depths:
+    * New scenario.
+  * E3S10 - Blood:
+    * New scenario.
+  * E3S11 - After the Storm:
+    * New scenario.
+  * E3S12 - Destiny, part 3:
+    * New scenario.
+
+* Units:
+  * Balancing:
+    * Increased Elynia's resistance to impact damage from -10% to 0%.
+    * Decreased Demon Shapeshifter's ranged attack from 8-2 to 7-2.
+
+
 Version 0.8.5:
 --------------
 * General:
@@ -10,7 +71,7 @@ Version 0.8.5:
   * Added title cards to every scenario in episode I and II that is supposed to
     have one, and added the production code for each individual scenario to all
     title cards.
-  * Changed the other in which title cards display during E3.
+  * Changed the order in which title cards display during E3.
   * Fixed hive spawns not getting random traits as intended.
   * New campaign difficulty menu icons for episodes II and III.
 
