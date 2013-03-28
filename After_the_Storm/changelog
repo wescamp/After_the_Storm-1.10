@@ -2,6 +2,65 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.9.0:
+--------------
+* General:
+  * Milestone: all scenarios completed.
+
+* Scenarios:
+  * Deployed code to work around a side-switching issue affecting Wesnoth
+    1.11.1 during post-Divergence (E3S6) scenarios. The corresponding
+    mainline bug is #20373 and it is fixed on 1.11.2.
+  * Fixed various "wesnoth.get_side is deprecated, use wesnoth.sides instead"
+    warnings on 1.11.x.
+  * Minor story text grammar, style, and punctuation amendments.
+  * E1S6 - Quenoth Isle (Elves of a Different Land):
+    * Minor prose tweaks.
+  * E1S7 - The Search for the Past:
+    * Minor prose tweaks.
+  * E1S12 - The Queen:
+    * Minor prose tweak.
+  * E1S13 - Death and Rebirth:
+    * Fixed minor prose issue ("take risky choices" -> "make risky choices").
+  * E2S2 - The Heart Forest:
+    * Minor prose tweak.
+  * E2S11 - A Final Confrontation:
+    * Minor cutscene improvements near the end.
+  * E2S12 - Fate:
+    * Minor cutscene improvements.
+  * E3S8C - Breakdown:
+    * Don't allow summoning Fire Guardians until the player enters the
+      underground river passage.
+    * Fix objectives display inconsistencies throughout the scenario.
+    * Minor cutscene improvements.
+  * E3S8D - Destiny, part 2:
+    * Fixed Anya's movements not being undoable.
+  * E3S9: Dark Depths:
+    * Fixed minor cutscene glitches.
+  * E3S10 - Blood:
+    * Add a context menu item displaying a list of available attack
+      combinations and their effects.
+  * E313 - Epilogue:
+    * New scenario.
+
+* Units:
+  * Balancing:
+    * Decreased Demon Slashing Gale's melee attack from 11-3 to 10-3.
+    * Decreased Demon Slashing Gale's ranged attack from 10-5 to 9-4.
+  * Fixed Chaos Arbalestier ranged attack animation failing to trigger.
+  * Fixed Shaxthal Turret not getting the biomechanical trait.
+  * Fix multiple "Descriptions should no longer include the name as the first
+    line" warnings on 1.11.1 and later.
+  * Fix unit types with missing faction prefixes in their names:
+    * Arbalestier -> Chaos Arbalestier
+    * Cataphract -> Chaos Cataphract
+    * Crossbowman -> Chaos Crossbowman
+    * Heavy Longbowman -> Chaos Heavy Longbowman
+  * Hide private variations for regular unit types from the help system on
+    1.11.x.
+  * Killed Kri'tan.
+
+
 Version 0.8.90.1:
 -----------------
 * General:
