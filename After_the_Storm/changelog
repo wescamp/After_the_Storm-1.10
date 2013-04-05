@@ -2,6 +2,126 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.9.1:
+--------------
+* General:
+  * Added workaround code for a problem with the [lock_view] implementation and
+    its interaction with unit movement via [move_unit_fake]/[move_unit] on
+    Wesnoth 1.11.x.
+  * Made it so sequences using [animate_attack] do not display a floating label
+    when dealing 1 HP damage since most of the time this is a consequence of
+    dealing 100% HP on the target with kill=no, or other reasons along the same
+    line.
+
+* Graphics:
+  * New or updated unit graphics: Elynia, Ivyel, Argan.
+
+* Scenarios:
+  * Fixed several instances (E1S7, etc.) of sighted events taking place
+    prematurely on Wesnoth 1.11.x.
+  * Fixed several instances of loyal units auto-recall code causing warnings on
+    Wesnoth 1.11.x.
+  * Minor prose fixes, tweaks, and enhancements throughout the entire campaign.
+  * E1S7 - The Search for the Past:
+    * Glyphs needed to end the scenario are now marked with a blinking tile
+      outline (requires halos to be enabled in Display preferences).
+    * Minor cutscene improvements.
+    * Reworked message glyphs' code so their messages can be triggered as many
+      times as the player wants (NOTE: the last glyph triggered will still
+      unconditionally trigger the end of the scenario).
+  * E1S9.1 - The Triad, part 1:
+    * Minor gameplay improvements.
+    * Removed duplicate character line during the initial sequence.
+  * E1S9.2 - The Triad, part 2:
+    * Reworked some code for increased robustness.
+  * E1S9.3 - The Triad, part 3:
+    * Reworked some code for increased robustness.
+  * E1S10 - Tears:
+    * Fixed gold carryover from E1S8 (Fear) being reduced to its 40% (for an
+      effective carryover of 16%) when calculating the initial player gold
+      supply for this scenario.
+    * Reduced minimum starting gold to compensate for the bug fix above.
+  * E1S11.1 - Return to Wesmere, part 1:
+    * Fixed "retrieving member of non-existent WML container" warnings at the
+      start of the scenario.
+  * E1S11.2 - Return to Wesmere, part 2:
+    * Fixed spurious "retrieving member of non-existent WML container" warning
+      at the end of the scenario.
+  * E2S1 - By the Moonlight:
+    * Minor balancing changes.
+  * E2S4 - Shifting Allegiances:
+    * Minor map balancing tweaks.
+    * Reduced turn limit from 34/33/32 to 28/27/26.
+    * Other minor balancing changes.
+  * E2S7 - Proximus:
+    * Fixed minor fog refresh issues during the initial cutscene.
+  * E2S8 - And then there was Chaos:
+    * Minor balancing changes to increase difficulty.
+  * E2S9 - New Hive:
+    * Minor balancing changes.
+  * E3S3 - Amidst the Ruins of Glamdrol:
+    * Apply the default AMLA to Kyara and Horo a predefined amount of times on
+      prestart according to the difficulty level.
+    * Made it so neither the player nor Nar-hamoth can land a hit on each other.
+  * E3S4 - Outpost of Hell:
+    * Fix specific units being unintentionally visible during a white screen
+      sequence.
+    * Fixed "trying to remove non-existent menu item" warning at the end of
+      the scenario on Wesnoth 1.11.x under certain conditions.
+    * Make sure side 2 units also get their demolition ability and overlay
+      removed at the end.
+  * E3S5 - Pass of Sorrows:
+    * Make the teleportation/exposition event in the middle of the scenario
+      work as intended.
+  * E3S7B - Dark Sea:
+    * Make the northwestern Shaxthal and eastern undead sides less prone to
+      stealing player villages.
+  * E3S9 - Dark Depths:
+    * Minor boss fight improvements.
+    * Minor cutscene improvements.
+  * E3S10 - Blood:
+    * Made the foreshadowing moon combination have a x4 multiplier effect
+      instead of x5 on all difficulty levels, not just Hard.
+  * E3S13 - Epilogue:
+    * Fixed some cutscene-only female units not having their gender specified
+      in WML or translatable strings.
+    * This scenario is now only accessible after recovering an object hidden in
+      a previous scenario.
+
+* Terrains:
+  * Experimental fix for the long-standing gate clipping issue when adjacent to
+    stone wall corners.
+
+* Units:
+  * Added sidebar icon for units affected by the 'stun' weapon special.
+  * Added sidebar icon for units affected by the movement range bind spell.
+  * Applied changes from bumbadadabum's "The Aragwaithi" add-on, versions 1.0.6
+    through 1.0.9, and "Era of Chaos" version 1.1.0:
+    * Archer HP increased from 26 to 28.
+    * Granted the new 'precision' weapon special to the Greatbow's ranged
+      attack.
+    * Increased Guard's blade resistance from 10% to 20%.
+    * Increased Guard's XP from 64 to 74.
+    * Decreased Guard's cost from 28 to 27.
+    * Decreased Pikeman's cost from 38 to 28.
+    * Increased Shield Guard's cost from 37 to 45.
+    * Increased Shield Guard's blade and pierce resistances from 10% to 20%.
+    * Granted the 'marksman' weapon special to the Swordsmaster.
+    * Renamed the Aragwaith Witch's image files (may break saved games from
+      E3S2).
+    * Various animation fixes and updates.
+  * Balancing:
+    * Increased Elynia's (E3) mystic fire attack strength from 5-4 to 5-5.
+    * Increased Elynia's (post-Divergence) ensnare attack strength from 9-3 to
+      9-4.
+    * Increased Forest Spirit's movement points from 5 to 6.
+    * Decreased Fallen Faerie's HP from 49 to 43.
+    * Decreased Fallen Faerie's wail attack strength from 12-3 to 11-3.
+  * Gave Anya and Elynia special AMLAs for E2 and E3.
+  * Fixed wrong description for Galas' bolas attack AMLA (stated magical as the
+    weapon special, it is actually slows).
+
+
 Version 0.9.0:
 --------------
 * General:
@@ -40,7 +160,7 @@ Version 0.9.0:
   * E3S10 - Blood:
     * Add a context menu item displaying a list of available attack
       combinations and their effects.
-  * E313 - Epilogue:
+  * E3S13 - Epilogue:
     * New scenario.
 
 * Units:

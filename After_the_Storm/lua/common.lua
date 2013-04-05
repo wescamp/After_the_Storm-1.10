@@ -283,7 +283,7 @@ function wesnoth.wml_actions.animate_attack(cfg)
 	local weapon_filter = helper.get_child(cfg, "filter_attack") or helper.wml_error("[animate_attack] missing required [filter_attack] tag")
 
 	-- we need to use shallow_literal field, to avoid raising an error if $this_unit (not yet assigned) is used
-	if not cfg.__shallow_literal.amount then helper.wml_error("[harm_unit] has missing required amount= attribute") end
+	if not cfg.__shallow_literal.amount then helper.wml_error("[animate_attack] has missing required amount= attribute") end
 
 	local attacker = wesnoth.get_units(attacker_filter)[1]
 	if not attacker then
@@ -372,7 +372,7 @@ function wesnoth.wml_actions.animate_attack(cfg)
 			text = string.format("%s%s%s", text, tostring(male_string), "\n")
 		end
 
-		defender[name] = true
+		defender.status[name] = true
 		add_tab = true
 
 		if animate and sound then -- for unhealable, that has no sound
@@ -392,9 +392,9 @@ function wesnoth.wml_actions.animate_attack(cfg)
 	end
 
 	-- HACK: do not display floating label when
-	-- the inflicted damage is zero
+	-- the inflicted damage is zero or one
 
-	if damage == 0 then
+	if damage <= 1 then
 		text = ""
 	end
 
@@ -617,5 +617,27 @@ function wesnoth.wml_actions.check_unit_in_range(cfg)
 		wesnoth.set_variable(variable, true)
 	else
 		wesnoth.set_variable(variable, false)
+	end
+end
+
+---
+-- Applies a given list of AMLAs to a unit matching the given SUF.
+--
+-- [apply_amlas]
+--     ... SUF ...
+--     [advance]
+--         ... contents of the [advancement] tag ...
+--     [/advance]
+--     [advance]
+--         ... another AMLA ...
+--     [/advance]
+--     ...
+-- [/apply_amlas]
+---
+function wesnoth.wml_actions.apply_amlas(cfg)
+	local u = wesnoth.get_units(cfg)[1] or helper.wml_error("[apply_amlas]: Could not match any units!")
+
+	for amla_cfg in helper.child_range(cfg, "advance") do
+		wesnoth.add_modification(u, "advance", amla_cfg)
 	end
 end
