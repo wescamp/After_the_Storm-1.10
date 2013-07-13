@@ -2,6 +2,133 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.9.5:
+--------------
+* Graphics:
+  * New or updated unit graphics: Elynia (E3), Magnum Suit, Elyssa (E3), Ivyel,
+    Allyna, E3S13 bystanders.
+
+* Scenarios:
+  * E1S2 - High Pass:
+    * Added time over event.
+  * E1S3 - Civil War in the North:
+    * Fixed Unidë disappearing at the very beginning of her initial dialog with
+      Galas at the end of the first turn of standard gameplay.
+  * E1S4 - Terror at Dusk
+    * Added time over event.
+  * E1S9.1, E1S9.2, E1S9.3 - The Triad:
+    * Added time over events.
+  * E2S4 - Shifting Allegiances:
+    * Added time over events.
+  * E2S6 - The Voyage Home:
+    * Added floating labels to indicate banished Errant Souls.
+  * E2S9 - New Hive:
+    * Added time over events.
+  * E2S10 - The Betrayal:
+    * Added time over events.
+
+
+Version 0.9.4:
+--------------
+* General:
+  * Solved "could not open image 'misc/ellipse-none-leader-*" errors on
+    Wesnoth 1.11.5 and later, affecting certain cutscenes including but not
+    limited to E2S12.
+
+* Graphics:
+  * New or updated unit graphics: Anya, Elynia.
+
+* Scenarios:
+  * E1S2 - High Pass:
+    * Solve [target] derprecation warnings on Wesnoth 1.11.5 and later.
+  * E1S4 - Terror at Dusk:
+    * Updated map to use the ^Ftd palm forest terrain on Wesnoth 1.11.x instead
+      of the denser ^Ft tropical forest.
+  * E1S10 - Tears:
+    * Solve [target] and protect_leader derprecation warnings on Wesnoth 1.11.5
+      and later.
+    * Updated map to use the ^Ftd palm forest terrain on Wesnoth 1.11.x instead
+      of the denser ^Ft tropical forest.
+  * E1S11.1 - Return to Wesmere, part 1:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+  * E2S1 - By the Moonlight:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+  * E2S2 - The Heart Forest:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+  * E2S7 - Proximus:
+    * Updated map to use the ^Ftd palm forest terrain on Wesnoth 1.11.x instead
+      of the denser ^Ft tropical forest.
+  * E2S8 - And then there was Chaos:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+  * E2S9 - New Hive:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+  * E2S10 - The Betrayal:
+    * Solve protect_leader derprecation warning on Wesnoth 1.11.5 and later.
+
+* Units:
+  * Changed the faerie race's internal id from 'fairy' to 'faerie', and
+    updated image paths accordingly. For compatibility, units on the map and
+    recall lists with the old race id and image paths will be automatically
+    fixed when loading a saved game, but the code in charge of this is not
+    all-inclusive. When in doubt, players are advised to resume from the last
+    start-of-scenario save available.
+  * Added smoke effects to the Iron Golem's ranged attack animation.
+
+
+Version 0.9.3:
+--------------
+* General:
+  * Solved wmlxgettext error on themes/ats-cutscene.cfg due to bug fix in
+    previous version.
+
+* Graphics:
+  * New or updated items: goal highlight overlay.
+
+* Scenarios:
+  * E3S2.1 - Return to Raelthyn:
+    * Fix Adavyan’s backstory event being triggered by every player move on
+      the map.
+  * E3S10 - Blood:
+    * Fixed viewport being permanently locked after the third stage begins on
+      Wesnoth 1.11.x.
+
+
+Version 0.9.2:
+--------------
+* General:
+  * Dropped workaround code from 0.9.0 for a bug causing side data loss
+    throughout Episode III on Wesnoth 1.11.1. Use Wesnoth 1.11.2 or later
+    instead.
+  * Various code optimizations taking advantage of features introduced during
+    Wesnoth 1.9.x that were not used before AtS E3S7.1 before.
+
+* Graphics:
+  * New or updated unit graphics: Uria.
+
+* Scenarios:
+  * E1S3 - Civil War in the North:
+    * Fixed elvish sides being visible on the game Status Table before the
+      protagonists reach the fort.
+  * E3S2.1 - Return to Raelthyn:
+    * Added a statue prop with backstory information about Adavyan.
+
+* Units:
+  * Fixed "Terrain '**' has evaluated to 100 (cost) [...]" warnings on Wesnoth
+    1.11.x caused by Aragwaith units.
+  * Description changes:
+    * New descriptions for Verlissh Matrix Core, Matrix Flow System, Psy
+      Crawler, Psy Mindraider units.
+    * New Imps race description.
+    * New Spirits race description.
+    * Fixed typo in Demons race description.
+  * Made it so Verlissh Matrix Core and Matrix Flow System’s sprites are scaled
+    down on the sidebar only when standing unit animations are disabled.
+
+* User interface:
+  * Made sure cutscene theme with menu bar works on Wesnoth 1.11.5 and later
+    (affecting E1S6.2, E1S7x, E1S11x, E2S3.2, E2S5x).
+
+
 Version 0.9.1:
 --------------
 * General:
