@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 17:48-0400\n"
+"POT-Creation-Date: 2013-11-30 18:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,15 +39,15 @@ msgid ""
 "Have fun!"
 msgstr ""
 
-#: ./After_the_Storm/_main.cfg:88
+#: ./After_the_Storm/_main.cfg:85
 msgid "Music add-on “<i>AtS Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: ./After_the_Storm/_main.cfg:97
+#: ./After_the_Storm/_main.cfg:95
 msgid "Support for the latest Wesnoth development version (from the 1.11.x series) is currently highly <u>experimental</u> and largely untested. Please report your experiences at http://r.wesnoth.org/t32091 if you choose to play on this version."
 msgstr ""
 
-#: ./After_the_Storm/_main.cfg:105
+#: ./After_the_Storm/_main.cfg:104
 msgid "Version"
 msgstr ""
 
@@ -84,38 +84,38 @@ msgstr ""
 
 #. [about]
 #. [credits_text]
-#: ./After_the_Storm/about.cfg:93 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1084 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1092 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1100
+#: ./After_the_Storm/about.cfg:97 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1084 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1092 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1100
 msgid "Music"
 msgstr ""
 
 #. [about]
 #. [credits_text]
-#: ./After_the_Storm/about.cfg:113 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1078
+#: ./After_the_Storm/about.cfg:117 ./After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1078
 msgid "Aragwaith Faction"
 msgstr ""
 
 #. [about]
-#: ./After_the_Storm/about.cfg:125
+#: ./After_the_Storm/about.cfg:129
 msgid "SVN services, maintenance toolkit and primary hosting"
 msgstr ""
 
 #. [entry]
-#: ./After_the_Storm/about.cfg:127
+#: ./After_the_Storm/about.cfg:131
 msgid "The Wesnoth-UMC-Dev Project"
 msgstr ""
 
 #. [about]
-#: ./After_the_Storm/about.cfg:131
+#: ./After_the_Storm/about.cfg:135
 msgid "Additional thanks to"
 msgstr ""
 
 #. [entry]
-#: ./After_the_Storm/about.cfg:160
+#: ./After_the_Storm/about.cfg:164
 msgid "You, for playing this campaign"
 msgstr ""
 
 #. [entry]
-#: ./After_the_Storm/about.cfg:163
+#: ./After_the_Storm/about.cfg:167
 msgid "Anyone else I could forget to mention"
 msgstr ""
 
@@ -320,7 +320,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=01_The_Skirmish
-#: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:47
+#: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:48
 msgid "The Skirmish"
 msgstr ""
 
@@ -550,7 +550,7 @@ msgstr ""
 
 #. [message]: role=guard_2
 #. [option]: speaker=narrator
-#: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:431 ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2206 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3235 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3288
+#: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:431 ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2211 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3235 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3288
 msgid "Yes."
 msgstr ""
 
@@ -581,7 +581,7 @@ msgstr ""
 
 #. [message]: speaker=Morzey
 #: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:465
-msgid "Well, well. I have heard of necromancers helping our the northern country’s cause as of late, so I... suppose you can be trusted. Although, if you turn out to be working for our enemies we would be doomed either way. I beg of you to aid us in this battle; all we have left nowadays is the town militia, for which we can barely afford proper weapons."
+msgid "Well, well. I have heard of necromancers helping the northern country’s cause, so I... suppose you can be trusted. Although, if you turn out to be working for our enemies we would be doomed either way. I beg of you to aid us in this battle; all we have left nowadays is the town militia, for which we can barely afford proper weapons."
 msgstr ""
 
 #. [message]: speaker=Galas
@@ -646,7 +646,7 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: ./After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:567
-msgid "I <i>control</i> the dead. We don’t need to worry about them."
+msgid "We <i>control</i> the dead. We need not worry about them."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -661,7 +661,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=02_High_Pass
-#: ./After_the_Storm/episode1/scenarios/02_High_Pass.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:62
+#: ./After_the_Storm/episode1/scenarios/02_High_Pass.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:63
 msgid "High Pass"
 msgstr ""
 
@@ -790,7 +790,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=03_Civil_War
-#: ./After_the_Storm/episode1/scenarios/03_Civil_War.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:82
+#: ./After_the_Storm/episode1/scenarios/03_Civil_War.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:83
 msgid "Civil War in the North"
 msgstr ""
 
@@ -845,7 +845,7 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: ./After_the_Storm/episode1/scenarios/03_Civil_War.cfg:355
-msgid "There are signs of a battle in this area, and the smoke... it must come from that fortress in the distance!"
+msgid "I don’t like this... There are signs of a recent battle in this area."
 msgstr ""
 
 #. [message]: speaker=Galas
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=04_Terror_at_Dusk
-#: ./After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:105
+#: ./After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:106
 msgid "Terror at Dusk"
 msgstr ""
 
@@ -1197,7 +1197,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=05_Bay_of_Tirigaz
-#: ./After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:117
+#: ./After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:118
 msgid "Bay of Tirigaz"
 msgstr ""
 
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=06_01_Quenoth_Isle
-#: ./After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:142
+#: ./After_the_Storm/episode1/scenarios/06_01_Quenoth_Isle.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:143
 msgid "Quenoth Isle"
 msgstr ""
 
@@ -1736,7 +1736,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=06_02_Elves_of_a_Different_Land
-#: ./After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:142
+#: ./After_the_Storm/episode1/scenarios/06_02_Elves_of_a_Different_Land.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:143
 msgid "Elves of a Different Land"
 msgstr ""
 
@@ -1937,7 +1937,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=07_The_Search_for_the_Past, race=bats, type=Water Serpent, race=verlissh
-#: ./After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:173
+#: ./After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:174
 msgid "The Search for the Past"
 msgstr ""
 
@@ -2415,7 +2415,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=07x_Resolutions
-#: ./After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:173
+#: ./After_the_Storm/episode1/scenarios/07x_Resolutions.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:174
 msgid "Resolutions"
 msgstr ""
 
@@ -2507,7 +2507,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=08_Fear, id=event drone
-#: ./After_the_Storm/episode1/scenarios/08_Fear.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:222
+#: ./After_the_Storm/episode1/scenarios/08_Fear.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:223
 msgid "Fear"
 msgstr ""
 
@@ -3097,7 +3097,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=10_Tears
-#: ./After_the_Storm/episode1/scenarios/10_Tears.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:285
+#: ./After_the_Storm/episode1/scenarios/10_Tears.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:286
 msgid "Tears"
 msgstr ""
 
@@ -3351,7 +3351,7 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=11_Return_to_Wesmere_part_1_cutscene
-#: ./After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:307
+#: ./After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1_cutscene.cfg:5 ./After_the_Storm/episode1/storytxt.cfg:308
 msgid "Departure"
 msgstr ""
 
@@ -3910,13 +3910,13 @@ msgstr ""
 #. [part]
 #: ./After_the_Storm/episode1/storytxt.cfg:26
 msgid ""
-"I had hoped all such evil influence on Irdya would be over after all our sacrifices. For a while, I had the conviction that we could somehow restore our world’s former glory.\n"
+"I had hoped all such evil influence on Irdya would be over after all our sacrifices. For a while, I had the conviction that we could somehow restore our world’s past glory.\n"
 "\n"
 "But I was wrong."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:31
+#: ./After_the_Storm/episode1/storytxt.cfg:32
 msgid ""
 "I am Elynia, former disciple of the late Enchantress Niryone of the Ka’lian of Wesmere Forest. But many remember me instead as the Lady of Light, the blessed elf who fought along Argan, the Master of Darkness, and prevailed against the nigh invincible Demon Lord Zhangor.\n"
 "\n"
@@ -3924,7 +3924,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:36
+#: ./After_the_Storm/episode1/storytxt.cfg:37
 msgid ""
 "Our bond was so unbreakable, only the power of the Union itself could put an end to Argan’s corruption and suffering.\n"
 "\n"
@@ -3932,17 +3932,17 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:41
+#: ./After_the_Storm/episode1/storytxt.cfg:42
 msgid "There was a time when I was said to be pure of heart; that I was fit to wield this staff that once belonged to Niryone. But now, I fear that the evil I have committed could overtake my very soul. Ever since the Union left us, I feel as though I am not myself. I can no longer enjoy a gentle breeze, the taste of food, or fresh water. I do not think I could love again either."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:44
+#: ./After_the_Storm/episode1/storytxt.cfg:45
 msgid "This staff has suddenly become a burden, somehow. Is it because I am allowing myself to be overcome by regret and hesitation? The oath I broke... What if by killing Argan I have taken the next step in allowing myself to be corrupted by this unfathomable force? Is it my destiny to become another pawn in Uria’s schemes?"
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:48
+#: ./After_the_Storm/episode1/storytxt.cfg:49
 msgid ""
 "The Vast Sea seems to be in perpetual unrest now. It was not like this back when I was a young girl. Perhaps Irdya herself is trying to communicate something to us through the changing tides.\n"
 "\n"
@@ -3950,17 +3950,17 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:59
+#: ./After_the_Storm/episode1/storytxt.cfg:60
 msgid "I had not seen the high, snowy peaks of the Heart Mountains for a long time. The last time we traveled through them, one of Uria’s foul henchmen was in hot pursuit: Mal Hekuba, a powerful undead sorcerer of the Iron Triad; leaders of Uria’s cult on Irdya, and the Chaos Empire in Argan’s absence."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:63
+#: ./After_the_Storm/episode1/storytxt.cfg:64
 msgid "Even then, somehow his power seemed greater than Malin Keshar’s own. It would be highly unfortunate for us to come across him now, of all times, as our own necromancer seems to have been debilitated by the ordeal at the Empire’s capital."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:72
+#: ./After_the_Storm/episode1/storytxt.cfg:73
 msgid ""
 "We rested for one night, and swiftly resumed our travel back to the Far North. With their most powerful overlord gone for good, the undead creatures and their masters roaming about the mountains proved to be little more than an occasional nuisance.\n"
 "\n"
@@ -3968,7 +3968,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:77
+#: ./After_the_Storm/episode1/storytxt.cfg:78
 msgid ""
 "Naturally, their lives were cut short by their futile boldness.\n"
 "\n"
@@ -3976,17 +3976,17 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:83
+#: ./After_the_Storm/episode1/storytxt.cfg:84
 msgid "After many days, our trip finally came to an end: we were back in the northern country, safe and away from strife’s grasp. Or so it seemed at first."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:92
+#: ./After_the_Storm/episode1/storytxt.cfg:93
 msgid "We abandoned Aragwaith territory as agreed, never to return. It was the fairest deal for the elves."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:95
+#: ./After_the_Storm/episode1/storytxt.cfg:96
 msgid ""
 "The brash behavior of the new leaders of our kind has disappointed me deeply. In my times, only the eldest and wisest of elves could rise to the highest ranks as members of the Ka’lian in Wesmere; decisions were made after meticulous deliberation and careful planning, always taking into account our needs, desires, and hopes as a civilization. Selfish interests, personal quarrels, and such were swept aside for the purpose of our councils.\n"
 "\n"
@@ -3994,7 +3994,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:100
+#: ./After_the_Storm/episode1/storytxt.cfg:101
 msgid ""
 "I feel disappointed in myself as well. I should have guessed that this would happen if we could not concentrate our efforts in keeping our kin united under a single banner. We should not have spent so much time away from them. Or at the very least, we should have found someone who could fulfill my role as a mediator between our lords in the absence of Galas and I.\n"
 "\n"
@@ -4002,7 +4002,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:106
+#: ./After_the_Storm/episode1/storytxt.cfg:107
 msgid ""
 "Perhaps we will never learn what really happened that night.\n"
 "\n"
@@ -4010,257 +4010,257 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:118
+#: ./After_the_Storm/episode1/storytxt.cfg:119
 msgid "As it turned out, our arrival to Tirigaz could not be more timely."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:127
+#: ./After_the_Storm/episode1/storytxt.cfg:128
 msgid "True to his word, the orcish lord gave us the fastest transport ship in his possession; he also provided us with select orcish warriors for a crew, and enough provisions for many months of travel across the sea. However, he adamantly refused to allow us to hear the news brought by the messenger we saved, and evaded our inquiries about what prompted the saurian conflict."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:130
+#: ./After_the_Storm/episode1/storytxt.cfg:131
 msgid "With Mal Keshar’s help, I managed to pinpoint the approximate location of Zocthanol based on a faint, dark presence towards the southwest. We rested within the walls of Tirigaz and departed early on the next morning."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:133
+#: ./After_the_Storm/episode1/storytxt.cfg:134
 msgid "Never before in my life I expected to find myself so far from the forests of the Great Continent, surrounded by an endless body of water inhabited by all sorts of exotic creatures; somehow they did not interfere with our journey as we initially feared. Maybe they were aware of the importance of our mission for the life on Irdya."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:136
+#: ./After_the_Storm/episode1/storytxt.cfg:137
 msgid "The fear of failing to accomplish this mission and leading us to our deaths in the middle of the unknown did not let me sleep well for any single night. I stayed awake late during the long darkness, guarding the deck with Mal Keshar, contemplating the ever changing mood of the waves, pondering my mistakes, wondering what events continued to transpire on the Great Continent in our absence."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:139
+#: ./After_the_Storm/episode1/storytxt.cfg:140
 msgid "After countless days, we finally found our destination lit up by the setting suns."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:143
+#: ./After_the_Storm/episode1/storytxt.cfg:144
 msgid "We carefully planned our landing, and decided that it would be best to keep the orcs and the undead waiting on the ship while Galas and I contacted the elves and explained the situation to them. If they once had to survive in the wild, perilous desert, they surely wouldn’t have fond memories of such creatures."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:152
+#: ./After_the_Storm/episode1/storytxt.cfg:153
 msgid "The elves guided us through the forest toward the mountains at the island’s heart, without saying a word to us. We knew it was best to not ask them any questions or do anything that could seem suspicious until we met their authorities."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:155
+#: ./After_the_Storm/episode1/storytxt.cfg:156
 msgid "Their clothes, armor, and weapons seemed much more primitive compared to those used by Galas’ kinsmen. Apparently, much of our craft was forgotten by Quetor’el’s group and their descendants. As we approached the more populated areas, I noticed that even their building designs were much unlike those of their ancestors."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:164
+#: ./After_the_Storm/episode1/storytxt.cfg:165
 msgid "I had not heard of the name ‘Eloh’ in a very long time, but Galas and his people had heard of her from the dwarves who made contact with these elves long ago. That is just one of many names used to refer to the Guardian of the Arcane Flame who is said to have given life to all faerie beings, including us, elves. Nobody knows exactly when or how her legends first appeared, but the Quenoth elves have apparently forgotten, misinterpreted and exaggerated parts of them."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:167
+#: ./After_the_Storm/episode1/storytxt.cfg:168
 msgid "As it seems, the Quenoth elves thrive and live in peace despite lacking much of our civilization’s knowledge and skills. It may be better that way. They are less likely to be corrupted by Uria’s influences in these dark times."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:170
+#: ./After_the_Storm/episode1/storytxt.cfg:171
 msgid "Yechnagoth originally controlled a citadel in the heart of Zocthanol Isle where her body resided. Although both the body and the citadel were destroyed by the elves, we suspected that there was much more to find underground."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:174
+#: ./After_the_Storm/episode1/storytxt.cfg:175
 msgid "In the morning, we descended into the caves to search for other remains of the place. We found some unusually clean walls — which, as I expected, were hiding the existence of more complex underground tunnels below the island. It seems that Argan, or whoever first discovered Zocthanol, got some help to build the secret citadel."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:183
+#: ./After_the_Storm/episode1/storytxt.cfg:184
 msgid "Argan’s mention of ‘Norsulan’ technology in his records worried me. What if we were fighting for a vain purpose? Perhaps Uria’s influence has already caused permanent, irreversible damage on Irdya, and there’s nothing we can do to stop the enemy now?"
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:186
+#: ./After_the_Storm/episode1/storytxt.cfg:187
 msgid "The ancient information previously gathered by Galas, Anlindë and Mal Keshar matches what we have obtained from Argan’s lair...which he found out through Uria and her most knowledgeable demons. We are not alone. And the thought that there’s a world more technologically advanced than Irdya is...overwhelming."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:189
+#: ./After_the_Storm/episode1/storytxt.cfg:190
 msgid "Fortunately Uria’s forces are now separated by the barrier between our world and Inferno. Perhaps, now that they are weak and disorganized, we could have a chance to destroy what’s left of them: the Iron Triad and their followers."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:192
+#: ./After_the_Storm/episode1/storytxt.cfg:193
 msgid "But first we’ll need to deal with another problem. According to Mal Keshar, Argan abandoned Zocthanol Isle after Yechnagoth was defeated, but not before recovering the creature’s heart. Although her soul was effectively destroyed along with her replacement body, her source of power wasn’t directly connected to it, and Argan ordered his minions to preserve that heart beneath the ruined plains of Wesmere. I presume that the biomechanical guards we found in the caves there may be protecting it."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:195
+#: ./After_the_Storm/episode1/storytxt.cfg:196
 msgid "With that great source of power still intact and in Irdya, our time was running out. We decided to return to the Great Continent as soon as we could to contact our allies and tell them about the shaxthal hive in Wesmere."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:198
+#: ./After_the_Storm/episode1/storytxt.cfg:199
 msgid "I wish I could master the power of teleportation that I obtained from the crystal so we won’t have to waste so many days on the Vast Sea; unfortunately, I have not been able to concentrate enough to attempt using it."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:207
+#: ./After_the_Storm/episode1/storytxt.cfg:208
 msgid "We finally said goodbye to the peaceful island and departed the next day."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:210
+#: ./After_the_Storm/episode1/storytxt.cfg:211
 msgid "This was perhaps the first time I wanted to stay and forget about the happenings on the Great Continent. Ever since Galas and his group came to interrupt my eternal rest, it’s been a nightmare where everything is relentlessly trying to destroy us as part of that sinister plan to turn Irdya into a wasteland of suffering and decay."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:213
+#: ./After_the_Storm/episode1/storytxt.cfg:214
 msgid "I wish I could go back to the old times and prevent that disaster that ruined the world forever.”"
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:216
+#: ./After_the_Storm/episode1/storytxt.cfg:217
 msgid " — “Not everything went according to our plans."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:219
+#: ./After_the_Storm/episode1/storytxt.cfg:220
 msgid "A storm caught us by surprise and drove us off course. We barely resisted long enough to be greeted by the setting suns and a dense fog, finding ourselves before an unknown shoreline and an uncannily silent forest at dusk."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:223
+#: ./After_the_Storm/episode1/storytxt.cfg:224
 msgid "With our ship severely damaged, we decided to explore the land and try to decide what to do later."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:232
+#: ./After_the_Storm/episode1/storytxt.cfg:233
 msgid "In midst of the battle, a dark mist surrounded me, clouding my vision and piercing my head with an energy that was too strong to resist. Blinded by the pain, I tried to dispel it to no avail, and then heard a voice... a crystalline and beautiful female voice speaking in an unknown language. Then I felt as if I had fallen into a dark chasm, with no ground to hit."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:235
+#: ./After_the_Storm/episode1/storytxt.cfg:236
 msgid "The darkness..."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:238
+#: ./After_the_Storm/episode1/storytxt.cfg:239
 msgid "The fear..."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:241
+#: ./After_the_Storm/episode1/storytxt.cfg:242
 msgid "The strong pulling of Uria’s power knocked me unconscious. It defeated me. I had failed. Uria had caught me off guard."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:244
+#: ./After_the_Storm/episode1/storytxt.cfg:245
 msgid "When I opened my eyes it was already too late..."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:247
+#: ./After_the_Storm/episode1/storytxt.cfg:248
 msgid "My hands and feet were burning as I was chained to the floor of a grim dark cell, unable to move, screaming and writhing in pain. They had me where they wanted — defenseless, tortured by the cold iron, unable to escape, like a bird with a broken wing. My magic staff was nowhere to be seen, and I could not pronounce a single spell due to the excruciating pain."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:250
+#: ./After_the_Storm/episode1/storytxt.cfg:251
 msgid "The pain."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:253
+#: ./After_the_Storm/episode1/storytxt.cfg:254
 msgid "I don’t know how much time passed, for I was partially unconscious by the time they arrived to drag me out of the jail. Hours? Days? Who knows."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:256
+#: ./After_the_Storm/episode1/storytxt.cfg:257
 msgid "The Triad"
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:257
+#: ./After_the_Storm/episode1/storytxt.cfg:258
 msgid "But at last I was taken to meet my captors, face to face."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:266
+#: ./After_the_Storm/episode1/storytxt.cfg:267
 msgid "It’s really hard to admit your own mistakes, at times. It’s especially hard to accept reality once it turns against you by taking away those whom you love the most."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:269
+#: ./After_the_Storm/episode1/storytxt.cfg:270
 msgid "Galas was more than just a friend."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:272
+#: ./After_the_Storm/episode1/storytxt.cfg:273
 msgid "After Argan’s death I swore I would not get emotionally involved with anyone again. This isn’t the first time it’s happened since the curse that granted me long-lasting life — I know very well this overwhelming feeling of emptiness — but I did not realize I had already gotten too close to him."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:275
+#: ./After_the_Storm/episode1/storytxt.cfg:276
 msgid "I could never tell him what I really felt. I could never tell him why I <i>cared</i> so much."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:278
+#: ./After_the_Storm/episode1/storytxt.cfg:279
 msgid "Now I am on my own again, afraid of approaching Mal Keshar, whom I knew had started to care about Galas as his only friend. I am alienating everyone because of fear, this fear of becoming the instrument of their death."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:281
+#: ./After_the_Storm/episode1/storytxt.cfg:282
 msgid "I don’t know what to do anymore..."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:286
+#: ./After_the_Storm/episode1/storytxt.cfg:287
 msgid "But I know that Galas didn’t give up after Anlindë’s sacrifice. I have to carry on and put an end the plans of Elyssa and the Iron Council somehow, even if it could take a sacrifice of my own."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:295
+#: ./After_the_Storm/episode1/storytxt.cfg:296
 msgid "Mal Keshar’s statement was bold but sadly true. It was evidently foolish to not take advantage of that spell when we still had an opportunity — Galas would probably not have been killed by the new servant of Uria."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:298
+#: ./After_the_Storm/episode1/storytxt.cfg:299
 msgid "I know that I am expected to replace him at the helm of our little band, but it’s so difficult to do without remembering the circumstances of his demise, and the mistakes that led to it. I have to try to put those thoughts aside for the time being..."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:301
+#: ./After_the_Storm/episode1/storytxt.cfg:302
 msgid "We continued our march towards northeastern Wesmere, the place where Yechnagoth’s heart lies. A place I frequented during the times of Wesnoth, back when I still worked as an emissary for the elvish Ka’lian and later advisor for the Empire of Wesnoth, before the high circles were corrupted and my mission of peace turned into a vain fantasy."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:304
+#: ./After_the_Storm/episode1/storytxt.cfg:305
 msgid "Along the way I could spot a few familiar landmarks, ruined as they were, eroded by the elements, reminders of the former glory of the peoples of Irdya. The peaceful landscape was dominated by an ominous stronghold in the north, presumably guarding the entrance to the infested plains."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:307
+#: ./After_the_Storm/episode1/storytxt.cfg:308
 msgid "Return to Wesmere"
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:308
+#: ./After_the_Storm/episode1/storytxt.cfg:309
 msgid "As our living troops were exhausted from our journey across the desert, we decided to rest in the ruins of an ancient elvish outpost for a while, unsuspecting of our forthcoming final confrontation with the forces of Uria."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:317
+#: ./After_the_Storm/episode1/storytxt.cfg:318
 msgid "Even though I took part in the battle which devastated the once prosperous Wesmere Forest and witnessed its desolation in the aftermath, I am still shocked by the destruction caused by Zhangor in this place. This land is cursed — nothing will ever grow in it again for as long as Uria thirsts for revenge upon us for getting in her way."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:320
+#: ./After_the_Storm/episode1/storytxt.cfg:321
 msgid "I can’t help but ponder the words of the necromancer now that we head back into these caves. After our previous encounter with Argan’s power in here, Mal Keshar correctly guessed his identity as Uria’s puppet and the leader of the Chaos Empire. I was in denial about that — quite obvious, in hindsight — possibility then. Am I in denial of my own thirst for revenge now? Perhaps my quest isn’t as noble as other people perceive it."
 msgstr ""
 
 #. [part]
-#: ./After_the_Storm/episode1/storytxt.cfg:323
+#: ./After_the_Storm/episode1/storytxt.cfg:324
 msgid "“We aren’t that different after all.”"
 msgstr ""
 
@@ -7185,7 +7185,7 @@ msgid "Move Elynia to the central chamber"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:567 ./After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:678 ./After_the_Storm/macros/items.cfg:225
+#: ./After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:567 ./After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:678 ./After_the_Storm/macros/items.cfg:227
 msgid "Access granted."
 msgstr ""
 
@@ -9663,94 +9663,94 @@ msgid "Blast it, we have wasted our explosives on the battlefield instead of sav
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1823
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1828
 msgid "Destroy that enormous monster before it gets a chance to rain its fire upon our troops!"
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2071
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2076
 msgid "But... how?"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2076
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2081
 msgid "Shapeshifters. They are somewhat different to other demons in that the more mature individuals of their kind tend to be harder to kill without arcane magic than the rest. It’s said they are basically extinct, but some demon lords still keep them as slaves."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2081
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2086
 msgid "How do you know that?"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2086
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2091
 msgid "Well, Elorran did tell me a lot of things about them..."
 msgstr ""
 
 #. [message]: speaker=Anya
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2095
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2100
 msgid "(<i>to herself, aside</i>) ... mainly because I am one of them."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2112
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2117
 msgid "Finally, that thing was a real nuisance."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2125
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2130
 msgid "Are you leaving now, Elynia?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2130
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2135
 msgid "Well..."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2132
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2137
 msgid "Yes, I think it is the right time."
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2136
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2141
 msgid "All right, then."
 msgstr ""
 
 #. [option]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2143
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2148
 msgid "No. Our allies still need our help."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2147
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2152
 msgid "As much as I dislike General Bardyl and his people, we wouldn’t have achieved this victory without them. I think it’s best to assist them until the battle is over. But I’ll keep the portal in mind if things don’t go as planned later."
 msgstr ""
 
 #. [set_menu_item]: id=wmi_leave_battle
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2152
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2157
 msgid "Leave Battle"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2192
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2197
 msgid "If you change your mind later, you can choose the <b>Leave Battle</b> option in the context menu by right-clicking on any unit or vacant hex."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2203
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2208
 msgid "Do you really wish to leave the battle?"
 msgstr ""
 
 #. [message]: speaker=Argan
 #. [message]: speaker=Ergea
 #. [option]: speaker=narrator
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2212 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:2995 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3261 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3359 ./After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:357
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2217 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:2995 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3261 ./After_the_Storm/episode3/scenarios/08A_Interim.cfg:3359 ./After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:357
 msgid "No."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2286
+#: ./After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2291
 msgid "Let us find that portal."
 msgstr ""
 
@@ -15208,7 +15208,7 @@ msgstr ""
 
 #. [lua]: sigil_image_path
 #. [set_menu_item]: id=wmi_z_combo_attacks_info
-#: ./After_the_Storm/episode3/scenarios/10_Blood.cfg:331 ./After_the_Storm/lua/gui/combo_info_dialog.lua:1660
+#: ./After_the_Storm/episode3/scenarios/10_Blood.cfg:331 ./After_the_Storm/lua/gui/combo_info_dialog.lua:1077
 msgid "Attack Combinations"
 msgstr ""
 
@@ -16565,83 +16565,98 @@ msgstr ""
 
 #. [lua]: preshow
 #. [lua]: show_details
-#: ./After_the_Storm/lua/gui/bug.lua:2143 ./After_the_Storm/lua/gui/bug.lua:2180
+#: ./After_the_Storm/lua/gui/bug.lua:1956 ./After_the_Storm/lua/gui/bug.lua:1996
 msgid "Details"
 msgstr ""
 
 #. [lua]: show_details
-#: ./After_the_Storm/lua/gui/bug.lua:2144
+#: ./After_the_Storm/lua/gui/bug.lua:1957
 msgid "The following WML condition was unexpectedly reached:"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/bug.lua:2169
+#: ./After_the_Storm/lua/gui/bug.lua:1982
 msgid "An inconsistency has been detected, and the scenario might not continue working as originally intended."
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/bug.lua:2170
+#: ./After_the_Storm/lua/gui/bug.lua:1985
 msgid "Please report this to the campaign maintainer!"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/bug.lua:2173
+#: ./After_the_Storm/lua/gui/bug.lua:1989
 msgid "Message:"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/bug.lua:2179
+#: ./After_the_Storm/lua/gui/bug.lua:1995
 msgid "Error"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/character_action_dialog.lua:1550
+#: ./After_the_Storm/lua/gui/character_action_dialog.lua:967
 msgid "Continue."
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1871
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1288
 msgid "Effects:"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1886
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1303
 msgid "attack damage base value set to %d"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1891
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1308
 msgid "+%d bonus to attack damage"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1896
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1313
 msgid "−%d penalty to attack damage"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1901
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1318
 msgid "×%d multiplier bonus to attack damage"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1906
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1323
 msgid "÷%d divider penalty to attack damage"
 msgstr ""
 
 #. [lua]: preshow
-#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1922
+#: ./After_the_Storm/lua/gui/combo_info_dialog.lua:1339
 msgid "This combination is symmetric, and the attacks involved may be used in any order."
 msgstr ""
 
 #. [lua]: wesnoth.theme_items.unit_status
-#: ./After_the_Storm/lua/theme.lua:1032
+#: ./After_the_Storm/lua/theme.lua:840
 msgid "bound: This unit is bound to the movement range of another unit by a spell."
 msgstr ""
 
 #. [lua]: wesnoth.theme_items.unit_status
-#: ./After_the_Storm/lua/theme.lua:1038
+#: ./After_the_Storm/lua/theme.lua:846
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
+msgstr ""
+
+#. [lua]: wesnoth_version_compat_check
+#: ./After_the_Storm/lua/version.lua:2183
+msgid "After the Storm requires Wesnoth 1.10.0 or later."
+msgstr ""
+
+#. [lua]: wesnoth_version_compat_check
+#: ./After_the_Storm/lua/version.lua:2185
+msgid "After the Storm requires Wesnoth 1.10.0 or later. Versions 1.9.10 through 1.9.14 may work to some extent, but no support can be provided by the campaign maintainer in the forums."
+msgstr ""
+
+#. [lua]: wesnoth_version_compat_check
+#: ./After_the_Storm/lua/version.lua:2190
+msgid "After the Storm III is incompatible with Wesnoth versions 1.11.0 and 1.11.1 due to a team management bug. Please upgrade to the latest development version."
 msgstr ""
 
 #: ./After_the_Storm/macros/abilities.cfg:10
@@ -16917,7 +16932,7 @@ msgstr ""
 
 #. [else]
 #. [then]
-#: ./After_the_Storm/macros/items.cfg:120 ./After_the_Storm/macros/items.cfg:128
+#: ./After_the_Storm/macros/items.cfg:120 ./After_the_Storm/macros/items.cfg:129
 msgid "Do you want to be healed?"
 msgstr ""
 
@@ -16928,28 +16943,28 @@ msgstr ""
 
 #. [else]
 #. [then]
-#: ./After_the_Storm/macros/items.cfg:124 ./After_the_Storm/macros/items.cfg:130
+#: ./After_the_Storm/macros/items.cfg:125 ./After_the_Storm/macros/items.cfg:132
 msgid "Note: the glyph can do this only once, and when done it will fade out."
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [object]
-#: ./After_the_Storm/macros/items.cfg:136 ./After_the_Storm/macros/items.cfg:143
+#: ./After_the_Storm/macros/items.cfg:138 ./After_the_Storm/macros/items.cfg:145
 msgid "Crystal Glyph of Health"
 msgstr ""
 
 #. [object]
-#: ./After_the_Storm/macros/items.cfg:145
+#: ./After_the_Storm/macros/items.cfg:147
 msgid "The unit is fully healed, cured and unslowed."
 msgstr ""
 
 #. [then]
-#: ./After_the_Storm/macros/items.cfg:175
+#: ./After_the_Storm/macros/items.cfg:177
 msgid "female^healed"
 msgstr ""
 
 #. [else]
-#: ./After_the_Storm/macros/items.cfg:178
+#: ./After_the_Storm/macros/items.cfg:180
 msgid "healed"
 msgstr ""
 
@@ -17143,19 +17158,19 @@ msgstr ""
 msgid " This unit is able to disrupt its opponent’s zone of control with a powerful attack, only available during offense."
 msgstr ""
 
-#: ./After_the_Storm/macros/storytxt-common.cfg:15
+#: ./After_the_Storm/macros/storytxt-common.cfg:16
 msgid "Warning!"
 msgstr ""
 
-#: ./After_the_Storm/macros/storytxt-common.cfg:20
+#: ./After_the_Storm/macros/storytxt-common.cfg:22
 msgid "Some scenarios of this campaign work significantly different from normal Wesnoth gameplay. It is especially important to pay close attention to the mission objectives and not necessarily try to kill every single enemy, especially on shrouded maps, or in places where enemies seem to respawn continuously."
 msgstr ""
 
-#: ./After_the_Storm/macros/storytxt-common.cfg:23
+#: ./After_the_Storm/macros/storytxt-common.cfg:25
 msgid "Although not strictly required, players are advised to become familiar with the stories, characters, and historical events presented in <i>Descent into Darkness</i>, <i>Under the Burning Suns</i>, and especially <i>Invasion from the Unknown</i> before playing this campaign."
 msgstr ""
 
-#: ./After_the_Storm/macros/storytxt-common.cfg:26
+#: ./After_the_Storm/macros/storytxt-common.cfg:28
 msgid "A game screen resolution of <b>800x600 or greater</b> is recommended. Some sequences make use of floating labels, halos, and standing unit animations, so you might want to make sure these options are enabled under <b>Preferences</b> → <b>Display</b>."
 msgstr ""
 
@@ -17390,6 +17405,16 @@ msgstr ""
 #. [terrain_type]: id=overlay-banner-merthiaal
 #: ./After_the_Storm/terrain-virtual.cfg:140
 msgid "Banner (Merthiaal)"
+msgstr ""
+
+#. [terrain_type]: id=overlay-trash
+#: ./After_the_Storm/terrain-virtual.cfg:150
+msgid "Trash"
+msgstr ""
+
+#. [terrain_type]: id=overlay-bones
+#: ./After_the_Storm/terrain-virtual.cfg:159
+msgid "Remains"
 msgstr ""
 
 #. [terrain_type]: id=wasteland
