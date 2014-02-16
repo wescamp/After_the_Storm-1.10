@@ -2,8 +2,6 @@
 -- General-purpose Lua WML actions.
 ---
 
-local helper = wesnoth.require "lua/helper.lua"
-
 -- helper.round() is not implemented in version 1.10.x.
 if wesnoth.compare_versions(wesnoth.game_config.version, '<', '1.11.0') then
 	function helper.round(number)
@@ -84,11 +82,6 @@ end
 -- Useful to determine in which direction a unit should be facing
 -- (from the source) to look at another unit (at the target).
 --
--- NOTE: This initial implementation only handles southwest and
--- southeast. The C++ code handling these calculations isn't exposed
--- to Lua yet, but direction.lua provides an attempt at translating
--- it.
---
 -- [store_direction]
 --     from_x,from_y= ...
 --     to_x,to_y= ...
@@ -129,13 +122,95 @@ function wesnoth.wml_actions.store_direction(cfg)
 
 	local variable = cfg.variable or "direction"
 
-	-- local facing = loc_relative_direction(b, a) or "sw"
-	-- wesnoth.set_variable(variable, facing)
+	wesnoth.set_variable(variable, hex_facing(a, b))
+end
 
-	if a.x < b.x then
-		wesnoth.set_variable(variable, "se")
-	else
-		wesnoth.set_variable(variable, "sw")
+---
+-- Changes one or more units' facing to follow the specified location, unit,
+-- or direction.
+--
+-- [set_facing]
+--     [filter]
+--         ... SUF ...
+--     [/filter]
+--     [filter_location]
+--         ... SLF ...
+--     [/filter_location]
+-- [/set_facing]
+--
+-- Or:
+--
+-- [set_facing]
+--     [filter]
+--         ... SUF ...
+--     [/filter]
+--     [filter_second]
+--         ... SUF ...
+--     [/filter_second]
+-- [/set_facing]
+--
+-- Or:
+--
+-- [set_facing]
+--     [filter]
+--         ... SUF ...
+--     [/filter]
+--     facing= ... direction ...
+-- [/set_facing]
+---
+function wesnoth.wml_actions.set_facing(cfg)
+	local suf = helper.get_child(cfg, "filter") or
+		helper.wml_error("[set_facing] Missing unit filter")
+
+	local facing = cfg.facing
+	local target_suf = helper.get_child(cfg, "filter_second")
+	local target_slf = helper.get_child(cfg, "filter_location")
+
+	local target_loc, target_u
+
+	if not facing then
+		if target_suf then
+			target_u = wesnoth.get_units(target_suf)[1] or
+				helper.wml_error("[set_facing] Could not match the specified [filter_second] unit")
+		elseif target_slf then
+			target_loc = wesnoth.get_locations(target_slf)[1] or
+				helper.wml_error("[set_facing] Could not match the specified [filter_location] location")
+		end
+	end
+
+	local units = wesnoth.get_units(suf) or
+		helper.wml_error("[set_facing] Could not match any on-map units with [filter]")
+
+	for i, u in ipairs(units) do
+		local new_facing
+
+		if facing then
+			new_facing = facing
+		elseif target_u then
+			new_facing = hex_facing(
+				{ x = u.x, y = u.y },
+				{ x = target_u.x, y = target_u.y }
+			)
+		elseif target_loc then
+			new_facing = hex_facing(
+				{ x = u.x, y = u.y },
+				{ x = target_loc[1], y = target_loc[2] }
+			)
+		else
+			helper.wml_error("[set_facing] Missing facing or [filter_second] or [filter_location]")
+		end
+
+		if new_facing ~= u.facing then
+			u.facing = new_facing
+
+			-- HACK:
+			-- Force Wesnoth to re-read the unit's current facing and update the game
+			-- display accordingly. Against what one would normally expect, calling
+			-- [redraw] does *not* work as an alternative.
+
+			wesnoth.extract_unit(u)
+			wesnoth.put_unit(u)
+		end
 	end
 end
 
@@ -532,16 +607,9 @@ end
 -- Fades out the currently playing music and replaces
 -- it with silence afterwards.
 --
--- NOTE: A possible timing issue in the sound code causes
--- Wesnoth to emit some short (< 100 ms) noise at the end
--- of the sequence when replacing the music playlist. This
--- also normally occurs when quitting a scenario that uses
--- silence.ogg to return to the titlescreen. It's advised
--- to have some ambient noise playing at the same time
--- [fade_out_music] is used. Furthermore, it's not possible
--- to determine at this time whether music is enabled in
--- the first place, so the fade out delay will always occur
--- regardless of the user's preferences.
+-- It is not possible at this time to know whether music is enabled in
+-- the first place, so the fade out delay will always occur regardless
+-- of the user's preferences.
 --
 -- [fade_out_music]
 --     duration= (optional int, defaults to 1000 ms)
@@ -553,6 +621,9 @@ function wesnoth.wml_actions.fade_out_music(cfg)
 	if duration == nil then
 		duration = 1000
 	end
+
+	-- HACK: reserve last 10 milliseconds for the music switch workaround.
+	duration = duration - 10
 
 	local function set_music_volume(percentage)
 		wesnoth.fire("volume", { music = percentage })
@@ -583,7 +654,80 @@ function wesnoth.wml_actions.fade_out_music(cfg)
 		append = false
 	})
 
+	-- HACK: give the new track a chance to start playing silently before
+	--       resetting to full volume.
+	wesnoth.delay(10)
+
 	set_music_volume(100)
+end
+
+local function wml_sfx_volume_fade_internal(duration, is_fade_out)
+	if duration == nil then
+		duration = 1000
+	end
+
+	local delay_granularity = 10
+
+	duration = math.max(delay_granularity, duration)
+	duration = duration - (duration % delay_granularity)
+
+	local steps = duration / delay_granularity
+	--wesnoth.message(string.format("%d steps", steps))
+
+	for k = 1, steps do
+		local v = 0
+
+		if is_fade_out then
+			v = helper.round(100 - (100*k / steps))
+		else
+			v = helper.round(100*k / steps)
+		end
+
+		--wesnoth.message(string.format("step %d, volume %d", k, v))
+
+		wesnoth.fire("volume", { sound = v })
+
+		wesnoth.delay(delay_granularity)
+	end
+end
+
+---
+-- Simulates fading out all playing sound effects for the given interval of
+-- time by gradually decreasing the main sound volume until it reaches zero.
+--
+-- [fade_out_sound]
+--     duration= (optional int, defaults to 1000 ms)
+-- [/fade_out_sound]
+---
+function wesnoth.wml_actions.fade_out_sound_effects(cfg)
+	wml_sfx_volume_fade_internal(cfg.duration, true)
+end
+
+---
+-- Simulates fading in all playing sound effects for the given interval of
+-- time by gradually increasing the main sound volume until it reaches 100%.
+--
+-- [fade_in_sound]
+--     duration= (optional int, defaults to 1000 ms)
+-- [/fade_in_sound]
+---
+function wesnoth.wml_actions.fade_in_sound_effects(cfg)
+	wml_sfx_volume_fade_internal(cfg.duration, false)
+end
+
+---
+-- Sets the sound volume to "zero" (actually 1%, see the implementation of
+-- wml_sfx_volume_fade_internal() for an explanation).
+---
+function wesnoth.wml_actions.mute_sound_effects(cfg)
+	wesnoth.fire("volume", { sound = 1 })
+end
+
+---
+-- Resets the main sound volume back to normal.
+---
+function wesnoth.wml_actions.reset_sound_effects(cfg)
+	wesnoth.fire("volume", { sound = 100 })
 end
 
 ---
@@ -644,5 +788,30 @@ function wesnoth.wml_actions.apply_amlas(cfg)
 
 	for amla_cfg in helper.child_range(cfg, "advance") do
 		wesnoth.add_modification(u, "advance", amla_cfg)
+	end
+end
+
+---
+-- Highlights a given set of target locations at once as a hint for the
+-- player.
+--
+-- [highlight_goal]
+--     ... SLF ...
+--     image=(optional path to the goal overlay)
+-- [/highlight_goal]
+---
+function wesnoth.wml_actions.highlight_goal(cfg)
+	cfg = helper.literal(cfg)
+
+	if cfg.image == nil then
+		cfg.image = "misc/goal-highlight.png"
+	end
+
+	for i = 1, 3 do
+		wesnoth.wml_actions.item(cfg)
+		wesnoth.delay(300)
+		wesnoth.wml_actions.remove_item(cfg)
+		wesnoth.wml_actions.redraw {}
+		wesnoth.delay(300)
 	end
 end

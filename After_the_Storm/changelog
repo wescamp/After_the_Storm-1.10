@@ -2,6 +2,218 @@
 AFTER THE STORM - CHANGELOG
 ===========================
 
+Version 0.9.9:
+--------------
+* General:
+  * Removed Wesnoth development versions warning from the campaign menu entries
+    as support for 1.11.8 and later is now mature.
+  * New complete algorithm for calculating the relative direction between two
+    hex grid locations, handling all six intrinsic facing directions instead
+    of only SW and SE.
+  * Updated Aragwaith faction from Era of Chaos 1.3.1+dev up to commit
+    9dedeba7cddc2a027745c9994a917fdcb78ed341.
+  * Stripped optional whitespace from terrain map and mask files, decreasing
+    uncompressed directory size by about 62%.
+
+* Graphics:
+  * New or updated unit graphics: Blood Core, multiple Aragwaith units, Demon
+    Grunt.
+  * Assigned a more dignified generic portrait to Cron (1.11.x only).
+
+* Music and sound effects:
+  * Mitigated [fade_out_music] causing a portion of the previous track to be
+    heard at full volume at the end of the fade-out sequence. It still won't
+    help in all cases.
+
+* Scenarios:
+  * Fixed additional bugs with hero ellipses on Wesnoth 1.11.6 and later
+    affecting Anya on every scenario and Durvan on scenario E3S7B and later.
+  * Use STARTING_VILLAGES_ALL instead of STARTING_VILLAGES with large numbers
+    to assign all villages to sides.
+  * Skip inclusion of death events for characters that are not present during
+    the first few scenarios of E1.
+  * E1S3 - Civil War in the North:
+    * Minor prose tweaks.
+  * E1S4 - Terror at Dusk:
+    * Balancing changes to make the scenario easier on Wesnoth 1.11.7 and
+      later, possibly connected to the new AI recruitment gold saving aspect
+      introduced in Wesnoth 1.11.7 and enabled by default.
+    * Minor prose tweaks.
+  * E1S5 - Bay of Tirigaz:
+    * Made it so Mal Keshar speaks for bat units when investigating shipwrecks.
+    * Minor map tweaks.
+    * Minor prose tweaks.
+  * E1S6.1 - Quenoth Isle:
+    * Fixed Elynia's ellipse reverting to a generic unit ellipse on 1.11.x
+      during the faerie fire cutscene.
+    * Not-so-minor prose tweaks.
+  * E1S6.2 - Elves of a Different Land:
+    * Not-so-minor prose tweaks.
+    * Extended map for large screens.
+  * E1S7 - The Search for the Past:
+    * Added cave ambience sound sources.
+    * Improved ending cutscene transition.
+    * Minor AI adjustments to make the undead minions recruit correctly on
+      Wesnoth 1.11.7 and later.
+    * Not-so-minor prose tweaks.
+  * E1S7x - Resolutions:
+    * Minor map tweaks.
+    * Not-so-minor prose tweaks.
+  * E1S8 - Fear:
+    * Not-so-minor prose tweaks.
+  * E1S9.1, E1S9.2, E1S9.3 - The Triad:
+    * Added cave ambience sound sources.
+    * Not-so-minor prose tweaks.
+    * Various cutscene improvements and changes.
+  * E1S10 - Tears:
+    * Minor prose tweaks.
+  * E1S11.1 - Return to Wesmere, part 1:
+    * Not-so-minor prose tweaks.
+  * E1S11.2 - Return to Wesmere, part 2:
+    * Added cave ambience sound sources.
+    * Fixed story text not appearing because of a missing macro inclusion
+      (long-standing bug that's existed ever since the scenario was first
+      released).
+    * Minor map tweaks.
+    * Minor prose tweaks.
+  * E1S12 - The Queen:
+    * Added cave ambience sound sources.
+    * Balancing changes.
+    * Excluded time area for the E1S11.2 starting area on Wesnoth 1.11.7 and
+      earlier (including 1.10.x) due to a bug with time area ids not being
+      saved, resulting in a time area with local lighting that interfers with a
+      cutscene sequence after reloading from a non-start-of-scenario save.
+    * Fixed long-standing offset-by-one bug with a terrain mask applied near
+      the end.
+    * Minor map tweaks.
+    * Not-so-minor prose tweaks.
+    * Various cutscene improvements and changes.
+  * E1S13 - Death and Rebirth:
+    * Minor cutscene improvements and changes.
+  * E2S1 - By the Moonlight:
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Not-so-minor prose tweaks.
+    * Now the scenario lives up to its name.
+  * E2S2 - The Heart Forest:
+    * Fixed fog not being cleared correctly when Allyna first appears.
+    * Made it so Allyna introduces herself once three of the five bandits have
+      been killed rather than all of them.
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Minor prose tweaks.
+  * E2S3.1 - Unrest in Raelthyn:
+    * Minor prose tweaks.
+  * E2S3.2 - Revelations:
+    * Minor prose tweaks.
+  * E2S4 - Shifting Allegiances:
+    * Minor prose tweaks.
+  * E2S5 - The Eastern Front:
+    * Minor prose tweaks.
+  * E2S6 - The Voyage Home:
+    * Not-so-minor prose tweaks.
+  * E2S7 - The Voyage Home:
+    * Minor prose tweaks.
+  * E2S8 - And then there was Chaos:
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Not-so-minor prose tweaks.
+  * E2S9 - New Hive:
+    * Added cave ambience sound sources.
+    * Minor prose tweaks.
+  * E2S10 - The Betrayal:
+    * Added cave ambience sound sources.
+    * Minor prose tweaks.
+  * E2S11 - A Final Confrontation:
+    * Added cave ambience sound sources.
+    * Maybe-minor prose tweaks.
+    * Minor cutscene tweaks and improvements.
+  * E2S12 - Fate:
+    * Minor cutscene tweaks and improvements.
+  * E3S0 - Opening (Within):
+    * Added cave ambience sound sources.
+    * Minor cutscene tweaks and improvements.
+  * E3S1 - Beyond her Smile (A Light in the Darkness):
+    * Minor map tweaks.
+    * Various cutscene improvements and changes.
+  * E3S2.1 - Return to Raelthyn:
+    * Minor map tweaks.
+    * Increased initial gold supply for the second human player side.
+  * E3S2.2 - Reckoning:
+    * Minor prose tweaks.
+  * E3S3 - Amidst the Ruins of Glamdrol:
+    * Minor prose tweaks.
+  * E3S4.1 - Outpost of Hell:
+    * Minor prose tweaks.
+  * E3S4.2 - Gateway:
+    * Minor prose tweaks.
+  * E3S5 - Pass of Sorrows:
+    * Minor map tweaks.
+    * Minor prose tweaks.
+    * Minor ending cutscene improvements.
+  * E3S6 - Divergence:
+    * Minor prose tweaks.
+  * E3S7A - Dark Fire:
+    * Prevent crashing Wesnoth 1.11.8 due to a missing initial time of day
+      (part 1 only).
+    * Added cave ambience sound sources.
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Minor map tweaks.
+    * Minor prose tweaks.
+  * E3S7B - Dark Sea:
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Minor prose tweaks.
+  * E3S8A - Interim:
+    * Prevent crashing Wesnoth 1.11.8 due to a missing initial time of day.
+    * Added cave ambience sound sources.
+    * Minor cutscene improvements nobody could possibly notice.
+    * Minor prose tweaks.
+  * E3S8B - Destiny, part 1:
+    * Minor aesthetic changes nobody could possibly notice.
+    * Fixed parts of the map being unintentionally uncovered upon entering
+      Hemérilyel's chamber.
+    * Made Hemérilyel more aggressive towards the player on Wesnoth 1.11.2 and
+      later.
+  * E3S8C - Breakdown:
+    * Added cave ambience sound sources.
+    * Minor AI adjustments for Wesnoth 1.11.7 and later.
+    * Minor prose tweaks.
+  * E3S8D - Destiny, part 2:
+    * Minor prose tweaks.
+  * E3S9 - Dark Depths:
+    * Added cave ambience sound sources.
+    * Minor prose tweaks.
+  * E3S10 - Blood:
+    * Added cave ambience sound sources.
+    * Minor prose tweaks.
+  * E3S11 - After the Storm:
+    * Minor prose tweaks.
+  * E3S12 - Destiny, part 3:
+    * Added cave ambience sound sources.
+    * Minor prose tweaks.
+  * E3S13 - Epilogue:
+    * Minor prose tweaks.
+
+* Units:
+  * Balancing changes:
+    * Imps are now immune to the plague weapon special.
+    * The Protection ability affects own units of any lower level again instead
+      of only level 0 and 1.
+      * Affected units: Demoness Hellbent Tide, Aragwaith Shield Guard,
+        Aragwaith Ancient Banner.
+    * Physical endurance no longer resets statuses (poisoned, slowed, etc.).
+    * Decreased Lumeril Glyph Mistress' arcane damage resistance from -10% to
+      -20%.
+    * Decreased Fallen Faerie's cold ranged attack strength from 11-3 to 10-3.
+  * New or improved unit animations: Verlissh Matrix Core, Shaxthal Custodian
+    Drone, Shaxthal Queen, Verlissh Matrix Flow System, Verlissh Control Spire,
+    multiple Aragwaith units, Dusk Faerie line.
+  * Made it so the Falcon unit type and the lightfly movetype are only defined
+    if the mainline Khalifate faction is not present, by testing the existence
+    of core/units/khalifate/Falcon.cfg.
+  * Fixed a minor inaccuracy at the beginning of the Terror ability
+    description.
+  * The spawn controller code (used e.g. in Shaxthal hives) has been completely
+    rewritten in Lua. No behavior changes expected.
+
+
 Version 0.9.8:
 --------------
 * General:
